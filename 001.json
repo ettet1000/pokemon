@@ -33,7 +33,7 @@
 "growthRate":"중간 느림"},
 "abilities":[{"name":"Overgrow",
 "description":"Powers up 식물-type moves when the Pokémon's HP is low."}],
-"typesEffectiveness":{"노말":"1",
+"typesEffectiveness":{"Normal":"1",
 "Fire":"2",
 "Water":"½",
 "Electric":"½",
