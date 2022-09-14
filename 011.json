@@ -131,10 +131,6 @@
 "move":"철벽",
 "type":"Steel",
 "power":"—",
-"accuracy":"—"}],"egg":[],"tutor":[],"evolution":[{"category":"변화",
-"move":"단단해지기",
-"type":"Normal",
-"power":"—",
-"accuracy":"—"}],
+"accuracy":"—"}],"egg":[],"tutor":[],"evolution":[],
 "preEvolution":[]},
 "generation":"GENERATION_I"}
