@@ -1,6 +1,6 @@
 {
 "number":"005",
-"name":"리자몽",
+"name":"리자드",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/005.png",
 "thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/005.png",
 "sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/005/005_main.png",
@@ -55,13 +55,13 @@
 "thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/004.png",
 "type":"FIRST"},{
 "number":"005",
-"name":"리자몽",
+"name":"리자드",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/005.png",
 "thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/005.png",
 "type":"MIDDLE",
 "requirement":"Level 16"},{
 "number":"006",
-"name":"리자드",
+"name":"리자몽",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/006.png",
 "thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/006.png",
 "type":"LAST",
@@ -72,49 +72,49 @@
 "thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/004.png",
 "type":"FIRST"}],"nextEvolutions":[{
 "number":"006",
-"name":"리자드",
+"name":"리자몽",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/006.png",
 "thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/006.png",
 "type":"LAST",
 "requirement":"Level 36"}],"superEvolutions":[],"baseStats":{"hp":58,"attack":64,"defense":58,"spAtk":80,"spDef":65,"speed":80,"total":405},"cards":[{
 "number":"24",
-"name":"리자몽",
+"name":"리자드",
 "expansionName":"Vivid Voltage",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/005/SWSH4_EN_24.png"},{
 "number":"SV7",
-"name":"리자몽",
+"name":"리자드",
 "expansionName":"Yellow A Alternate",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/005/SMA_EN_SV7.png"},{
 "number":"8",
-"name":"리자몽",
+"name":"리자드",
 "expansionName":"Hidden Fates",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/005/SM115_EN_8.png"},{
 "number":"13",
-"name":"리자몽",
+"name":"리자드",
 "expansionName":"Team Up",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/005/SM9_EN_13.png"},{
 "number":"2",
-"name":"리자몽",
+"name":"리자드",
 "expansionName":"Dragon Majesty",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/005/SM75_EN_2.png"},{
 "number":"19",
-"name":"리자몽",
+"name":"리자드",
 "expansionName":"Burning Shadows",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/005/SM3_EN_19.png"},{
 "number":"10",
-"name":"리자몽",
+"name":"리자드",
 "expansionName":"XY—Evolutions",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/005/XY12_EN_10.png"},{
 "number":"RC4",
-"name":"리자몽",
+"name":"리자드",
 "expansionName":"Generations",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/005/G1_EN_RC4.png"},{
 "number":"18",
-"name":"리자몽",
+"name":"리자드",
 "expansionName":"Black & White—Legendary Treasures",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/005/BW11_EN_18.png"},{
 "number":"19",
-"name":"리자몽",
+"name":"리자드",
 "expansionName":"Black & White—Boundaries Crossed",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/005/BW7_EN_19.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/005.mp3",
 "moves":{"levelUp":[{"level":1,
