@@ -437,6 +437,12 @@
 "move":"날개치기",
 "type":"Flying",
 "power":"60",
-"accuracy":"100"}],"tutor":[],"evolution":[],
+"accuracy":"100"}],"tutor":[
+    {"category":"특수",
+    "move":"불꽃의맹세",
+    "type":"Fire",
+    "power":"80",
+    "accuracy":"100"}    
+    ],"evolution":[],
 "preEvolution":[]},
 "generation":"GENERATION_I"}
