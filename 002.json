@@ -431,7 +431,13 @@
 "move":"그래스슬라이더",
 "type":"Grass",
 "power":"70",
-"accuracy":"100"}],
+"accuracy":"100"},
+{"category":"특수",
+"move":"풀의맹세",
+"type":"Grass",
+"power":"80",
+"accuracy":"100"}
+],
 "evolution":[],
 "preEvolution":[]},
 "generation":"GENERATION_I"}
