@@ -128,6 +128,12 @@
 "move":"실뿜기",
 "type":"Bug",
 "power":"—",
-"accuracy":"95"}],"technicalMachine":[],"technicalRecords":[],"egg":[],"tutor":[],"evolution":[],
+"accuracy":"95"},
+{"level":9,"category":"물리",
+"move":"벌레먹음",
+"type":"Bug",
+"power":"60",
+"accuracy":"100"}
+],"technicalMachine":[],"technicalRecords":[],"egg":[],"tutor":[],"evolution":[],
 "preEvolution":[]},
 "generation":"GENERATION_I"}
