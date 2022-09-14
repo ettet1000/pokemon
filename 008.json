@@ -428,7 +428,7 @@
 "power":"—",
 "accuracy":"—"},
 {"category":"특수",
-"move":"Water Spout",
+"move":"해수스파우팅",
 "type":"Water",
 "power":"150",
 "accuracy":"100"},
@@ -441,7 +441,13 @@
 "move":"퀵턴",
 "type":"Water",
 "power":"60",
-"accuracy":"100"}],
+"accuracy":"100"},
+{"category":"특수",
+"move":"물의맹세",
+"type":"Water",
+"power":"80",
+"accuracy":"100"}
+],
 "evolution":[],
 "preEvolution":[]},
 "generation":"GENERATION_I"}
