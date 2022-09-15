@@ -242,159 +242,161 @@
         "power": "120",
         "accuracy": "90"
     }
-],"technicalRecords":[
-    {
-        "technicalMachine": 11,
-        "move": "쾌청",
-        "type": "Fire",
-        "category": "변화",
-        "power": "—",
-        "accuracy": "—"
-    },
-    {
-        "technicalMachine": 17,
-        "move": "방어",
-        "type": "Normal",
-        "category": "변화",
-        "power": "—",
-        "accuracy": "—"
-    },
-    {
-        "technicalMachine": 18,
-        "move": "비바라기",
-        "type": "Water",
-        "category": "변화",
-        "power": "—",
-        "accuracy": "—"
-    },
-    {
-        "technicalMachine": 19,
-        "move": "기가드레인",
-        "type": "Grass",
-        "category": "특수",
-        "power": "75",
-        "accuracy": "100"
-    },
-    {
-        "technicalMachine": 23,
-        "move": "아이언테일",
-        "type": "Steel",
-        "category": "물리",
-        "power": "100",
-        "accuracy": "75"
-    },
-    {
-        "technicalMachine": 26,
-        "move": "지진",
-        "type": "Ground",
-        "category": "물리",
-        "power": "100",
-        "accuracy": "100"
-    },
-    {
-        "technicalMachine": 28,
-        "move": "구멍파기",
-        "type": "Ground",
-        "category": "물리",
-        "power": "80",
-        "accuracy": "100"
-    },
-    {
-        "technicalMachine": 32,
-        "move": "그림자분신",
-        "type": "Normal",
-        "category": "변화",
-        "power": "—",
-        "accuracy": "—"
-    },
-    {
-        "technicalMachine": 36,
-        "move": "오물폭탄",
-        "type": "Poison",
-        "category": "특수",
-        "power": "90",
-        "accuracy": "100"
-    },
-    {
-        "technicalMachine": 39,
-        "move": "암석봉인",
-        "type": "Rock",
-        "category": "물리",
-        "power": "60",
-        "accuracy": "95"
-    },
-    {
-        "technicalMachine": 41,
-        "move": "트집",
-        "type": "Dark",
-        "category": "변화",
-        "power": "—",
-        "accuracy": "100"
-    },
-    {
-        "technicalMachine": 42,
-        "move": "객기",
-        "type": "Normal",
-        "category": "물리",
-        "power": "70",
-        "accuracy": "100"
-    },
-    {
-        "technicalMachine": 44,
-        "move": "잠자기",
-        "type": "Psychic",
-        "category": "변화",
-        "power": "—",
-        "accuracy": "—"
-    },
-    {
-        "technicalMachine": 45,
-        "move": "헤롱헤롱",
-        "type": "Normal",
-        "category": "변화",
-        "power": "—",
-        "accuracy": "100"
-    },
-    {
-        "technicalMachine": 46,
-        "move": "도둑질",
-        "type": "Dark",
-        "category": "물리",
-        "power": "60",
-        "accuracy": "100"
-    },
-    {
-        "technicalMachine": 58,
-        "move": "버티기",
-        "type": "Normal",
-        "category": "변화",
-        "power": "—",
-        "accuracy": "—"
-    },
-    {
-        "technicalMachine": 66,
-        "move": "보복",
-        "type": "Dark",
-        "category": "물리",
-        "power": "50",
-        "accuracy": "100"
-    },
-    {
-        "technicalMachine": 79,
-        "move": "악의파동",
-        "type": "Dark",
-        "category": "특수",
-        "power": "80",
-        "accuracy": "100"
-    },
-    {
-        "technicalMachine": 80,
-        "move": "스톤샤워",
-        "type": "Rock",
-        "category": "물리",
-        "power": "75",
-        "accuracy": "90"
-    }
-],"egg":[],"tutor":[],"evolution":[],
+],
+"technicalMachine":[
+{
+    "technicalMachine": 11,
+    "move": "쾌청",
+    "type": "Fire",
+    "category": "변화",
+    "power": "—",
+    "accuracy": "—"
+},
+{
+    "technicalMachine": 17,
+    "move": "방어",
+    "type": "Normal",
+    "category": "변화",
+    "power": "—",
+    "accuracy": "—"
+},
+{
+    "technicalMachine": 18,
+    "move": "비바라기",
+    "type": "Water",
+    "category": "변화",
+    "power": "—",
+    "accuracy": "—"
+},
+{
+    "technicalMachine": 19,
+    "move": "기가드레인",
+    "type": "Grass",
+    "category": "특수",
+    "power": "75",
+    "accuracy": "100"
+},
+{
+    "technicalMachine": 23,
+    "move": "아이언테일",
+    "type": "Steel",
+    "category": "물리",
+    "power": "100",
+    "accuracy": "75"
+},
+{
+    "technicalMachine": 26,
+    "move": "지진",
+    "type": "Ground",
+    "category": "물리",
+    "power": "100",
+    "accuracy": "100"
+},
+{
+    "technicalMachine": 28,
+    "move": "구멍파기",
+    "type": "Ground",
+    "category": "물리",
+    "power": "80",
+    "accuracy": "100"
+},
+{
+    "technicalMachine": 32,
+    "move": "그림자분신",
+    "type": "Normal",
+    "category": "변화",
+    "power": "—",
+    "accuracy": "—"
+},
+{
+    "technicalMachine": 36,
+    "move": "오물폭탄",
+    "type": "Poison",
+    "category": "특수",
+    "power": "90",
+    "accuracy": "100"
+},
+{
+    "technicalMachine": 39,
+    "move": "암석봉인",
+    "type": "Rock",
+    "category": "물리",
+    "power": "60",
+    "accuracy": "95"
+},
+{
+    "technicalMachine": 41,
+    "move": "트집",
+    "type": "Dark",
+    "category": "변화",
+    "power": "—",
+    "accuracy": "100"
+},
+{
+    "technicalMachine": 42,
+    "move": "객기",
+    "type": "Normal",
+    "category": "물리",
+    "power": "70",
+    "accuracy": "100"
+},
+{
+    "technicalMachine": 44,
+    "move": "잠자기",
+    "type": "Psychic",
+    "category": "변화",
+    "power": "—",
+    "accuracy": "—"
+},
+{
+    "technicalMachine": 45,
+    "move": "헤롱헤롱",
+    "type": "Normal",
+    "category": "변화",
+    "power": "—",
+    "accuracy": "100"
+},
+{
+    "technicalMachine": 46,
+    "move": "도둑질",
+    "type": "Dark",
+    "category": "물리",
+    "power": "60",
+    "accuracy": "100"
+},
+{
+    "technicalMachine": 58,
+    "move": "버티기",
+    "type": "Normal",
+    "category": "변화",
+    "power": "—",
+    "accuracy": "—"
+},
+{
+    "technicalMachine": 66,
+    "move": "보복",
+    "type": "Dark",
+    "category": "물리",
+    "power": "50",
+    "accuracy": "100"
+},
+{
+    "technicalMachine": 79,
+    "move": "악의파동",
+    "type": "Dark",
+    "category": "특수",
+    "power": "80",
+    "accuracy": "100"
+},
+{
+    "technicalMachine": 80,
+    "move": "스톤샤워",
+    "type": "Rock",
+    "category": "물리",
+    "power": "75",
+    "accuracy": "90"
+}
+],
+"technicalRecords":[],"egg":[],"tutor":[],"evolution":[],
 "preEvolution":[]},
 "generation":"GENERATION_I"}
