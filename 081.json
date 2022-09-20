@@ -1,5 +1,5 @@
 {"number":"081","name":"코일","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/081.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/081.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/081/081_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/081/081_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/081/081_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/081/081_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/081/081_back_shiny_animated.gif"},"types":["Electric","Steel"],"weaknesses":["Fire","Fighting","Ground"],
-"descriptions":["그것은 전기로 생존합니다. 코일은 날아가면서 몸의 양쪽에 있는 유닛에서 전자파를 방출한다.","가끔 코일은 전기가 다 떨어져 땅에 떨어지기도 합니다. 접지된 코일에게 배터리를 주면 다시 움직이기 시작합니다."],
+"descriptions":["그것은 전기로 생존합니다. 코일은 날아가면서 몸의 양쪽에 있는 유닛에서 전자파를 방출합니다.","가끔 코일은 전기가 다 떨어져 땅에 떨어지기도 합니다. 접지된 코일에게 배터리를 주면 다시 움직이기 시작합니다."],
 "specie":"자석","height":"6.0 kg (13.2 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["광물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"UNKNOWN"}]},
 "training":{"evYield":"1 특수공격","catchRate":"190 (24.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"65",
