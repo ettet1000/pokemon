@@ -54,13 +54,14 @@
 "thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/023.png",
 "type":"FIRST"},{
 "number":"024",
-"name":"Arbok",
+"name":"아보크",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/024.png",
 "thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/024.png",
 "type":"LAST",
-"requirement":"Level 22"}],"previousEvolutions":[],"nextEvolutions":[{
+"requirement":"Level 22"}],"previousEvolutions":[],
+"nextEvolutions":[{
 "number":"024",
-"name":"Arbok",
+"name":"아보크",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/024.png",
 "thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/024.png",
 "type":"LAST",
@@ -104,7 +105,8 @@
 "number":"66",
 "name":"아보",
 "expansionName":"Diamond & Pearl—Great Encounters",
-"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/023/DP4_EN_66.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/023.mp3",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/023/DP4_EN_66.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/023.mp3",
 "moves":{"levelUp":[
     {
         "level": 1,
