@@ -1,4 +1,4 @@
-{"number":"762","name":"Steenee","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/762.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/762.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/762/762_main.png"},"types":["식물"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
+{"number":"762","name":"Steenee","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/762.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/762.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/762/762_main.png"},"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
 "descriptions":["Any Corvisquire that pecks at this Pokémon will be greeted with a smack from its sepals followed by a sharp kick.","As it twirls like a dancer, a sweet smell spreads out around it. Anyone who inhales the scent will feel a surge of happiness."],
 "specie":"Fruit","height":"8.2 kg (18.1 lbs)","weight":"0.7 m (2′04″)","breeding":{
 "egg":{"groups":["식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"FEMALE","percentage":"100%"}]},

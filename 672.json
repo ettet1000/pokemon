@@ -1,4 +1,4 @@
-{"number":"672","name":"Skiddo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/672.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/672.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/672/672_main.png"},"types":["식물"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
+{"number":"672","name":"Skiddo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/672.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/672.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/672/672_main.png"},"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
 "descriptions":["If it has sunshine and water, it doesn’t need to eat, because it can generate energy from the leaves on its back.","Thought to be one of the first Pokémon to live in harmony with humans, it has a placid disposition."],
 "specie":"Mount","height":"31.0 kg (68.3 lbs)","weight":"0.9 m (2′11″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

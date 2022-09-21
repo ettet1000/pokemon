@@ -1,4 +1,4 @@
-{"number":"761","name":"Bounsweet","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/761.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/761.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/761/761_main.png"},"types":["식물"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
+{"number":"761","name":"Bounsweet","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/761.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/761.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/761/761_main.png"},"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
 "descriptions":["When under attack, it secretes a sweet and delicious sweat. The scent only calls more enemies to it.","Its body gives off a sweet, fruity scent that is extremely appetizing to bird Pokémon."],
 "specie":"Fruit","height":"3.2 kg (7.1 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"FEMALE","percentage":"100%"}]},

@@ -1,4 +1,4 @@
-{"number":"763","name":"Tsareena","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/763.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/763.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/763/763_main.png"},"types":["식물"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
+{"number":"763","name":"Tsareena","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/763.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/763.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/763/763_main.png"},"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
 "descriptions":["A kick from the hardened tips of this Pokémon’s legs leaves a wound in the opponent’s body and soul that will never heal.","This feared Pokémon has long, slender legs and a cruel heart. It shows no mercy as it stomps on its opponents."],
 "specie":"Fruit","height":"21.4 kg (47.2 lbs)","weight":"1.2 m (3′11″)","breeding":{
 "egg":{"groups":["식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"FEMALE","percentage":"100%"}]},
