@@ -1,5 +1,5 @@
 {"number":"790","name":"Cosmoem","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/790.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/790.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/790/790_main.png"},"types":["Psychic"],"weaknesses":["Ghost","Dark","Bug"],
-"descriptions":["As it absorbs light, Cosmoem continues to grow. Its golden shell is surprisingly solid.","The king who ruled Alola in times of antiquity called it the “cocoon of the stars” and built an altar to worship it."],
+"descriptions":["As it absorbs light, Cosmoem continues to grow. Its golden shell is surprisingly solid.","The king who ruled Alola in times of antiquity called it the cocoon of the stars and built an altar to worship it."],
 "specie":"Protostar","height":"999.9 kg (2204.4 lbs)","weight":"0.1 m (0′04″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},
 "training":{"evYield":"1 방어, 1 특수방어","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"0 (보통보다 낮음)","baseExp":"140",
