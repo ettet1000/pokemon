@@ -1,4 +1,4 @@
-{"number":"882","name":"Dracovish","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/882.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/882.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/882/882_main.png"},"types":["Water","Dragon"],"weaknesses":["Fairy","Dragon"],
+{"number":"882","name":"Dracovish","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/882.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/882.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/882/882_main.png"},"types":["Water","드래곤"],"weaknesses":["Fairy","드래곤"],
 "descriptions":["Its mighty legs are capable of running at speeds exceeding 40 mph, but this Pokémon can’t breathe unless it’s underwater.","Powerful legs and jaws made it the apex predator of its time. Its own overhunting of its prey was what drove it to extinction."],
 "specie":"Fossil","height":"215.0 kg (474.0 lbs)","weight":"2.3 m (7′07″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"35 (8,739–8,995 걸음)"},"genders":[{"type":"UNKNOWN"}]},

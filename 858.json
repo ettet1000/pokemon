@@ -1,4 +1,4 @@
-{"number":"858","name":"Hatterene","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/858.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/858.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/858/858_main.png"},"types":["Psychic","Fairy"],"weaknesses":["Ghost","Steel","Poison"],
+{"number":"858","name":"Hatterene","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/858.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/858.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/858/858_main.png"},"types":["Psychic","요정"],"weaknesses":["Ghost","Steel","Poison"],
 "descriptions":["If you’re too loud around it, you risk being torn apart by the claws on its tentacle. This Pokémon is also known as the Forest Witch.","It emits psychic power strong enough to cause headaches as a deterrent to the approach of others."],
 "specie":"Silent","height":"5.0 kg (11.0 lbs)","weight":"2.1 m (6′11″)","breeding":{
 "egg":{"groups":["요정"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"FEMALE","percentage":"100%"}]},
