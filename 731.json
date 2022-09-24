@@ -1,4 +1,4 @@
-{"number":"731","name":"Pikipek","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/731.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/731.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/731/731_main.png"},"types":["Normal","Flying"],"weaknesses":["Electric","Ice","Rock"],
+{"number":"731","name":"Pikipek","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/731.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/731.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/731/731_main.png"},"types":["Normal","비행"],"weaknesses":["Electric","Ice","Rock"],
 "descriptions":["It may look spindly, but its neck muscles are heavy-duty. It can peck at a tree 16 times per second!","It pecks at trees with its hard beak. You can get some idea of its mood or condition from the rhythm of its pecking."],
 "specie":"Woodpecker","height":"1.2 kg (2.6 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["비행"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

@@ -1,4 +1,4 @@
-{"number":"732","name":"Trumbeak","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/732.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/732.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/732/732_main.png"},"types":["Normal","Flying"],"weaknesses":["Electric","Ice","Rock"],
+{"number":"732","name":"Trumbeak","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/732.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/732.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/732/732_main.png"},"types":["Normal","비행"],"weaknesses":["Electric","Ice","Rock"],
 "descriptions":["From its mouth, it fires the seeds of berries it has eaten. The scattered seeds give rise to new plants.","It can bend the tip of its beak to produce over a hundred different cries at will."],
 "specie":"Bugle Beak","height":"14.8 kg (32.6 lbs)","weight":"0.6 m (2′00″)","breeding":{
 "egg":{"groups":["비행"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

@@ -1,4 +1,4 @@
-{"number":"719","name":"Diancie","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/719.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/719.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/719/719_main.png"},"types":["Rock","Fairy"],"weaknesses":["Steel","Water","Grass","Ground"],
+{"number":"719","name":"Diancie","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/719.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/719.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/719/719_main.png"},"types":["Rock","요정"],"weaknesses":["Steel","Water","Grass","Ground"],
 "descriptions":["It can instantly create many diamonds by compressing the carbon in the air between its hands.","A sudden transformation of Carbink, its pink, glimmering body is said to be the loveliest sight in the whole world."],
 "specie":"Jewel","height":"8.8 kg (19.4 lbs)","weight":"0.7 m (2′04″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"25 (6,169–6,425 걸음)"},"genders":[{"type":"MALE","percentage":""},{"type":"FEMALE","percentage":""}]},

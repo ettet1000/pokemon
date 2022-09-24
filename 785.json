@@ -1,4 +1,4 @@
-{"number":"785","name":"Tapu Koko","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/785.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/785.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/785/785_main.png"},"types":["Electric","Fairy"],"weaknesses":["Poison","Ground"],
+{"number":"785","name":"Tapu Koko","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/785.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/785.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/785/785_main.png"},"types":["Electric","요정"],"weaknesses":["Poison","Ground"],
 "descriptions":["The lightning-wielding guardian deity of Melemele, Tapu Koko is brimming with curiosity and appears before people from time to time.","Although it’s called a guardian deity, if a person or Pokémon puts it in a bad mood, it will become a malevolent deity and attack."],
 "specie":"Land Spirit","height":"20.5 kg (45.2 lbs)","weight":"1.8 m (5′11″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"UNKNOWN"}]},
