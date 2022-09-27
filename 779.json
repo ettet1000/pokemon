@@ -1,5 +1,5 @@
 {"number":"779","name":"Bruxish","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/779.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/779.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/779/779_main.png"},"types":["Water","Psychic"],"weaknesses":["Ghost","Dark","Grass","Electric","Bug"],
-"descriptions":["Its skin is thick enough to fend off Mareanie’s spikes. With its robust teeth, Bruxish crunches up the spikes and eats them.","It burrows beneath the sand, radiating psychic power from the protuberance on its head. It waits for prey as it surveys the area."],
+"descriptions":["Its skin is thick enough to fend off 시마사리’s spikes. With its robust teeth, Bruxish crunches up the spikes and eats them.","It burrows beneath the sand, radiating psychic power from the protuberance on its head. It waits for prey as it surveys the area."],
 "specie":"Gnash Teeth","height":"19.0 kg (41.9 lbs)","weight":"0.9 m (2′11″)","breeding":{
 "egg":{"groups":["수중2"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 공격","catchRate":"80 (10.5% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"166",
