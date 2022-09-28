@@ -38,7 +38,7 @@
 ,{"technicalMachine":55,"category":"특수","move":"Brine","type":"Water","power":"65","accuracy":"100"}
 ,{"technicalMachine":64,"category":"물리","move":"Avalanche","type":"Ice","power":"60","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":81,"category":"물리","move":"Bulldoze","type":"Ground","power":"60","accuracy":"100"}
+,{"technicalMachine":81,"category":"물리","move":"땅고르기","type":"Ground","power":"60","accuracy":"100"}
 ,{"technicalMachine":96,"category":"물리","move":"Smart Strike","type":"Steel","power":"70","accuracy":"—"}],"technicalRecords":[
 {"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
 {"technicalRecord":3,"category":"특수","move":"Hydro Pump","type":"Water","power":"110","accuracy":"80"},
@@ -61,7 +61,7 @@
 {"technicalRecord":62,"category":"특수","move":"Dragon Pulse","type":"Dragon","power":"85","accuracy":"100"},
 {"technicalRecord":69,"category":"물리","move":"Zen Headbutt","type":"Psychic","power":"80","accuracy":"90"},
 {"technicalRecord":74,"category":"물리","move":"Iron Head","type":"Steel","power":"80","accuracy":"100"},
-{"technicalRecord":87,"category":"물리","move":"Drill Run","type":"Ground","power":"80","accuracy":"95"},
+{"technicalRecord":87,"category":"물리","move":"드릴라이너","type":"Ground","power":"80","accuracy":"95"},
 {"technicalRecord":98,"category":"물리","move":"Liquidation","type":"Water","power":"85","accuracy":"100"},
 {"technicalRecord":99,"category":"물리","move":"Body Press","type":"Fighting","power":"80","accuracy":"100"}]
 ,"egg":[{"category":"특수","move":"Ancient Power","type":"Rock","power":"60","accuracy":"100"}

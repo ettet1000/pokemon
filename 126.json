@@ -21,7 +21,7 @@
 ,{"level":34,"category":"특수","move":"Lava Plume","type":"Fire","power":"80","accuracy":"100"}
 ,{"level":40,"category":"물리","move":"Low Kick","type":"Fighting","power":"—","accuracy":"100"}
 ,{"level":46,"category":"특수","move":"Flamethrower","type":"Fire","power":"90","accuracy":"100"}
-,{"level":52,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"level":52,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"level":58,"category":"특수","move":"Fire Blast","type":"Fire","power":"110","accuracy":"85"}
 ,{"level":64,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}]
 ,"technicalMachine":[{"technicalMachine":0,"category":"물리","move":"메가톤펀치","type":"Normal","power":"80","accuracy":"85"}
@@ -38,7 +38,7 @@
 ,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":26,"category":"변화","move":"Scary Face","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":38,"category":"변화","move":"Will-O-Wisp","type":"Fire","power":"—","accuracy":"85"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}

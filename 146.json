@@ -15,7 +15,7 @@
 ,{"level":35,"category":"특수","move":"Air Slash","type":"Flying","power":"75","accuracy":"95"}
 ,{"level":40,"category":"변화","move":"Roost","type":"Flying","power":"—","accuracy":"—"}
 ,{"level":45,"category":"특수","move":"Heat Wave","type":"Fire","power":"95","accuracy":"90"}
-,{"level":50,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"level":50,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"level":55,"category":"특수","move":"Hurricane","type":"Flying","power":"110","accuracy":"70"}
 ,{"level":60,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":65,"category":"특수","move":"Burn Up","type":"Fire","power":"130","accuracy":"100"}
@@ -30,9 +30,9 @@
 ,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
 ,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":30,"category":"물리","move":"Steel Wing","type":"Steel","power":"70","accuracy":"90"}
-,{"technicalMachine":32,"category":"변화","move":"Sandstorm","type":"Rock","power":"—","accuracy":"—"}
+,{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":38,"category":"변화","move":"Will-O-Wisp","type":"Fire","power":"—","accuracy":"85"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}

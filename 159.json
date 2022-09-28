@@ -8,7 +8,7 @@
 "requirement":"Level 30"}],"previousEvolutions":[{"number":"158","name":"리아코","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/158.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/158.png","type":"FIRST"}],"nextEvolutions":[{"number":"160","name":"장크로다일","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/160.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/160.png","type":"LAST",
 "requirement":"Level 30"}],"superEvolutions":[],"baseStats":{"hp":65,"attack":80,"defense":80,"spAtk":59,"spDef":63,"speed":58,"total":405},"cards":[{"number":"23","name":"엘리게이","expansionName":"Dragon Majesty","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/159/SM75_EN_23.png"},{"number":"19","name":"엘리게이","expansionName":"Shining Legends","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/159/SM35_EN_19.png"},{"number":"16","name":"엘리게이","expansionName":"XY—Phantom Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/159/XY4_EN_16.png"},{"number":"41","name":"엘리게이","expansionName":"Call of Legends","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/159/COL1_EN_41.png"},{"number":"38","name":"엘리게이","expansionName":"HeartGold & SoulSilver","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/159/HGSS1_EN_38.png"},{"number":"38","name":"엘리게이","expansionName":"EX Unseen Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/159/EX10_EN_38.png"},{"number":"27","name":"엘리게이 δ","expansionName":"EX Dragon Frontiers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/159/EX15_EN_27.png"},{"number":"44","name":"엘리게이","expansionName":"Diamond & Pearl—Mysterious Treasures","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/159/DP2_EN_44.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/159.mp3","moves":{
 "levelUp":[{"level":1,"category":"변화","move":"Leer","type":"Normal","power":"—","accuracy":"100"}
-,{"level":1,"category":"물리","move":"Scratch","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"물리","move":"할퀴기","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":1,"category":"특수","move":"Water Gun","type":"Water","power":"40","accuracy":"100"}
 ,{"level":6,"category":"특수","move":"Water Gun","type":"Water","power":"40","accuracy":"100"}
 ,{"level":8,"category":"물리","move":"Rage","type":"Normal","power":"20","accuracy":"100"}
@@ -18,13 +18,13 @@
 ,{"level":24,"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":30,"category":"물리","move":"Crunch","type":"Dark","power":"80","accuracy":"100"}
 ,{"level":33,"category":"물리","move":"Chip Away","type":"Normal","power":"70","accuracy":"100"}
-,{"level":39,"category":"물리","move":"Slash","type":"Normal","power":"70","accuracy":"100"}
+,{"level":39,"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}
 ,{"level":42,"category":"변화","move":"Screech","type":"Normal","power":"—","accuracy":"85"}
 ,{"level":48,"category":"물리","move":"Thrash","type":"Normal","power":"120","accuracy":"100"}
 ,{"level":51,"category":"물리","move":"Aqua Tail","type":"Water","power":"90","accuracy":"90"}
 ,{"level":57,"category":"물리","move":"Superpower","type":"Fighting","power":"120","accuracy":"100"}
 ,{"level":60,"category":"특수","move":"Hydro Pump","type":"Water","power":"110","accuracy":"80"}]
-,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"}
+,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":2,"category":"물리","move":"Dragon Claw","type":"Dragon","power":"80","accuracy":"100"}
 ,{"technicalMachine":5,"category":"변화","move":"Roar","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":6,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
@@ -38,7 +38,7 @@
 ,{"technicalMachine":27,"category":"물리","move":"Return","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":31,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
 ,{"technicalMachine":32,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
-,{"technicalMachine":39,"category":"물리","move":"Rock Tomb","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":39,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
 ,{"technicalMachine":40,"category":"물리","move":"Aerial Ace","type":"Flying","power":"60","accuracy":"∞"}
 ,{"technicalMachine":42,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":44,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
@@ -46,9 +46,9 @@
 ,{"technicalMachine":48,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
 ,{"technicalMachine":55,"category":"특수","move":"Scald","type":"Water","power":"80","accuracy":"100"}
 ,{"technicalMachine":56,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
-,{"technicalMachine":65,"category":"물리","move":"Shadow Claw","type":"Ghost","power":"70","accuracy":"100"}
-,{"technicalMachine":75,"category":"변화","move":"Swords Dance","type":"Normal","power":"—","accuracy":"—"}
-,{"technicalMachine":80,"category":"물리","move":"Rock Slide","type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":65,"category":"물리","move":"섀도크루","type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":75,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":80,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
 ,{"technicalMachine":87,"category":"변화","move":"Swagger","type":"Normal","power":"—","accuracy":"85"}
 ,{"technicalMachine":88,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":90,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
@@ -64,7 +64,7 @@
 ,{"category":"변화","move":"Flatter","type":"Dark","power":"—","accuracy":"100"}
 ,{"category":"특수","move":"Hydro Pump","type":"Water","power":"110","accuracy":"80"}
 ,{"category":"물리","move":"Ice Punch","type":"Ice","power":"75","accuracy":"100"}
-,{"category":"물리","move":"Metal Claw","type":"Steel","power":"50","accuracy":"95"}
+,{"category":"물리","move":"메탈크로우","type":"Steel","power":"50","accuracy":"95"}
 ,{"category":"변화","move":"Mud Sport","type":"Ground","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"Thrash","type":"Normal","power":"120","accuracy":"100"}
 ,{"category":"특수","move":"Water Pulse","type":"Water","power":"60","accuracy":"100"}

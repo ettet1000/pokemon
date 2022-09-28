@@ -18,7 +18,7 @@
 ,{"level":1,"category":"변화","move":"꼬리흔들기","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":1,"category":"물리","move":"Take Down","type":"Normal","power":"90","accuracy":"85"}
 ,{"level":1,"category":"특수","move":"Water Gun","type":"Water","power":"40","accuracy":"100"}
-,{"level":5,"category":"변화","move":"Sand Attack","type":"Ground","power":"—","accuracy":"100"}
+,{"level":5,"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"}
 ,{"level":10,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":15,"category":"변화","move":"Baby-Doll Eyes","type":"Fairy","power":"—","accuracy":"100"}
 ,{"level":20,"category":"변화","move":"Haze","type":"Ice","power":"—","accuracy":"—"}
@@ -40,7 +40,7 @@
 ,{"technicalMachine":29,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":35,"category":"변화","move":"Hail","type":"Ice","power":"—","accuracy":"—"}
 ,{"technicalMachine":36,"category":"특수","move":"Whirlpool","type":"Water","power":"35","accuracy":"85"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
@@ -69,13 +69,13 @@
 {"technicalRecord":45,"category":"특수","move":"Muddy Water","type":"Water","power":"90","accuracy":"85"},
 {"technicalRecord":82,"category":"특수","move":"Stored Power","type":"Psychic","power":"20","accuracy":"100"},
 {"technicalRecord":84,"category":"특수","move":"Scald","type":"Water","power":"80","accuracy":"100"},
-{"technicalRecord":85,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":85,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":98,"category":"물리","move":"Liquidation","type":"Water","power":"85","accuracy":"100"}]
 ,"egg":[{"category":"변화","move":"Curse","type":"Ghost","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"Detect","type":"Fighting","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"Double Kick","type":"Fighting","power":"30","accuracy":"100"}
 ,{"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"}
-,{"category":"특수","move":"Mud-Slap","type":"Ground","power":"20","accuracy":"100"}
+,{"category":"특수","move":"진흙뿌리기","type":"Ground","power":"20","accuracy":"100"}
 ,{"category":"변화","move":"간지르기","type":"Normal","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"희망사항","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"Yawn","type":"Normal","power":"—","accuracy":"—"}]

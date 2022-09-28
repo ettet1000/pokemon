@@ -32,7 +32,7 @@
 ,{"level":60,"category":"변화","move":"Memento","type":"Dark","power":"—","accuracy":"100"}]
 ,"technicalMachine":[{"technicalMachine":6,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
 ,{"technicalMachine":10,"category":"특수","move":"Hidden Power","type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":11,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":11,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":21,"category":"물리","move":"Frustration","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":22,"category":"특수","move":"Solar Beam","type":"Grass","power":"120","accuracy":"100"}
@@ -46,7 +46,7 @@
 ,{"technicalMachine":48,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
 ,{"technicalMachine":53,"category":"특수","move":"Energy Ball","type":"Grass","power":"90","accuracy":"100"}
 ,{"technicalMachine":62,"category":"물리","move":"A크로뱃ics","type":"Flying","power":"55","accuracy":"100"}
-,{"technicalMachine":75,"category":"변화","move":"Swords Dance","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":75,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":77,"category":"변화","move":"Psych Up","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":83,"category":"특수","move":"Infestation","type":"Bug","power":"20","accuracy":"100"}
 ,{"technicalMachine":86,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"}
@@ -56,7 +56,7 @@
 ,{"technicalMachine":90,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":99,"category":"특수","move":"Dazzling Gleam","type":"Fairy","power":"80","accuracy":"100"}
 ,{"technicalMachine":100,"category":"변화","move":"Confide","type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[]
-,"egg":[{"category":"변화","move":"Amnesia","type":"Psychic","power":"—","accuracy":"—"}
+,"egg":[{"category":"변화","move":"망각술","type":"Psychic","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"Aromatherapy","type":"Grass","power":"—","accuracy":"—"}
 ,{"category":"특수","move":"Confusion","type":"Psychic","power":"50","accuracy":"100"}
 ,{"category":"변화","move":"Cotton Guard","type":"Grass","power":"—","accuracy":"—"}

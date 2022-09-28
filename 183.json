@@ -8,9 +8,9 @@
 "requirement":"Level 18"}],"previousEvolutions":[{"number":"298","name":"루리리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/298.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/298.png","type":"FIRST"}],"nextEvolutions":[{"number":"184","name":"마릴리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/184.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/184.png","type":"LAST",
 "requirement":"Level 18"}],"superEvolutions":[],"baseStats":{"hp":70,"attack":20,"defense":50,"spAtk":20,"spDef":50,"speed":40,"total":250},"cards":[{"number":"135","name":"마릴","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/183/SM8_EN_135.png"},{"number":"34","name":"마릴","expansionName":"Burning Shadows","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/183/SM3_EN_34.png"},{"number":"76","name":"마릴","expansionName":"XY—Steam Siege","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/183/XY11_EN_76.png"},{"number":"102","name":"마릴","expansionName":"XY—Primal Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/183/XY5_EN_102.png"},{"number":"36","name":"마릴","expansionName":"Black & White—Boundaries Crossed","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/183/BW7_EN_36.png"},{"number":"74","name":"마릴","expansionName":"HeartGold & SoulSilver","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/183/HGSS1_EN_74.png"},{"number":"68","name":"마릴","expansionName":"EX Sandstorm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/183/EX2_EN_68.png"},{"number":"68","name":"마릴","expansionName":"EX Team Rocket Returns","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/183/EX7_EN_68.png"},{"number":"76","name":"마릴","expansionName":"EX Delta Species","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/183/EX11_EN_76.png"},{"number":"88","name":"마릴","expansionName":"Diamond & Pearl","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/183/DP1_EN_88.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/183.mp3","moves":{
-"levelUp":[{"level":1,"category":"변화","move":"Defense Curl","type":"Normal","power":"—","accuracy":"—"}
+"levelUp":[{"level":1,"category":"변화","move":"웅크리기","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":1,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
-,{"level":1,"category":"물리","move":"Rollout","type":"Rock","power":"30","accuracy":"90"}
+,{"level":1,"category":"물리","move":"구르기","type":"Rock","power":"30","accuracy":"90"}
 ,{"level":1,"category":"물리","move":"Tackle","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":1,"category":"변화","move":"꼬리흔들기","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":1,"category":"특수","move":"Water Gun","type":"Water","power":"40","accuracy":"100"}
@@ -46,7 +46,7 @@
 ,{"technicalMachine":45,"category":"물리","move":"Dive","type":"Water","power":"80","accuracy":"100"}
 ,{"technicalMachine":47,"category":"변화","move":"Fake Tears","type":"Dark","power":"—","accuracy":"100"}
 ,{"technicalMachine":52,"category":"물리","move":"Bounce","type":"Flying","power":"85","accuracy":"85"}
-,{"technicalMachine":53,"category":"특수","move":"Mud Shot","type":"Ground","power":"55","accuracy":"95"}
+,{"technicalMachine":53,"category":"특수","move":"머드숏","type":"Ground","power":"55","accuracy":"95"}
 ,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
 ,{"technicalMachine":87,"category":"특수","move":"드레인키스","type":"Fairy","power":"50","accuracy":"100"}
@@ -58,7 +58,7 @@
 {"technicalRecord":5,"category":"특수","move":"Ice Beam","type":"Ice","power":"90","accuracy":"100"},
 {"technicalRecord":6,"category":"특수","move":"Blizzard","type":"Ice","power":"110","accuracy":"70"},
 {"technicalRecord":16,"category":"물리","move":"Waterfall","type":"Water","power":"80","accuracy":"100"},
-{"technicalRecord":17,"category":"변화","move":"Amnesia","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":17,"category":"변화","move":"망각술","type":"Psychic","power":"—","accuracy":"—"},
 {"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
@@ -71,7 +71,7 @@
 {"technicalRecord":45,"category":"특수","move":"Muddy Water","type":"Water","power":"90","accuracy":"85"},
 {"technicalRecord":77,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"},
 {"technicalRecord":84,"category":"특수","move":"Scald","type":"Water","power":"80","accuracy":"100"},
-{"technicalRecord":85,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":85,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":90,"category":"물리","move":"치근거리기","type":"Fairy","power":"90","accuracy":"90"}]
 ,"egg":[{"category":"물리","move":"Aqua Jet","type":"Water","power":"40","accuracy":"100"}
 ,{"category":"변화","move":"Belly Drum","type":"Normal","power":"—","accuracy":"—"}
@@ -83,5 +83,5 @@
 ,{"category":"변화","move":"Supersonic","type":"Normal","power":"—","accuracy":"55"}
 ,{"category":"변화","move":"간지르기","type":"Normal","power":"—","accuracy":"100"}]
 ,"tutor":[{"category":"특수","move":"Misty Explosion","type":"Fairy","power":"100","accuracy":"100"}
-,{"category":"물리","move":"Steel Roller","type":"Steel","power":"130","accuracy":"100"}]
+,{"category":"물리","move":"아이언롤러","type":"Steel","power":"130","accuracy":"100"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_II"}

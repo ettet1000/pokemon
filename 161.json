@@ -7,23 +7,23 @@
 "requirement":"Level 15"}],"previousEvolutions":[],"nextEvolutions":[{"number":"162","name":"다꼬리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/162.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/162.png","type":"LAST",
 "requirement":"Level 15"}],"superEvolutions":[],"baseStats":{"hp":35,"attack":46,"defense":34,"spAtk":35,"spDef":45,"speed":20,"total":215},"cards":[{"number":"135","name":"꼬리선","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/161/SWSH3_EN_135.png"},{"number":"81","name":"꼬리선","expansionName":"XY—Flashfire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/161/XY2_EN_81.png"},{"number":"80","name":"꼬리선","expansionName":"HeartGold & SoulSilver","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/161/HGSS1_EN_80.png"},{"number":"75","name":"꼬리선","expansionName":"EX Team Rocket Returns","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/161/EX7_EN_75.png"},{"number":"62","name":"꼬리선","expansionName":"EX Legend Maker","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/161/EX12_EN_62.png"},{"number":"104","name":"꼬리선","expansionName":"Diamond & Pearl—Secret Wonders","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/161/DP3_EN_104.png"},{"number":"16","name":"꼬리선","expansionName":"POP Series 7","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/161/POP_7_16.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/161.mp3","moves":{
 "levelUp":[{"level":1,"category":"변화","move":"Foresight","type":"Normal","power":"—","accuracy":"—"}
-,{"level":1,"category":"물리","move":"Scratch","type":"Normal","power":"40","accuracy":"100"}
-,{"level":4,"category":"변화","move":"Defense Curl","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"물리","move":"할퀴기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":4,"category":"변화","move":"웅크리기","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":7,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
-,{"level":13,"category":"물리","move":"Fury Swipes","type":"Normal","power":"18","accuracy":"80"}
+,{"level":13,"category":"물리","move":"마구할퀴기","type":"Normal","power":"18","accuracy":"80"}
 ,{"level":16,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":19,"category":"변화","move":"Follow Me","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":25,"category":"물리","move":"힘껏치기","type":"Normal","power":"80","accuracy":"75"}
 ,{"level":28,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
 ,{"level":31,"category":"물리","move":"Sucker Punch","type":"Dark","power":"70","accuracy":"100"}
-,{"level":36,"category":"변화","move":"Amnesia","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":36,"category":"변화","move":"망각술","type":"Psychic","power":"—","accuracy":"—"}
 ,{"level":39,"category":"변화","move":"Baton Pass","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":42,"category":"변화","move":"Me First","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":47,"category":"특수","move":"Hyper Voice","type":"Normal","power":"90","accuracy":"100"}]
-,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"}
+,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":6,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
 ,{"technicalMachine":10,"category":"특수","move":"Hidden Power","type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":11,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":11,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":13,"category":"특수","move":"Ice Beam","type":"Ice","power":"90","accuracy":"100"}
 ,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":18,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
@@ -44,7 +44,7 @@
 ,{"technicalMachine":56,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
 ,{"technicalMachine":57,"category":"특수","move":"Charge Beam","type":"Electric","power":"50","accuracy":"90"}
 ,{"technicalMachine":59,"category":"물리","move":"세차게휘두르기","type":"Dark","power":"60","accuracy":"100"}
-,{"technicalMachine":65,"category":"물리","move":"Shadow Claw","type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":65,"category":"물리","move":"섀도크루","type":"Ghost","power":"70","accuracy":"100"}
 ,{"technicalMachine":86,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"}
 ,{"technicalMachine":87,"category":"변화","move":"Swagger","type":"Normal","power":"—","accuracy":"85"}
 ,{"technicalMachine":88,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"}
@@ -64,7 +64,7 @@
 ,{"category":"물리","move":"Natural Gift","type":"Normal","power":"—","accuracy":"100"}
 ,{"category":"물리","move":"Pursuit","type":"Dark","power":"40","accuracy":"100"}
 ,{"category":"물리","move":"기사회생","type":"Fighting","power":"—","accuracy":"100"}
-,{"category":"물리","move":"Slash","type":"Normal","power":"70","accuracy":"100"}
+,{"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}
 ,{"category":"변화","move":"Trick","type":"Psychic","power":"—","accuracy":"100"}]
 ,"tutor":[{"category":"물리","move":"Aqua Tail","type":"Water","power":"90","accuracy":"90"}
 ,{"category":"물리","move":"Covet","type":"Normal","power":"60","accuracy":"100"}

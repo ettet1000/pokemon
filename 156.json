@@ -14,21 +14,21 @@
 ,{"level":10,"category":"특수","move":"Ember","type":"Fire","power":"40","accuracy":"100"}
 ,{"level":13,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":20,"category":"물리","move":"Flame Wheel","type":"Fire","power":"60","accuracy":"100"}
-,{"level":24,"category":"변화","move":"Defense Curl","type":"Normal","power":"—","accuracy":"—"}
+,{"level":24,"category":"변화","move":"웅크리기","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":31,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
 ,{"level":35,"category":"물리","move":"Flame Charge","type":"Fire","power":"50","accuracy":"100"}
 ,{"level":42,"category":"특수","move":"Lava Plume","type":"Fire","power":"80","accuracy":"100"}
 ,{"level":46,"category":"특수","move":"Flamethrower","type":"Fire","power":"90","accuracy":"100"}
 ,{"level":53,"category":"특수","move":"Inferno","type":"Fire","power":"100","accuracy":"50"}
-,{"level":57,"category":"물리","move":"Rollout","type":"Rock","power":"30","accuracy":"90"}
+,{"level":57,"category":"물리","move":"구르기","type":"Rock","power":"30","accuracy":"90"}
 ,{"level":64,"category":"물리","move":"Double-Edge","type":"Normal","power":"120","accuracy":"100"}
 ,{"level":68,"category":"특수","move":"Burn Up","type":"Fire","power":"130","accuracy":"100"}
 ,{"level":75,"category":"특수","move":"Eruption","type":"Fire","power":"150","accuracy":"100"}]
-,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"}
+,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":5,"category":"변화","move":"Roar","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":6,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
 ,{"technicalMachine":10,"category":"특수","move":"Hidden Power","type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":11,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":11,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":21,"category":"물리","move":"Frustration","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":27,"category":"물리","move":"Return","type":"Normal","power":"—","accuracy":"100"}
@@ -51,14 +51,14 @@
 ,{"technicalMachine":96,"category":"변화","move":"Nature Power","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":100,"category":"변화","move":"Confide","type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[]
 ,"egg":[{"category":"물리","move":"Covet","type":"Normal","power":"60","accuracy":"100"}
-,{"category":"물리","move":"Crush Claw","type":"Normal","power":"75","accuracy":"95"}
+,{"category":"물리","move":"브레이크크루","type":"Normal","power":"75","accuracy":"95"}
 ,{"category":"물리","move":"Double-Edge","type":"Normal","power":"120","accuracy":"100"}
 ,{"category":"물리","move":"Double Kick","type":"Fighting","power":"30","accuracy":"100"}
 ,{"category":"특수","move":"Extrasensory","type":"Psychic","power":"80","accuracy":"100"}
 ,{"category":"특수","move":"Flame Burst","type":"Fire","power":"70","accuracy":"100"}
 ,{"category":"물리","move":"Flare Blitz","type":"Fire","power":"120","accuracy":"100"}
 ,{"category":"변화","move":"Foresight","type":"Normal","power":"—","accuracy":"—"}
-,{"category":"물리","move":"Fury Swipes","type":"Normal","power":"18","accuracy":"80"}
+,{"category":"물리","move":"마구할퀴기","type":"Normal","power":"18","accuracy":"80"}
 ,{"category":"변화","move":"Howl","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"Nature Power","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}

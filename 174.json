@@ -13,7 +13,7 @@
 "levelUp":[{"level":1,"category":"변화","move":"Copycat","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":1,"category":"물리","move":"Pound","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":1,"category":"변화","move":"Sing","type":"Normal","power":"—","accuracy":"55"}
-,{"level":4,"category":"변화","move":"Defense Curl","type":"Normal","power":"—","accuracy":"—"}
+,{"level":4,"category":"변화","move":"웅크리기","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":8,"category":"변화","move":"천사의키스","type":"Fairy","power":"—","accuracy":"75"}
 ,{"level":12,"category":"특수","move":"차밍보이스","type":"Fairy","power":"40","accuracy":"∞"}
 ,{"level":16,"category":"변화","move":"Disable","type":"Normal","power":"—","accuracy":"100"}
@@ -34,7 +34,7 @@
 ,{"technicalMachine":29,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":47,"category":"변화","move":"Fake Tears","type":"Dark","power":"—","accuracy":"100"}
@@ -54,7 +54,7 @@
 {"technicalRecord":35,"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"},
 {"technicalRecord":42,"category":"특수","move":"Hyper Voice","type":"Normal","power":"90","accuracy":"100"},
 {"technicalRecord":77,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"},
-{"technicalRecord":85,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":85,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":86,"category":"물리","move":"와일드볼트","type":"Electric","power":"90","accuracy":"100"},
 {"technicalRecord":90,"category":"물리","move":"치근거리기","type":"Fairy","power":"90","accuracy":"90"}]
 ,"egg":[{"category":"물리","move":"Covet","type":"Normal","power":"60","accuracy":"100"}
@@ -63,7 +63,7 @@
 ,{"category":"물리","move":"Last Resort","type":"Normal","power":"140","accuracy":"100"}
 ,{"category":"변화","move":"Perish Song","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"프레젠트","type":"Normal","power":"—","accuracy":"90"}
-,{"category":"물리","move":"Rollout","type":"Rock","power":"30","accuracy":"90"}
+,{"category":"물리","move":"구르기","type":"Rock","power":"30","accuracy":"90"}
 ,{"category":"변화","move":"희망사항","type":"Normal","power":"—","accuracy":"—"}]
 ,"tutor":[]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_II"}

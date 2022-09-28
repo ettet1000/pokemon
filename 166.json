@@ -23,7 +23,7 @@
 ,{"level":47,"category":"물리","move":"Double-Edge","type":"Normal","power":"120","accuracy":"100"}]
 ,"technicalMachine":[{"technicalMachine":6,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
 ,{"technicalMachine":10,"category":"특수","move":"Hidden Power","type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":11,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":11,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":15,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
 ,{"technicalMachine":16,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
@@ -45,7 +45,7 @@
 ,{"technicalMachine":56,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
 ,{"technicalMachine":62,"category":"물리","move":"A크로뱃ics","type":"Flying","power":"55","accuracy":"100"}
 ,{"technicalMachine":68,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
-,{"technicalMachine":75,"category":"변화","move":"Swords Dance","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":75,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":83,"category":"특수","move":"Infestation","type":"Bug","power":"20","accuracy":"100"}
 ,{"technicalMachine":87,"category":"변화","move":"Swagger","type":"Normal","power":"—","accuracy":"85"}
 ,{"technicalMachine":88,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"}
@@ -55,7 +55,7 @@
 ,"egg":[{"category":"물리","move":"Bide","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"Bug Bite","type":"Bug","power":"60","accuracy":"100"}
 ,{"category":"특수","move":"Bug Buzz","type":"Bug","power":"90","accuracy":"100"}
-,{"category":"물리","move":"Counter","type":"Fighting","power":"—","accuracy":"100"}
+,{"category":"물리","move":"카운터","type":"Fighting","power":"—","accuracy":"100"}
 ,{"category":"물리","move":"Dizzy Punch","type":"Normal","power":"70","accuracy":"100"}
 ,{"category":"물리","move":"Drain Punch","type":"Fighting","power":"75","accuracy":"100"}
 ,{"category":"변화","move":"앵콜","type":"Normal","power":"—","accuracy":"100"}

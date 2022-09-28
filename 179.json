@@ -56,7 +56,7 @@
 ,{"category":"변화","move":"Flatter","type":"Dark","power":"—","accuracy":"100"}
 ,{"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"}
 ,{"category":"변화","move":"Odor Sleuth","type":"Normal","power":"—","accuracy":"—"}
-,{"category":"변화","move":"Sand Attack","type":"Ground","power":"—","accuracy":"100"}
+,{"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"Screech","type":"Normal","power":"—","accuracy":"85"}
 ,{"category":"물리","move":"Take Down","type":"Normal","power":"90","accuracy":"85"}]
 ,"tutor":[{"category":"변화","move":"After You","type":"Normal","power":"—","accuracy":"—"}

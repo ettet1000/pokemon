@@ -17,7 +17,7 @@
 ,{"level":1,"category":"물리","move":"Tackle","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":1,"category":"변화","move":"꼬리흔들기","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":1,"category":"물리","move":"Take Down","type":"Normal","power":"90","accuracy":"85"}
-,{"level":5,"category":"변화","move":"Sand Attack","type":"Ground","power":"—","accuracy":"100"}
+,{"level":5,"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"}
 ,{"level":10,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":15,"category":"변화","move":"Baby-Doll Eyes","type":"Fairy","power":"—","accuracy":"100"}
 ,{"level":20,"category":"특수","move":"Smog","type":"Poison","power":"30","accuracy":"70"}
@@ -40,7 +40,7 @@
 ,{"technicalMachine":29,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":38,"category":"변화","move":"Will-O-Wisp","type":"Fire","power":"—","accuracy":"85"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
@@ -67,15 +67,15 @@
 {"technicalRecord":43,"category":"특수","move":"Overheat","type":"Fire","power":"130","accuracy":"90"},
 {"technicalRecord":55,"category":"물리","move":"Flare Blitz","type":"Fire","power":"120","accuracy":"100"},
 {"technicalRecord":82,"category":"특수","move":"Stored Power","type":"Psychic","power":"20","accuracy":"100"},
-{"technicalRecord":85,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"}]
+{"technicalRecord":85,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}]
 ,"egg":[{"category":"변화","move":"Curse","type":"Ghost","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"Detect","type":"Fighting","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"Double Kick","type":"Fighting","power":"30","accuracy":"100"}
 ,{"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"}
-,{"category":"특수","move":"Mud-Slap","type":"Ground","power":"20","accuracy":"100"}
+,{"category":"특수","move":"진흙뿌리기","type":"Ground","power":"20","accuracy":"100"}
 ,{"category":"변화","move":"간지르기","type":"Normal","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"희망사항","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"Yawn","type":"Normal","power":"—","accuracy":"—"}]
 ,"tutor":[{"category":"특수","move":"Burning Jealousy","type":"Fire","power":"70","accuracy":"100"}
-,{"category":"특수","move":"Scorching Sands","type":"Ground","power":"70","accuracy":"100"}]
+,{"category":"특수","move":"열사의대지","type":"Ground","power":"70","accuracy":"100"}]
 ,"evolution":[{"category":"특수","move":"Ember","type":"Fire","power":"40","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_I"}

@@ -10,20 +10,20 @@
 ,{"level":1,"category":"특수","move":"Air Slash","type":"Flying","power":"75","accuracy":"95"}
 ,{"level":1,"category":"물리","move":"Bullet Punch","type":"Steel","power":"40","accuracy":"100"}
 ,{"level":1,"category":"물리","move":"False Swipe","type":"Normal","power":"40","accuracy":"100"}
-,{"level":1,"category":"물리","move":"Fury Cutter","type":"Bug","power":"40","accuracy":"95"}
+,{"level":1,"category":"물리","move":"연속자르기","type":"Bug","power":"40","accuracy":"95"}
 ,{"level":1,"category":"변화","move":"Leer","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":1,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":1,"category":"물리","move":"Wing Attack","type":"Flying","power":"60","accuracy":"100"}
-,{"level":12,"category":"물리","move":"Metal Claw","type":"Steel","power":"50","accuracy":"95"}
+,{"level":12,"category":"물리","move":"메탈크로우","type":"Steel","power":"50","accuracy":"95"}
 ,{"level":16,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":20,"category":"물리","move":"Double Hit","type":"Normal","power":"35","accuracy":"90"}
-,{"level":24,"category":"물리","move":"Slash","type":"Normal","power":"70","accuracy":"100"}
+,{"level":24,"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}
 ,{"level":28,"category":"변화","move":"Focus Energy","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":32,"category":"변화","move":"Iron Defense","type":"Steel","power":"—","accuracy":"—"}
 ,{"level":36,"category":"물리","move":"Iron Head","type":"Steel","power":"80","accuracy":"100"}
-,{"level":40,"category":"물리","move":"X-Scissor","type":"Bug","power":"80","accuracy":"100"}
+,{"level":40,"category":"물리","move":"시저크로스","type":"Bug","power":"80","accuracy":"100"}
 ,{"level":44,"category":"변화","move":"Laser Focus","type":"Normal","power":"—","accuracy":"—"}
-,{"level":48,"category":"변화","move":"Swords Dance","type":"Normal","power":"—","accuracy":"—"}]
+,{"level":48,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"}]
 ,"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
 ,{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
 ,{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
@@ -34,13 +34,13 @@
 ,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":30,"category":"물리","move":"Steel Wing","type":"Steel","power":"70","accuracy":"90"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
-,{"technicalMachine":32,"category":"변화","move":"Sandstorm","type":"Rock","power":"—","accuracy":"—"}
+,{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
 ,{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
-,{"technicalMachine":49,"category":"물리","move":"Sand Tomb","type":"Ground","power":"35","accuracy":"85"}
+,{"technicalMachine":49,"category":"물리","move":"모래지옥","type":"Ground","power":"35","accuracy":"85"}
 ,{"technicalMachine":56,"category":"물리","move":"U-turn","type":"Bug","power":"70","accuracy":"100"}
 ,{"technicalMachine":58,"category":"물리","move":"Assurance","type":"Dark","power":"60","accuracy":"100"}
 ,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
@@ -52,7 +52,7 @@
 ,{"technicalMachine":94,"category":"물리","move":"False Swipe","type":"Normal","power":"40","accuracy":"100"}
 ,{"technicalMachine":95,"category":"특수","move":"Air Slash","type":"Flying","power":"75","accuracy":"95"}
 ,{"technicalMachine":97,"category":"물리","move":"세차게휘두르기","type":"Dark","power":"60","accuracy":"100"}],"technicalRecords":[
-{"technicalRecord":0,"category":"변화","move":"Swords Dance","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":0,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":12,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},
 {"technicalRecord":13,"category":"변화","move":"Focus Energy","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
@@ -62,14 +62,14 @@
 {"technicalRecord":29,"category":"변화","move":"Baton Pass","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":39,"category":"물리","move":"Superpower","type":"Fighting","power":"120","accuracy":"100"},
 {"technicalRecord":46,"category":"변화","move":"Iron Defense","type":"Steel","power":"—","accuracy":"—"},
-{"technicalRecord":60,"category":"물리","move":"X-Scissor","type":"Bug","power":"80","accuracy":"100"},
+{"technicalRecord":60,"category":"물리","move":"시저크로스","type":"Bug","power":"80","accuracy":"100"},
 {"technicalRecord":61,"category":"특수","move":"Bug Buzz","type":"Bug","power":"90","accuracy":"100"},
 {"technicalRecord":70,"category":"특수","move":"Flash Cannon","type":"Steel","power":"80","accuracy":"100"},
 {"technicalRecord":74,"category":"물리","move":"Iron Head","type":"Steel","power":"80","accuracy":"100"}]
-,"egg":[{"category":"물리","move":"Counter","type":"Fighting","power":"—","accuracy":"100"}
+,"egg":[{"category":"물리","move":"카운터","type":"Fighting","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"Defog","type":"Flying","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"페인트","type":"Normal","power":"30","accuracy":"100"}
-,{"category":"물리","move":"Night Slash","type":"Dark","power":"70","accuracy":"100"}
+,{"category":"물리","move":"깜짝베기","type":"Dark","power":"70","accuracy":"100"}
 ,{"category":"변화","move":"Quick Guard","type":"Fighting","power":"—","accuracy":"—"}]
 ,"tutor":[{"category":"물리","move":"Dual Wingbeat","type":"Flying","power":"40","accuracy":"90"}]
 ,"evolution":[{"category":"물리","move":"Bullet Punch","type":"Steel","power":"40","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_II"}

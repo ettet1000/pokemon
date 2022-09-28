@@ -16,16 +16,16 @@
 ,{"level":20,"category":"특수","move":"Clear Smog","type":"Poison","power":"50","accuracy":"—"}
 ,{"level":22,"category":"특수","move":"Ancient Power","type":"Rock","power":"60","accuracy":"100"}
 ,{"level":27,"category":"특수","move":"Flame Burst","type":"Fire","power":"70","accuracy":"100"}
-,{"level":29,"category":"물리","move":"Rock Slide","type":"Rock","power":"75","accuracy":"90"}
+,{"level":29,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
 ,{"level":34,"category":"특수","move":"Lava Plume","type":"Fire","power":"80","accuracy":"100"}
-,{"level":36,"category":"변화","move":"Amnesia","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":36,"category":"변화","move":"망각술","type":"Psychic","power":"—","accuracy":"—"}
 ,{"level":41,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"}
 ,{"level":43,"category":"변화","move":"Recover","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":48,"category":"특수","move":"Flamethrower","type":"Fire","power":"90","accuracy":"100"}
-,{"level":50,"category":"특수","move":"Earth Power","type":"Ground","power":"90","accuracy":"100"}]
+,{"level":50,"category":"특수","move":"대지의힘","type":"Ground","power":"90","accuracy":"100"}]
 ,"technicalMachine":[{"technicalMachine":6,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
 ,{"technicalMachine":10,"category":"특수","move":"Hidden Power","type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":11,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":11,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":16,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":21,"category":"물리","move":"Frustration","type":"Normal","power":"—","accuracy":"100"}
@@ -34,7 +34,7 @@
 ,{"technicalMachine":33,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":35,"category":"특수","move":"Flamethrower","type":"Fire","power":"90","accuracy":"100"}
 ,{"technicalMachine":38,"category":"특수","move":"Fire Blast","type":"Fire","power":"110","accuracy":"85"}
-,{"technicalMachine":39,"category":"물리","move":"Rock Tomb","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":39,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
 ,{"technicalMachine":42,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":43,"category":"물리","move":"Flame Charge","type":"Fire","power":"50","accuracy":"100"}
 ,{"technicalMachine":44,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
@@ -42,7 +42,7 @@
 ,{"technicalMachine":48,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
 ,{"technicalMachine":50,"category":"특수","move":"Overheat","type":"Fire","power":"130","accuracy":"90"}
 ,{"technicalMachine":61,"category":"변화","move":"Will-O-Wisp","type":"Fire","power":"—","accuracy":"85"}
-,{"technicalMachine":80,"category":"물리","move":"Rock Slide","type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":80,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
 ,{"technicalMachine":83,"category":"특수","move":"Infestation","type":"Bug","power":"20","accuracy":"100"}
 ,{"technicalMachine":87,"category":"변화","move":"Swagger","type":"Normal","power":"—","accuracy":"85"}
 ,{"technicalMachine":88,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"}
@@ -51,18 +51,18 @@
 ,{"technicalMachine":100,"category":"변화","move":"Confide","type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[]
 ,"egg":[{"category":"변화","move":"Acid Armor","type":"Poison","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"Curse","type":"Ghost","power":"—","accuracy":"—"}
-,{"category":"특수","move":"Earth Power","type":"Ground","power":"90","accuracy":"100"}
+,{"category":"특수","move":"대지의힘","type":"Ground","power":"90","accuracy":"100"}
 ,{"category":"변화","move":"Guard Swap","type":"Psychic","power":"—","accuracy":"—"}
 ,{"category":"특수","move":"Heat Wave","type":"Fire","power":"95","accuracy":"90"}
 ,{"category":"특수","move":"Inferno","type":"Fire","power":"100","accuracy":"50"}
 ,{"category":"변화","move":"Memento","type":"Dark","power":"—","accuracy":"100"}
-,{"category":"물리","move":"Rollout","type":"Rock","power":"30","accuracy":"90"}
+,{"category":"물리","move":"구르기","type":"Rock","power":"30","accuracy":"90"}
 ,{"category":"변화","move":"Smokescreen","type":"Normal","power":"—","accuracy":"100"}
 ,{"category":"특수","move":"Spit Up","type":"Normal","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"Stockpile","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"Swallow","type":"Normal","power":"—","accuracy":"—"}]
 ,"tutor":[{"category":"변화","move":"After You","type":"Normal","power":"—","accuracy":"—"}
-,{"category":"특수","move":"Earth Power","type":"Ground","power":"90","accuracy":"100"}
+,{"category":"특수","move":"대지의힘","type":"Ground","power":"90","accuracy":"100"}
 ,{"category":"특수","move":"Heat Wave","type":"Fire","power":"95","accuracy":"90"}
 ,{"category":"변화","move":"Iron Defense","type":"Steel","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"Pain Split","type":"Normal","power":"—","accuracy":"—"}

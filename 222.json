@@ -15,7 +15,7 @@
 ,{"level":30,"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":35,"category":"변화","move":"Life Dew","type":"Water","power":"—","accuracy":"—"}
 ,{"level":40,"category":"특수","move":"Power Gem","type":"Rock","power":"80","accuracy":"100"}
-,{"level":45,"category":"특수","move":"Earth Power","type":"Ground","power":"90","accuracy":"100"}
+,{"level":45,"category":"특수","move":"대지의힘","type":"Ground","power":"90","accuracy":"100"}
 ,{"level":50,"category":"변화","move":"Recover","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":55,"category":"특수","move":"Mirror Coat","type":"Psychic","power":"—","accuracy":"100"}]
 ,"technicalMachine":[{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
@@ -25,24 +25,24 @@
 ,{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":20,"category":"물리","move":"Self-Destruct","type":"Normal","power":"200","accuracy":"100"}
 ,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
-,{"technicalMachine":22,"category":"물리","move":"Rock Slide","type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
 ,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
 ,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":27,"category":"특수","move":"Icy Wind","type":"Ice","power":"55","accuracy":"95"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
-,{"technicalMachine":32,"category":"변화","move":"Sandstorm","type":"Rock","power":"—","accuracy":"—"}
+,{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":35,"category":"변화","move":"Hail","type":"Ice","power":"—","accuracy":"—"}
 ,{"technicalMachine":36,"category":"특수","move":"Whirlpool","type":"Water","power":"35","accuracy":"85"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
-,{"technicalMachine":48,"category":"물리","move":"Rock Tomb","type":"Rock","power":"60","accuracy":"95"}
-,{"technicalMachine":51,"category":"물리","move":"Icicle Spear","type":"Ice","power":"25","accuracy":"100"}
+,{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":51,"category":"물리","move":"고드름침","type":"Ice","power":"25","accuracy":"100"}
 ,{"technicalMachine":54,"category":"물리","move":"Rock Blast","type":"Rock","power":"25","accuracy":"90"}
 ,{"technicalMachine":55,"category":"특수","move":"Brine","type":"Water","power":"65","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":81,"category":"물리","move":"Bulldoze","type":"Ground","power":"60","accuracy":"100"}
-,{"technicalMachine":98,"category":"물리","move":"Stomping Tantrum","type":"Ground","power":"75","accuracy":"100"}],"technicalRecords":[]
+,{"technicalMachine":81,"category":"물리","move":"땅고르기","type":"Ground","power":"60","accuracy":"100"}
+,{"technicalMachine":98,"category":"물리","move":"분함의발구르기","type":"Ground","power":"75","accuracy":"100"}],"technicalRecords":[]
 ,"egg":[{"category":"변화","move":"Confuse Ray","type":"Ghost","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"Curse","type":"Ghost","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"Head Smash","type":"Rock","power":"150","accuracy":"80"}

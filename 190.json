@@ -7,13 +7,13 @@
 "requirement":"더블어택을 배운 뒤"}],"previousEvolutions":[],"nextEvolutions":[{"number":"424","name":"겟핸보숭","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/424.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/424.png","type":"LAST",
 "requirement":"더블어택을 배운 뒤"}],"superEvolutions":[],"baseStats":{"hp":55,"attack":70,"defense":55,"spAtk":40,"spDef":55,"speed":85,"total":360},"cards":[{"number":"169","name":"에이팜","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/190/SM12_EN_169.png"},{"number":"SM244","name":"에이팜","expansionName":"Sun & Moon Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/190/SMP_EN_SM244.png"},{"number":"90","name":"에이팜","expansionName":"XY—Steam Siege","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/190/XY11_EN_90.png"},{"number":"99","name":"에이팜","expansionName":"Black & White—Dragons Exalted","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/190/BW6_EN_99.png"},{"number":"55","name":"에이팜","expansionName":"HS—Triumphant","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/190/HGSS4_EN_55.png"},{"number":"43","name":"에이팜","expansionName":"HS—Unleashed","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/190/HGSS2_EN_43.png"},{"number":"34","name":"에이팜","expansionName":"EX Unseen Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/190/EX10_EN_34.png"},{"number":"70","name":"에이팜","expansionName":"Diamond & Pearl—Mysterious Treasures","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/190/DP2_EN_70.png"},{"number":"50","name":"에이팜","expansionName":"Diamond & Pearl—Majestic Dawn","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/190/DP5_EN_50.png"},{"number":"51","name":"에이팜","expansionName":"Diamond & Pearl—Majestic Dawn","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/190/DP5_EN_51.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/190.mp3","moves":{
-"levelUp":[{"level":1,"category":"물리","move":"Scratch","type":"Normal","power":"40","accuracy":"100"}
+"levelUp":[{"level":1,"category":"물리","move":"할퀴기","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":1,"category":"변화","move":"꼬리흔들기","type":"Normal","power":"—","accuracy":"100"}
-,{"level":4,"category":"변화","move":"Sand Attack","type":"Ground","power":"—","accuracy":"100"}
+,{"level":4,"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"}
 ,{"level":8,"category":"물리","move":"Astonish","type":"Ghost","power":"30","accuracy":"100"}
 ,{"level":11,"category":"변화","move":"Baton Pass","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":15,"category":"변화","move":"간지르기","type":"Normal","power":"—","accuracy":"100"}
-,{"level":18,"category":"물리","move":"Fury Swipes","type":"Normal","power":"18","accuracy":"80"}
+,{"level":18,"category":"물리","move":"마구할퀴기","type":"Normal","power":"18","accuracy":"80"}
 ,{"level":22,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
 ,{"level":25,"category":"변화","move":"Screech","type":"Normal","power":"—","accuracy":"85"}
 ,{"level":29,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"}
@@ -21,10 +21,10 @@
 ,{"level":36,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
 ,{"level":39,"category":"변화","move":"나쁜음모","type":"Dark","power":"—","accuracy":"—"}
 ,{"level":43,"category":"물리","move":"Last Resort","type":"Normal","power":"140","accuracy":"100"}]
-,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"}
+,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":6,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
 ,{"technicalMachine":10,"category":"특수","move":"Hidden Power","type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":11,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":11,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":12,"category":"변화","move":"Taunt","type":"Dark","power":"—","accuracy":"100"}
 ,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":18,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
@@ -45,7 +45,7 @@
 ,{"technicalMachine":48,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
 ,{"technicalMachine":56,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
 ,{"technicalMachine":62,"category":"물리","move":"A크로뱃ics","type":"Flying","power":"55","accuracy":"100"}
-,{"technicalMachine":65,"category":"물리","move":"Shadow Claw","type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":65,"category":"물리","move":"섀도크루","type":"Ghost","power":"70","accuracy":"100"}
 ,{"technicalMachine":66,"category":"물리","move":"Payback","type":"Dark","power":"50","accuracy":"100"}
 ,{"technicalMachine":73,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"}
 ,{"technicalMachine":85,"category":"특수","move":"Dream Eater","type":"Psychic","power":"100","accuracy":"100"}
@@ -58,7 +58,7 @@
 ,"egg":[{"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"Beat Up","type":"Dark","power":"—","accuracy":"100"}
 ,{"category":"물리","move":"Bounce","type":"Flying","power":"85","accuracy":"85"}
-,{"category":"물리","move":"Counter","type":"Fighting","power":"—","accuracy":"100"}
+,{"category":"물리","move":"카운터","type":"Fighting","power":"—","accuracy":"100"}
 ,{"category":"물리","move":"Covet","type":"Normal","power":"60","accuracy":"100"}
 ,{"category":"물리","move":"Double Slap","type":"Normal","power":"15","accuracy":"85"}
 ,{"category":"물리","move":"속이다","type":"Normal","power":"40","accuracy":"100"}

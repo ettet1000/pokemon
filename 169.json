@@ -25,7 +25,7 @@
 ,{"level":48,"category":"특수","move":"Venoshock","type":"Poison","power":"65","accuracy":"100"}
 ,{"level":55,"category":"변화","move":"Confuse Ray","type":"Ghost","power":"—","accuracy":"100"}
 ,{"level":62,"category":"특수","move":"Air Slash","type":"Flying","power":"75","accuracy":"95"}
-,{"level":69,"category":"물리","move":"Leech Life","type":"Bug","power":"80","accuracy":"100"}]
+,{"level":69,"category":"물리","move":"흡혈","type":"Bug","power":"80","accuracy":"100"}]
 ,"technicalMachine":[{"technicalMachine":6,"category":"물리","move":"Fly","type":"Flying","power":"90","accuracy":"95"}
 ,{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
 ,{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
@@ -38,7 +38,7 @@
 ,{"technicalMachine":30,"category":"물리","move":"Steel Wing","type":"Steel","power":"70","accuracy":"90"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
 ,{"technicalMachine":56,"category":"물리","move":"U-turn","type":"Bug","power":"70","accuracy":"100"}
@@ -51,7 +51,7 @@
 ,{"technicalMachine":78,"category":"물리","move":"A크로뱃ics","type":"Flying","power":"55","accuracy":"100"}
 ,{"technicalMachine":95,"category":"특수","move":"Air Slash","type":"Flying","power":"75","accuracy":"95"}],"technicalRecords":[
 {"technicalRecord":12,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},
-{"technicalRecord":18,"category":"물리","move":"Leech Life","type":"Bug","power":"80","accuracy":"100"},
+{"technicalRecord":18,"category":"물리","move":"흡혈","type":"Bug","power":"80","accuracy":"100"},
 {"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":22,"category":"특수","move":"Sludge Bomb","type":"Poison","power":"90","accuracy":"100"},
 {"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
@@ -62,7 +62,7 @@
 {"technicalRecord":36,"category":"특수","move":"Heat Wave","type":"Fire","power":"95","accuracy":"90"},
 {"technicalRecord":37,"category":"변화","move":"Taunt","type":"Dark","power":"—","accuracy":"100"},
 {"technicalRecord":58,"category":"특수","move":"Dark Pulse","type":"Dark","power":"80","accuracy":"100"},
-{"technicalRecord":60,"category":"물리","move":"X-Scissor","type":"Bug","power":"80","accuracy":"100"},
+{"technicalRecord":60,"category":"물리","move":"시저크로스","type":"Bug","power":"80","accuracy":"100"},
 {"technicalRecord":66,"category":"물리","move":"Brave Bird","type":"Flying","power":"120","accuracy":"100"},
 {"technicalRecord":68,"category":"변화","move":"나쁜음모","type":"Dark","power":"—","accuracy":"—"},
 {"technicalRecord":69,"category":"물리","move":"Zen Headbutt","type":"Psychic","power":"80","accuracy":"90"},

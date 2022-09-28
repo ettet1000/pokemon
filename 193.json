@@ -25,7 +25,7 @@
 ,{"level":57,"category":"특수","move":"Bug Buzz","type":"Bug","power":"90","accuracy":"100"}]
 ,"technicalMachine":[{"technicalMachine":6,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
 ,{"technicalMachine":10,"category":"특수","move":"Hidden Power","type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":11,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":11,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":19,"category":"변화","move":"Roost","type":"Flying","power":"—","accuracy":"—"}
 ,{"technicalMachine":21,"category":"물리","move":"Frustration","type":"Normal","power":"—","accuracy":"100"}
@@ -50,7 +50,7 @@
 ,"egg":[{"category":"물리","move":"Double-Edge","type":"Normal","power":"120","accuracy":"100"}
 ,{"category":"물리","move":"페인트","type":"Normal","power":"30","accuracy":"100"}
 ,{"category":"물리","move":"페인트 Attack","type":"Dark","power":"60","accuracy":"∞"}
-,{"category":"물리","move":"Leech Life","type":"Bug","power":"80","accuracy":"100"}
+,{"category":"물리","move":"흡혈","type":"Bug","power":"80","accuracy":"100"}
 ,{"category":"물리","move":"Pursuit","type":"Dark","power":"40","accuracy":"100"}
 ,{"category":"물리","move":"기사회생","type":"Fighting","power":"—","accuracy":"100"}
 ,{"category":"물리","move":"Secret Power","type":"Normal","power":"70","accuracy":"100"}

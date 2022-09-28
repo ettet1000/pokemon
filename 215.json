@@ -8,17 +8,17 @@
 "requirement":"예리한손톱을 지니게 한 뒤, 밤"}],"superEvolutions":[],"baseStats":{"hp":55,"attack":95,"defense":55,"spAtk":35,"spDef":75,"speed":115,"total":430},"cards":[{"number":"30","name":"포푸니","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/215/SWSH6_EN_30.png"},{"number":"43","name":"포푸니","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/215/SM12_EN_43.png"},{"number":"131","name":"포푸니","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/215/SM11_EN_131.png"},{"number":"86","name":"포푸니","expansionName":"Celestial Storm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/215/SM7_EN_86.png"},{"number":"73","name":"포푸니","expansionName":"Ultra Prism","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/215/SM5_EN_73.png"},{"number":"85","name":"포푸니","expansionName":"Burning Shadows","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/215/SM3_EN_85.png"},{"number":"60","name":"포푸니","expansionName":"XY—Steam Siege","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/215/XY11_EN_60.png"},{"number":"50","name":"포푸니","expansionName":"XY—Flashfire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/215/XY2_EN_50.png"},{"number":"51","name":"포푸니","expansionName":"XY—Flashfire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/215/XY2_EN_51.png"},{"number":"65","name":"포푸니","expansionName":"Black & White—Plasma Freeze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/215/BW9_EN_65.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/215.mp3","moves":{
 "levelUp":[{"level":1,"category":"변화","move":"Leer","type":"Normal","power":"—","accuracy":"100"}
-,{"level":1,"category":"물리","move":"Scratch","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"물리","move":"할퀴기","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":6,"category":"변화","move":"Taunt","type":"Dark","power":"—","accuracy":"100"}
 ,{"level":12,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
-,{"level":18,"category":"물리","move":"Metal Claw","type":"Steel","power":"50","accuracy":"95"}
+,{"level":18,"category":"물리","move":"메탈크로우","type":"Steel","power":"50","accuracy":"95"}
 ,{"level":24,"category":"특수","move":"Icy Wind","type":"Ice","power":"55","accuracy":"95"}
-,{"level":30,"category":"물리","move":"Fury Swipes","type":"Normal","power":"18","accuracy":"80"}
-,{"level":36,"category":"변화","move":"Hone Claws","type":"Dark","power":"—","accuracy":"—"}
+,{"level":30,"category":"물리","move":"마구할퀴기","type":"Normal","power":"18","accuracy":"80"}
+,{"level":36,"category":"변화","move":"손톱갈기","type":"Dark","power":"—","accuracy":"—"}
 ,{"level":42,"category":"물리","move":"Beat Up","type":"Dark","power":"—","accuracy":"100"}
 ,{"level":48,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"}
 ,{"level":54,"category":"변화","move":"Screech","type":"Normal","power":"—","accuracy":"85"}
-,{"level":60,"category":"물리","move":"Slash","type":"Normal","power":"70","accuracy":"100"}]
+,{"level":60,"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}]
 ,"technicalMachine":[{"technicalMachine":0,"category":"물리","move":"메가톤펀치","type":"Normal","power":"80","accuracy":"85"}
 ,{"technicalMachine":1,"category":"물리","move":"메가톤킥","type":"Normal","power":"120","accuracy":"75"}
 ,{"technicalMachine":4,"category":"물리","move":"Ice Punch","type":"Ice","power":"75","accuracy":"100"}
@@ -32,7 +32,7 @@
 ,{"technicalMachine":27,"category":"특수","move":"Icy Wind","type":"Ice","power":"55","accuracy":"95"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":35,"category":"변화","move":"Hail","type":"Ice","power":"—","accuracy":"—"}
 ,{"technicalMachine":36,"category":"특수","move":"Whirlpool","type":"Water","power":"35","accuracy":"85"}
 ,{"technicalMachine":37,"category":"물리","move":"Beat Up","type":"Dark","power":"—","accuracy":"100"}
@@ -43,14 +43,14 @@
 ,{"technicalMachine":57,"category":"물리","move":"Payback","type":"Dark","power":"50","accuracy":"100"}
 ,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
 ,{"technicalMachine":64,"category":"물리","move":"Avalanche","type":"Ice","power":"60","accuracy":"100"}
-,{"technicalMachine":65,"category":"물리","move":"Shadow Claw","type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":65,"category":"물리","move":"섀도크루","type":"Ghost","power":"70","accuracy":"100"}
 ,{"technicalMachine":69,"category":"물리","move":"Psycho Cut","type":"Psychic","power":"70","accuracy":"100"}
 ,{"technicalMachine":75,"category":"물리","move":"Low Sweep","type":"Fighting","power":"65","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
 ,{"technicalMachine":79,"category":"물리","move":"Retaliate","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":85,"category":"특수","move":"Snarl","type":"Dark","power":"55","accuracy":"95"}
 ,{"technicalMachine":94,"category":"물리","move":"False Swipe","type":"Normal","power":"40","accuracy":"100"}],"technicalRecords":[
-{"technicalRecord":0,"category":"변화","move":"Swords Dance","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":0,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":4,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"},
 {"technicalRecord":5,"category":"특수","move":"Ice Beam","type":"Ice","power":"90","accuracy":"100"},
 {"technicalRecord":6,"category":"특수","move":"Blizzard","type":"Ice","power":"110","accuracy":"70"},
@@ -63,13 +63,13 @@
 {"technicalRecord":33,"category":"특수","move":"Shadow Ball","type":"Ghost","power":"80","accuracy":"100"},
 {"technicalRecord":37,"category":"변화","move":"Taunt","type":"Dark","power":"—","accuracy":"100"},
 {"technicalRecord":49,"category":"변화","move":"Calm Mind","type":"Psychic","power":"—","accuracy":"—"},
-{"technicalRecord":57,"category":"물리","move":"Poison Jab","type":"Poison","power":"80","accuracy":"100"},
+{"technicalRecord":57,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"},
 {"technicalRecord":58,"category":"특수","move":"Dark Pulse","type":"Dark","power":"80","accuracy":"100"},
-{"technicalRecord":60,"category":"물리","move":"X-Scissor","type":"Bug","power":"80","accuracy":"100"},
+{"technicalRecord":60,"category":"물리","move":"시저크로스","type":"Bug","power":"80","accuracy":"100"},
 {"technicalRecord":81,"category":"물리","move":"Foul Play","type":"Dark","power":"95","accuracy":"100"},
-{"technicalRecord":95,"category":"물리","move":"Throat Chop","type":"Dark","power":"80","accuracy":"100"}]
+{"technicalRecord":95,"category":"물리","move":"지옥찌르기","type":"Dark","power":"80","accuracy":"100"}]
 ,"egg":[{"category":"물리","move":"Bite","type":"Dark","power":"60","accuracy":"100"}
-,{"category":"물리","move":"Counter","type":"Fighting","power":"—","accuracy":"100"}
+,{"category":"물리","move":"카운터","type":"Fighting","power":"—","accuracy":"100"}
 ,{"category":"물리","move":"Double Hit","type":"Normal","power":"35","accuracy":"90"}
 ,{"category":"물리","move":"속이다","type":"Normal","power":"40","accuracy":"100"}
 ,{"category":"물리","move":"페인트","type":"Normal","power":"30","accuracy":"100"}
