@@ -13,11 +13,11 @@
 "levelUp":[{"level":1,"category":"변화","move":"슬리퍼sis","type":"Psychic","power":"—","accuracy":"60"}
 ,{"level":1,"category":"특수","move":"Water Gun","type":"Water","power":"40","accuracy":"100"}
 ,{"level":6,"category":"물리","move":"Pound","type":"Normal","power":"40","accuracy":"100"}
-,{"level":12,"category":"특수","move":"Mud Shot","type":"Ground","power":"55","accuracy":"95"}
+,{"level":12,"category":"특수","move":"머드숏","type":"Ground","power":"55","accuracy":"95"}
 ,{"level":18,"category":"특수","move":"Bubble Beam","type":"Water","power":"65","accuracy":"100"}
 ,{"level":24,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
 ,{"level":30,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"}
-,{"level":36,"category":"특수","move":"Earth Power","type":"Ground","power":"90","accuracy":"100"}
+,{"level":36,"category":"특수","move":"대지의힘","type":"Ground","power":"90","accuracy":"100"}
 ,{"level":42,"category":"특수","move":"Hydro Pump","type":"Water","power":"110","accuracy":"80"}
 ,{"level":48,"category":"변화","move":"Belly Drum","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":54,"category":"물리","move":"Double-Edge","type":"Normal","power":"120","accuracy":"100"}]
@@ -34,9 +34,9 @@
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":45,"category":"물리","move":"Dive","type":"Water","power":"80","accuracy":"100"}
-,{"technicalMachine":53,"category":"특수","move":"Mud Shot","type":"Ground","power":"55","accuracy":"95"}
+,{"technicalMachine":53,"category":"특수","move":"머드숏","type":"Ground","power":"55","accuracy":"95"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":81,"category":"물리","move":"Bulldoze","type":"Ground","power":"60","accuracy":"100"}],"technicalRecords":[
+,{"technicalMachine":81,"category":"물리","move":"땅고르기","type":"Ground","power":"60","accuracy":"100"}],"technicalRecords":[
 {"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
 {"technicalRecord":3,"category":"특수","move":"Hydro Pump","type":"Water","power":"110","accuracy":"80"},
 {"technicalRecord":4,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"},
@@ -49,7 +49,7 @@
 {"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":30,"category":"변화","move":"앵콜","type":"Normal","power":"—","accuracy":"100"},
 {"technicalRecord":45,"category":"특수","move":"Muddy Water","type":"Water","power":"90","accuracy":"85"},
-{"technicalRecord":67,"category":"특수","move":"Earth Power","type":"Ground","power":"90","accuracy":"100"},
+{"technicalRecord":67,"category":"특수","move":"대지의힘","type":"Ground","power":"90","accuracy":"100"},
 {"technicalRecord":84,"category":"특수","move":"Scald","type":"Water","power":"80","accuracy":"100"}]
 ,"egg":[{"category":"물리","move":"Endeavor","type":"Normal","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"Haze","type":"Ice","power":"—","accuracy":"—"}

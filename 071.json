@@ -10,10 +10,10 @@
 "levelUp":[{"level":1,"category":"특수","move":"Acid","type":"Poison","power":"40","accuracy":"100"}
 ,{"level":1,"category":"특수","move":"Clear Smog","type":"Poison","power":"50","accuracy":"—"}
 ,{"level":1,"category":"변화","move":"Growth","type":"Normal","power":"—","accuracy":"—"}
-,{"level":1,"category":"물리","move":"Leech Life","type":"Bug","power":"80","accuracy":"100"}
+,{"level":1,"category":"물리","move":"흡혈","type":"Bug","power":"80","accuracy":"100"}
 ,{"level":1,"category":"물리","move":"Power Whip","type":"Grass","power":"120","accuracy":"85"}
 ,{"level":1,"category":"물리","move":"Sucker Punch","type":"Dark","power":"70","accuracy":"100"}
-,{"level":1,"category":"변화","move":"Swords Dance","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":1,"category":"물리","move":"Vine Whip","type":"Grass","power":"45","accuracy":"100"}
 ,{"level":1,"category":"물리","move":"Wrap","type":"Normal","power":"15","accuracy":"90"}
 ,{"level":54,"category":"물리","move":"Power Whip","type":"Grass","power":"120","accuracy":"85"}]
@@ -23,7 +23,7 @@
 ,{"technicalMachine":8,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":9,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":12,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
-,{"technicalMachine":26,"category":"물리","move":"Poison Jab","type":"Poison","power":"80","accuracy":"100"}
+,{"technicalMachine":26,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"}
 ,{"technicalMachine":27,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
 ,{"technicalMachine":45,"category":"특수","move":"Solar Beam","type":"Grass","power":"120","accuracy":"100"}
 ,{"technicalMachine":48,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}

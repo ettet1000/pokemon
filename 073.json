@@ -6,7 +6,7 @@
 "growthRate":"느린"},"abilities":[{"name":"Clear Body","description":"Prevents other Pokémon's moves or Abilities from lowering the Pokémon's stats."},{"name":"Liquid Ooze","description":"The oozed liquid has a strong stench, which damages attackers using any draining move."}],"typesEffectiveness":{"Normal":"1","Fire":"½","Water":"½","Electric":"2","Grass":"1","Ice":"½","Fighting":"½","Poison":"½","Ground":"2","Flying":"1","Psychic":"2","Bug":"½","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"½"},"evolutionChain":[{"number":"072","name":"왕눈해","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/072.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/072.png","type":"FIRST"},{"number":"073","name":"독파리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/073.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/073.png","type":"LAST",
 "requirement":"Level 30"}],"previousEvolutions":[{"number":"072","name":"왕눈해","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/072.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/072.png","type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":80,"attack":70,"defense":65,"spAtk":80,"spDef":120,"speed":100,"total":515},"cards":[{"number":"27","name":"독파리","expansionName":"Evolving Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/073/SWSH7_EN_27.png"},{"number":"41","name":"독파리","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/073/SM10_EN_41.png"},{"number":"61","name":"독파리","expansionName":"Team Up","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/073/SM9_EN_61.png"},{"number":"24","name":"독파리","expansionName":"SM—Guardians Rising","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/073/SM2_EN_24.png"},{"number":"72","name":"독파리","expansionName":"XY—Primal Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/073/XY5_EN_72.png"},{"number":"50","name":"독파리","expansionName":"HS—Triumphant","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/073/HGSS4_EN_50.png"},{"number":"51","name":"독파리","expansionName":"EX Hidden Legends","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/073/EX5_EN_51.png"},{"number":"45","name":"독파리","expansionName":"EX Legend Maker","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/073/EX12_EN_45.png"},{"number":"75","name":"독파리","expansionName":"Diamond & Pearl—Legends Awakened","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/073/DP6_EN_75.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/073.mp3","moves":{
 "levelUp":[{"level":1,"category":"특수","move":"Acid","type":"Poison","power":"40","accuracy":"100"}
-,{"level":1,"category":"물리","move":"Poison Sting","type":"Poison","power":"15","accuracy":"100"}
+,{"level":1,"category":"물리","move":"독침","type":"Poison","power":"15","accuracy":"100"}
 ,{"level":1,"category":"변화","move":"Reflect Type","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":1,"category":"특수","move":"Water Gun","type":"Water","power":"40","accuracy":"100"}
 ,{"level":1,"category":"물리","move":"Wrap","type":"Normal","power":"15","accuracy":"90"}
@@ -16,7 +16,7 @@
 ,{"level":24,"category":"특수","move":"Bubble Beam","type":"Water","power":"65","accuracy":"100"}
 ,{"level":28,"category":"특수","move":"Hex","type":"Ghost","power":"65","accuracy":"100"}
 ,{"level":34,"category":"변화","move":"Acid Armor","type":"Poison","power":"—","accuracy":"—"}
-,{"level":40,"category":"물리","move":"Poison Jab","type":"Poison","power":"80","accuracy":"100"}
+,{"level":40,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"}
 ,{"level":46,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"}
 ,{"level":52,"category":"특수","move":"Sludge Wave","type":"Poison","power":"95","accuracy":"100"}
 ,{"level":58,"category":"특수","move":"Hydro Pump","type":"Water","power":"110","accuracy":"80"}]
@@ -43,7 +43,7 @@
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
 ,{"technicalMachine":77,"category":"특수","move":"Hex","type":"Ghost","power":"65","accuracy":"100"}
 ,{"technicalMachine":97,"category":"물리","move":"세차게휘두르기","type":"Dark","power":"60","accuracy":"100"}],"technicalRecords":[
-{"technicalRecord":0,"category":"변화","move":"Swords Dance","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":0,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":3,"category":"특수","move":"Hydro Pump","type":"Water","power":"110","accuracy":"80"},
 {"technicalRecord":4,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"},
 {"technicalRecord":5,"category":"특수","move":"Ice Beam","type":"Ice","power":"90","accuracy":"100"},
@@ -55,7 +55,7 @@
 {"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":45,"category":"특수","move":"Muddy Water","type":"Water","power":"90","accuracy":"85"},
 {"technicalRecord":54,"category":"변화","move":"Toxic Spikes","type":"Poison","power":"—","accuracy":"—"},
-{"technicalRecord":57,"category":"물리","move":"Poison Jab","type":"Poison","power":"80","accuracy":"100"},
+{"technicalRecord":57,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"},
 {"technicalRecord":78,"category":"특수","move":"Sludge Wave","type":"Poison","power":"95","accuracy":"100"},
 {"technicalRecord":84,"category":"특수","move":"Scald","type":"Water","power":"80","accuracy":"100"},
 {"technicalRecord":91,"category":"변화","move":"Venom Drench","type":"Poison","power":"—","accuracy":"100"},
@@ -67,7 +67,7 @@
 ,{"category":"변화","move":"Haze","type":"Ice","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"Knock Off","type":"Dark","power":"65","accuracy":"100"}
 ,{"category":"특수","move":"Mirror Coat","type":"Psychic","power":"—","accuracy":"100"}
-,{"category":"물리","move":"Rapid Spin","type":"Normal","power":"50","accuracy":"100"}
+,{"category":"물리","move":"고속스핀","type":"Normal","power":"50","accuracy":"100"}
 ,{"category":"변화","move":"간지르기","type":"Normal","power":"—","accuracy":"100"}]
 ,"tutor":[{"category":"변화","move":"Corrosive Gas","type":"Poison","power":"—","accuracy":"100"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_I"}

@@ -7,7 +7,7 @@
 "requirement":"Level 24"}],"previousEvolutions":[{"number":"046","name":"파라스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/046.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/046.png","type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":60,"attack":95,"defense":80,"spAtk":60,"spDef":80,"speed":30,"total":405},"cards":[{"number":"4","name":"파라섹트","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/047/SWSH3_EN_4.png"},{"number":"7","name":"파라섹트","expansionName":"Team Up","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/047/SM9_EN_7.png"},{"number":"5","name":"파라섹트","expansionName":"Sun & Moon","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/047/SM1_EN_5.png"},{"number":"7","name":"파라섹트","expansionName":"Generations","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/047/G1_EN_7.png"},{"number":"2","name":"파라섹트","expansionName":"XY–BREAKthrough","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/047/XY8_EN_2.png"},{"number":"48","name":"파라섹트","expansionName":"HeartGold & SoulSilver","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/047/HGSS1_EN_48.png"},{"number":"43","name":"파라섹트","expansionName":"EX Fire Red & Leaf Green","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/047/EX6_EN_43.png"},{"number":"58","name":"파라섹트","expansionName":"Diamond & Pearl—Mysterious Treasures","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/047/DP2_EN_58.png"},{"number":"38","name":"파라섹트","expansionName":"Platinum—Supreme Victors","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/047/PL3_EN_38.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/047.mp3","moves":{
 "levelUp":[{"level":1,"category":"변화","move":"Leech Seed","type":"Grass","power":"—","accuracy":"90"}
 ,{"level":1,"category":"변화","move":"Poison Powder","type":"Poison","power":"—","accuracy":"75"}
-,{"level":1,"category":"물리","move":"Scratch","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"물리","move":"할퀴기","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":1,"category":"변화","move":"Screech","type":"Normal","power":"—","accuracy":"85"}
 ,{"level":1,"category":"변화","move":"Sleep Powder","type":"Grass","power":"—","accuracy":"75"}
 ,{"level":1,"category":"변화","move":"Stun Spore","type":"Grass","power":"—","accuracy":"75"}
@@ -16,11 +16,11 @@
 ,{"level":6,"category":"변화","move":"Poison Powder","type":"Poison","power":"—","accuracy":"75"}
 ,{"level":9,"category":"특수","move":"Absorb","type":"Grass","power":"20","accuracy":"100"}
 ,{"level":12,"category":"변화","move":"Growth","type":"Normal","power":"—","accuracy":"—"}
-,{"level":15,"category":"물리","move":"Fury Swipes","type":"Normal","power":"18","accuracy":"80"}
-,{"level":19,"category":"물리","move":"Slash","type":"Normal","power":"70","accuracy":"100"}
-,{"level":23,"category":"물리","move":"Leech Life","type":"Bug","power":"80","accuracy":"100"}
+,{"level":15,"category":"물리","move":"마구할퀴기","type":"Normal","power":"18","accuracy":"80"}
+,{"level":19,"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}
+,{"level":23,"category":"물리","move":"흡혈","type":"Bug","power":"80","accuracy":"100"}
 ,{"level":33,"category":"변화","move":"Spore","type":"Grass","power":"—","accuracy":"100"}
-,{"level":43,"category":"물리","move":"X-Scissor","type":"Bug","power":"80","accuracy":"100"}]
+,{"level":43,"category":"물리","move":"시저크로스","type":"Bug","power":"80","accuracy":"100"}]
 ,"technicalMachine":[{"technicalMachine":1,"category":"물리","move":"Headbutt","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":5,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":6,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
@@ -30,7 +30,7 @@
 ,{"technicalMachine":10,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
 ,{"technicalMachine":12,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":13,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
-,{"technicalMachine":24,"category":"물리","move":"X-Scissor","type":"Bug","power":"80","accuracy":"100"}
+,{"technicalMachine":24,"category":"물리","move":"시저크로스","type":"Bug","power":"80","accuracy":"100"}
 ,{"technicalMachine":27,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
 ,{"technicalMachine":45,"category":"특수","move":"Solar Beam","type":"Grass","power":"120","accuracy":"100"}
 ,{"technicalMachine":48,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}

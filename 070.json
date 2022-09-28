@@ -18,7 +18,7 @@
 ,{"level":17,"category":"변화","move":"Poison Powder","type":"Poison","power":"—","accuracy":"75"}
 ,{"level":18,"category":"변화","move":"Stun Spore","type":"Grass","power":"—","accuracy":"75"}
 ,{"level":27,"category":"물리","move":"Razor Leaf","type":"Grass","power":"55","accuracy":"95"}
-,{"level":36,"category":"물리","move":"Poison Jab","type":"Poison","power":"80","accuracy":"100"}
+,{"level":36,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"}
 ,{"level":45,"category":"물리","move":"힘껏치기","type":"Normal","power":"80","accuracy":"75"}]
 ,"technicalMachine":[{"technicalMachine":1,"category":"물리","move":"Headbutt","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":5,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
@@ -26,7 +26,7 @@
 ,{"technicalMachine":8,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":9,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":12,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
-,{"technicalMachine":26,"category":"물리","move":"Poison Jab","type":"Poison","power":"80","accuracy":"100"}
+,{"technicalMachine":26,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"}
 ,{"technicalMachine":27,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
 ,{"technicalMachine":45,"category":"특수","move":"Solar Beam","type":"Grass","power":"120","accuracy":"100"}
 ,{"technicalMachine":52,"category":"특수","move":"Sludge Bomb","type":"Poison","power":"90","accuracy":"100"}

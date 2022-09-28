@@ -32,7 +32,7 @@
 ,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
 ,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":38,"category":"변화","move":"Will-O-Wisp","type":"Fire","power":"—","accuracy":"85"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
@@ -74,5 +74,5 @@
 ,{"category":"변화","move":"Memento","type":"Dark","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"Roar","type":"Normal","power":"—","accuracy":"—"}]
 ,"tutor":[{"category":"특수","move":"Burning Jealousy","type":"Fire","power":"70","accuracy":"100"}
-,{"category":"특수","move":"Scorching Sands","type":"Ground","power":"70","accuracy":"100"}]
+,{"category":"특수","move":"열사의대지","type":"Ground","power":"70","accuracy":"100"}]
 ,"evolution":[{"category":"특수","move":"Dazzling Gleam","type":"Fairy","power":"80","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_I"}

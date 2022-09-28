@@ -10,7 +10,7 @@
 ,{"level":1,"category":"물리","move":"Tackle","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":4,"category":"특수","move":"Water Gun","type":"Water","power":"40","accuracy":"100"}
 ,{"level":8,"category":"변화","move":"Confuse Ray","type":"Ghost","power":"—","accuracy":"100"}
-,{"level":12,"category":"물리","move":"Rapid Spin","type":"Normal","power":"50","accuracy":"100"}
+,{"level":12,"category":"물리","move":"고속스핀","type":"Normal","power":"50","accuracy":"100"}
 ,{"level":16,"category":"변화","move":"Minimize","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":20,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
 ,{"level":24,"category":"특수","move":"Psybeam","type":"Psychic","power":"65","accuracy":"100"}
@@ -50,7 +50,7 @@
 {"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":44,"category":"변화","move":"Cosmic Power","type":"Psychic","power":"—","accuracy":"—"},
-{"technicalRecord":52,"category":"물리","move":"Gyro Ball","type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":52,"category":"물리","move":"자이로볼","type":"Steel","power":"—","accuracy":"100"},
 {"technicalRecord":63,"category":"특수","move":"Power Gem","type":"Rock","power":"80","accuracy":"100"},
 {"technicalRecord":70,"category":"특수","move":"Flash Cannon","type":"Steel","power":"80","accuracy":"100"},
 {"technicalRecord":84,"category":"특수","move":"Scald","type":"Water","power":"80","accuracy":"100"},

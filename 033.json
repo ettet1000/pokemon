@@ -10,7 +10,7 @@
 "levelUp":[{"level":1,"category":"변화","move":"Focus Energy","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":1,"category":"변화","move":"Leer","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":1,"category":"물리","move":"Peck","type":"Flying","power":"35","accuracy":"100"}
-,{"level":1,"category":"물리","move":"Poison Sting","type":"Poison","power":"15","accuracy":"100"}
+,{"level":1,"category":"물리","move":"독침","type":"Poison","power":"15","accuracy":"100"}
 ,{"level":15,"category":"물리","move":"Fury Attack","type":"Normal","power":"15","accuracy":"85"}
 ,{"level":22,"category":"변화","move":"Toxic Spikes","type":"Poison","power":"—","accuracy":"—"}
 ,{"level":29,"category":"물리","move":"Double Kick","type":"Fighting","power":"30","accuracy":"100"}
@@ -18,8 +18,8 @@
 ,{"level":43,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":50,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
 ,{"level":57,"category":"변화","move":"Flatter","type":"Dark","power":"—","accuracy":"100"}
-,{"level":64,"category":"물리","move":"Poison Jab","type":"Poison","power":"80","accuracy":"100"}
-,{"level":71,"category":"특수","move":"Earth Power","type":"Ground","power":"90","accuracy":"100"}]
+,{"level":64,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"}
+,{"level":71,"category":"특수","move":"대지의힘","type":"Ground","power":"90","accuracy":"100"}]
 ,"technicalMachine":[{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
 ,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
@@ -27,31 +27,31 @@
 ,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":37,"category":"물리","move":"Beat Up","type":"Dark","power":"—","accuracy":"100"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
-,{"technicalMachine":65,"category":"물리","move":"Shadow Claw","type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":65,"category":"물리","move":"섀도크루","type":"Ghost","power":"70","accuracy":"100"}
 ,{"technicalMachine":74,"category":"특수","move":"Venoshock","type":"Poison","power":"65","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
 ,{"technicalMachine":96,"category":"물리","move":"Smart Strike","type":"Steel","power":"70","accuracy":"—"}
-,{"technicalMachine":98,"category":"물리","move":"Stomping Tantrum","type":"Ground","power":"75","accuracy":"100"}],"technicalRecords":[
+,{"technicalMachine":98,"category":"물리","move":"분함의발구르기","type":"Ground","power":"75","accuracy":"100"}],"technicalRecords":[
 {"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
 {"technicalRecord":5,"category":"특수","move":"Ice Beam","type":"Ice","power":"90","accuracy":"100"},
 {"technicalRecord":6,"category":"특수","move":"Blizzard","type":"Ice","power":"110","accuracy":"70"},
 {"technicalRecord":8,"category":"특수","move":"10만볼트","type":"Electric","power":"90","accuracy":"100"},
 {"technicalRecord":9,"category":"특수","move":"번개","type":"Electric","power":"110","accuracy":"70"},
 {"technicalRecord":13,"category":"변화","move":"Focus Energy","type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":17,"category":"변화","move":"Amnesia","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":17,"category":"변화","move":"망각술","type":"Psychic","power":"—","accuracy":"—"},
 {"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":22,"category":"특수","move":"Sludge Bomb","type":"Poison","power":"90","accuracy":"100"},
 {"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":31,"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"},
 {"technicalRecord":54,"category":"변화","move":"Toxic Spikes","type":"Poison","power":"—","accuracy":"—"},
-{"technicalRecord":57,"category":"물리","move":"Poison Jab","type":"Poison","power":"80","accuracy":"100"},
-{"technicalRecord":67,"category":"특수","move":"Earth Power","type":"Ground","power":"90","accuracy":"100"},
-{"technicalRecord":87,"category":"물리","move":"Drill Run","type":"Ground","power":"80","accuracy":"95"},
+{"technicalRecord":57,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"},
+{"technicalRecord":67,"category":"특수","move":"대지의힘","type":"Ground","power":"90","accuracy":"100"},
+{"technicalRecord":87,"category":"물리","move":"드릴라이너","type":"Ground","power":"80","accuracy":"95"},
 {"technicalRecord":91,"category":"변화","move":"Venom Drench","type":"Poison","power":"—","accuracy":"100"}]
 ,"egg":[]
 ,"tutor":[]

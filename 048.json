@@ -14,7 +14,7 @@
 ,{"level":16,"category":"변화","move":"Stun Spore","type":"Grass","power":"—","accuracy":"75"}
 ,{"level":20,"category":"특수","move":"Psybeam","type":"Psychic","power":"65","accuracy":"100"}
 ,{"level":24,"category":"변화","move":"Sleep Powder","type":"Grass","power":"—","accuracy":"75"}
-,{"level":28,"category":"물리","move":"Leech Life","type":"Bug","power":"80","accuracy":"100"}
+,{"level":28,"category":"물리","move":"흡혈","type":"Bug","power":"80","accuracy":"100"}
 ,{"level":32,"category":"특수","move":"Psychic","type":"Psychic","power":"90","accuracy":"100"}]
 ,"technicalMachine":[{"technicalMachine":1,"category":"물리","move":"Headbutt","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":5,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}

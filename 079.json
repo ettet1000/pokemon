@@ -20,7 +20,7 @@
 ,{"level":18,"category":"특수","move":"Water Pulse","type":"Water","power":"60","accuracy":"100"}
 ,{"level":21,"category":"물리","move":"Headbutt","type":"Normal","power":"70","accuracy":"100"}
 ,{"level":24,"category":"물리","move":"Zen Headbutt","type":"Psychic","power":"80","accuracy":"90"}
-,{"level":27,"category":"변화","move":"Amnesia","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":27,"category":"변화","move":"망각술","type":"Psychic","power":"—","accuracy":"—"}
 ,{"level":30,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"}
 ,{"level":33,"category":"변화","move":"Slack Off","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":36,"category":"특수","move":"Psychic","type":"Psychic","power":"90","accuracy":"100"}

@@ -15,7 +15,7 @@
 ,{"level":1,"category":"특수","move":"Power Gem","type":"Rock","power":"80","accuracy":"100"}
 ,{"level":1,"category":"특수","move":"Psybeam","type":"Psychic","power":"65","accuracy":"100"}
 ,{"level":1,"category":"특수","move":"Psychic","type":"Psychic","power":"90","accuracy":"100"}
-,{"level":1,"category":"물리","move":"Rapid Spin","type":"Normal","power":"50","accuracy":"100"}
+,{"level":1,"category":"물리","move":"고속스핀","type":"Normal","power":"50","accuracy":"100"}
 ,{"level":1,"category":"변화","move":"Recover","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":1,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"}
 ,{"level":1,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
@@ -59,7 +59,7 @@
 {"technicalRecord":38,"category":"변화","move":"Trick","type":"Psychic","power":"—","accuracy":"100"},
 {"technicalRecord":40,"category":"변화","move":"Skill Swap","type":"Psychic","power":"—","accuracy":"—"},
 {"technicalRecord":44,"category":"변화","move":"Cosmic Power","type":"Psychic","power":"—","accuracy":"—"},
-{"technicalRecord":52,"category":"물리","move":"Gyro Ball","type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":52,"category":"물리","move":"자이로볼","type":"Steel","power":"—","accuracy":"100"},
 {"technicalRecord":63,"category":"특수","move":"Power Gem","type":"Rock","power":"80","accuracy":"100"},
 {"technicalRecord":70,"category":"특수","move":"Flash Cannon","type":"Steel","power":"80","accuracy":"100"},
 {"technicalRecord":77,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"},

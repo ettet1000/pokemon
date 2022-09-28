@@ -9,7 +9,7 @@
 "requirement":"달의돌 사용"}],"superEvolutions":[],"baseStats":{"hp":115,"attack":45,"defense":20,"spAtk":45,"spDef":25,"speed":20,"total":270},"cards":[{"number":"67","name":"푸린","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/039/SWSH3_EN_67.png"},{"number":"165","name":"Mega Lopunny & 푸린-GX","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/039/SM12_EN_165.png"},{"number":"225","name":"Mega Lopunny & 푸린-GX","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/039/SM12_EN_225.png"},{"number":"226","name":"Mega Lopunny & 푸린-GX","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/039/SM12_EN_226.png"},{"number":"261","name":"Mega Lopunny & 푸린-GX","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/039/SM12_EN_261.png"},{"number":"41","name":"푸린","expansionName":"Hidden Fates","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/039/SM115_EN_41.png"},{"number":"134","name":"푸린","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/039/SM10_EN_134.png"},{"number":"14","name":"푸린","expansionName":"Detective 피카츄","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/039/DET_EN_14.png"},{"number":"133","name":"푸린","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/039/SM8_EN_133.png"},{"number":"71","name":"푸린","expansionName":"Crimson Invasion","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/039/SM4_EN_71.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/039.mp3","moves":{
 "levelUp":[{"level":1,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}
 ,{"level":1,"category":"변화","move":"Copycat","type":"Normal","power":"—","accuracy":"—"}
-,{"level":1,"category":"변화","move":"Defense Curl","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"웅크리기","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":1,"category":"변화","move":"Disable","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":1,"category":"특수","move":"차밍보이스","type":"Fairy","power":"40","accuracy":"∞"}
 ,{"level":1,"category":"물리","move":"Pound","type":"Normal","power":"40","accuracy":"100"}
@@ -24,7 +24,7 @@
 ,{"level":20,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
 ,{"level":24,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"}
 ,{"level":28,"category":"변화","move":"Mimic","type":"Normal","power":"—","accuracy":"—"}
-,{"level":32,"category":"물리","move":"Gyro Ball","type":"Steel","power":"—","accuracy":"100"}
+,{"level":32,"category":"물리","move":"자이로볼","type":"Steel","power":"—","accuracy":"100"}
 ,{"level":36,"category":"특수","move":"Hyper Voice","type":"Normal","power":"90","accuracy":"100"}
 ,{"level":40,"category":"물리","move":"치근거리기","type":"Fairy","power":"90","accuracy":"90"}
 ,{"level":44,"category":"물리","move":"Double-Edge","type":"Normal","power":"120","accuracy":"100"}]
@@ -48,7 +48,7 @@
 ,{"technicalMachine":29,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
@@ -76,11 +76,11 @@
 {"technicalRecord":33,"category":"특수","move":"Shadow Ball","type":"Ghost","power":"80","accuracy":"100"},
 {"technicalRecord":35,"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"},
 {"technicalRecord":42,"category":"특수","move":"Hyper Voice","type":"Normal","power":"90","accuracy":"100"},
-{"technicalRecord":52,"category":"물리","move":"Gyro Ball","type":"Steel","power":"—","accuracy":"100"},
-{"technicalRecord":76,"category":"변화","move":"Stealth Rock","type":"Rock","power":"—","accuracy":"—"},
+{"technicalRecord":52,"category":"물리","move":"자이로볼","type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":76,"category":"변화","move":"스텔스록","type":"Rock","power":"—","accuracy":"—"},
 {"technicalRecord":77,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"},
 {"technicalRecord":83,"category":"변화","move":"Ally Switch","type":"Psychic","power":"—","accuracy":"—"},
-{"technicalRecord":85,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":85,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":86,"category":"물리","move":"와일드볼트","type":"Electric","power":"90","accuracy":"100"},
 {"technicalRecord":90,"category":"물리","move":"치근거리기","type":"Fairy","power":"90","accuracy":"90"},
 {"technicalRecord":92,"category":"특수","move":"Dazzling Gleam","type":"Fairy","power":"80","accuracy":"100"}]
@@ -90,8 +90,8 @@
 ,{"category":"물리","move":"Last Resort","type":"Normal","power":"140","accuracy":"100"}
 ,{"category":"변화","move":"Perish Song","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"프레젠트","type":"Normal","power":"—","accuracy":"90"}
-,{"category":"물리","move":"Rollout","type":"Rock","power":"30","accuracy":"90"}
+,{"category":"물리","move":"구르기","type":"Rock","power":"30","accuracy":"90"}
 ,{"category":"변화","move":"희망사항","type":"Normal","power":"—","accuracy":"—"}]
 ,"tutor":[{"category":"특수","move":"Misty Explosion","type":"Fairy","power":"100","accuracy":"100"}
-,{"category":"물리","move":"Steel Roller","type":"Steel","power":"130","accuracy":"100"}]
+,{"category":"물리","move":"아이언롤러","type":"Steel","power":"130","accuracy":"100"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_I"}

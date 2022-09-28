@@ -24,9 +24,9 @@
 ,{"technicalMachine":8,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":10,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
 ,{"technicalMachine":12,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
-,{"technicalMachine":22,"category":"물리","move":"Rock Slide","type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
 ,{"technicalMachine":23,"category":"물리","move":"번개펀치","type":"Electric","power":"75","accuracy":"100"}
-,{"technicalMachine":26,"category":"물리","move":"Poison Jab","type":"Poison","power":"80","accuracy":"100"}
+,{"technicalMachine":26,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"}
 ,{"technicalMachine":27,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
 ,{"technicalMachine":31,"category":"물리","move":"Fire Punch","type":"Fire","power":"75","accuracy":"100"}
 ,{"technicalMachine":35,"category":"물리","move":"Ice Punch","type":"Ice","power":"75","accuracy":"100"}

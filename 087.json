@@ -35,7 +35,7 @@
 ,{"technicalMachine":51,"category":"특수","move":"Blizzard","type":"Ice","power":"110","accuracy":"70"}
 ,{"technicalMachine":55,"category":"특수","move":"Ice Beam","type":"Ice","power":"90","accuracy":"100"}
 ,{"technicalMachine":57,"category":"물리","move":"고양이돈받기","type":"Normal","power":"40","accuracy":"100"}
-,{"technicalMachine":58,"category":"물리","move":"Drill Run","type":"Ground","power":"80","accuracy":"95"}
+,{"technicalMachine":58,"category":"물리","move":"드릴라이너","type":"Ground","power":"80","accuracy":"95"}
 ,{"technicalMachine":60,"category":"물리","move":"Megahorn","type":"Bug","power":"120","accuracy":"85"}],"technicalRecords":[]
 ,"egg":[]
 ,"tutor":[]
