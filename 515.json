@@ -8,11 +8,11 @@
 "requirement":"물의돌 사용"}],"superEvolutions":[],"baseStats":{"hp":50,"attack":53,"defense":48,"spAtk":53,"spDef":48,"speed":64,"total":316},"cards":[{"number":"41","name":"앗차프","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/515/SWSH3_EN_41.png"},{"number":"36","name":"앗차프","expansionName":"Burning Shadows","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/515/SM3_EN_36.png"},{"number":"41","name":"앗차프","expansionName":"XY–BREAKthrough","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/515/XY8_EN_41.png"},{"number":"11","name":"앗차프","expansionName":"XY—Kalos Starter Set","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/515/XY0_EN_11.png"},{"number":"37","name":"앗차프","expansionName":"XY","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/515/XY1_EN_37.png"},{"number":"28","name":"앗차프","expansionName":"Black & White—Next Destinies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/515/BW4_EN_28.png"},{"number":"22","name":"앗차프","expansionName":"Black & White—Emerging Powers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/515/BW2_EN_22.png"},{"number":"33","name":"앗차프","expansionName":"Black & White","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/515/BW1_EN_33.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/515.mp3","moves":{
 "levelUp":[{"level":1,"category":"변화","move":"친해지기","type":"Normal","power":"—","accuracy":"—"}
-,{"level":1,"category":"물리","move":"Scratch","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"물리","move":"할퀴기","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":4,"category":"변화","move":"Leer","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":7,"category":"물리","move":"Lick","type":"Ghost","power":"30","accuracy":"100"}
 ,{"level":10,"category":"특수","move":"Water Gun","type":"Water","power":"40","accuracy":"100"}
-,{"level":13,"category":"물리","move":"Fury Swipes","type":"Normal","power":"18","accuracy":"80"}
+,{"level":13,"category":"물리","move":"마구할퀴기","type":"Normal","power":"18","accuracy":"80"}
 ,{"level":16,"category":"변화","move":"Water Sport","type":"Water","power":"—","accuracy":"—"}
 ,{"level":19,"category":"물리","move":"Bite","type":"Dark","power":"60","accuracy":"100"}
 ,{"level":22,"category":"특수","move":"Scald","type":"Water","power":"80","accuracy":"100"}
@@ -23,7 +23,7 @@
 ,{"level":37,"category":"변화","move":"Recycle","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":40,"category":"물리","move":"Natural Gift","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":43,"category":"물리","move":"Crunch","type":"Dark","power":"80","accuracy":"100"}]
-,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"}
+,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":6,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
 ,{"technicalMachine":7,"category":"변화","move":"Hail","type":"Ice","power":"—","accuracy":"—"}
 ,{"technicalMachine":10,"category":"특수","move":"Hidden Power","type":"Normal","power":"60","accuracy":"100"}
@@ -35,7 +35,7 @@
 ,{"technicalMachine":21,"category":"물리","move":"Frustration","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":27,"category":"물리","move":"Return","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":32,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
-,{"technicalMachine":39,"category":"물리","move":"Rock Tomb","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":39,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
 ,{"technicalMachine":41,"category":"변화","move":"Torment","type":"Dark","power":"—","accuracy":"100"}
 ,{"technicalMachine":42,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":44,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
@@ -46,7 +46,7 @@
 ,{"technicalMachine":55,"category":"특수","move":"Scald","type":"Water","power":"80","accuracy":"100"}
 ,{"technicalMachine":56,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
 ,{"technicalMachine":62,"category":"물리","move":"Acrobatics","type":"Flying","power":"55","accuracy":"100"}
-,{"technicalMachine":65,"category":"물리","move":"Shadow Claw","type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":65,"category":"물리","move":"섀도크루","type":"Ghost","power":"70","accuracy":"100"}
 ,{"technicalMachine":66,"category":"물리","move":"Payback","type":"Dark","power":"50","accuracy":"100"}
 ,{"technicalMachine":86,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"}
 ,{"technicalMachine":87,"category":"변화","move":"Swagger","type":"Normal","power":"—","accuracy":"85"}

@@ -10,7 +10,7 @@
 ,{"level":1,"category":"변화","move":"Focus Energy","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":1,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":1,"category":"물리","move":"V-create","type":"Fire","power":"180","accuracy":"95"}
-,{"level":7,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"}
+,{"level":7,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":14,"category":"특수","move":"Incinerate","type":"Fire","power":"60","accuracy":"100"}
 ,{"level":21,"category":"특수","move":"Stored Power","type":"Psychic","power":"20","accuracy":"100"}
 ,{"level":28,"category":"물리","move":"Headbutt","type":"Normal","power":"70","accuracy":"100"}
@@ -37,7 +37,7 @@
 ,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
 ,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":38,"category":"변화","move":"Will-O-Wisp","type":"Fire","power":"—","accuracy":"85"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
@@ -80,7 +80,7 @@
 {"technicalRecord":69,"category":"물리","move":"Zen Headbutt","type":"Psychic","power":"80","accuracy":"90"},
 {"technicalRecord":77,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"},
 {"technicalRecord":82,"category":"특수","move":"Stored Power","type":"Psychic","power":"20","accuracy":"100"},
-{"technicalRecord":85,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":85,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":86,"category":"물리","move":"와일드볼트","type":"Electric","power":"90","accuracy":"100"},
 {"technicalRecord":92,"category":"특수","move":"Dazzling Gleam","type":"Fairy","power":"80","accuracy":"100"}]
 ,"egg":[]

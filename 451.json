@@ -8,8 +8,8 @@
 "requirement":"Level 40"}],"superEvolutions":[],"baseStats":{"hp":40,"attack":50,"defense":90,"spAtk":30,"spDef":55,"speed":65,"total":330},"cards":[{"number":"121","name":"스콜피","expansionName":"Sword & Shield","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/451/SWSH1_EN_121.png"},{"number":"82","name":"스콜피","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/451/SM11_EN_82.png"},{"number":"54","name":"스콜피","expansionName":"Ultra Prism","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/451/SM5_EN_54.png"},{"number":"53","name":"스콜피","expansionName":"XY—BREAKpoint","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/451/XY9_EN_53.png"},{"number":"38","name":"스콜피","expansionName":"XY—Furious Fists","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/451/XY3_EN_38.png"},{"number":"76","name":"스콜피","expansionName":"HS—Triumphant","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/451/HGSS4_EN_76.png"},{"number":"99","name":"스콜피","expansionName":"Diamond & Pearl","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/451/DP1_EN_99.png"},{"number":"73","name":"스콜피","expansionName":"Diamond & Pearl—Stormfront","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/451/DP7_EN_73.png"},{"number":"128","name":"스콜피","expansionName":"Platinum—Supreme Victors","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/451/PL3_EN_128.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/451.mp3","moves":{
 "levelUp":[{"level":1,"category":"변화","move":"Leer","type":"Normal","power":"—","accuracy":"100"}
-,{"level":1,"category":"물리","move":"Poison Sting","type":"Poison","power":"15","accuracy":"100"}
-,{"level":3,"category":"변화","move":"Hone Claws","type":"Dark","power":"—","accuracy":"—"}
+,{"level":1,"category":"물리","move":"독침","type":"Poison","power":"15","accuracy":"100"}
+,{"level":3,"category":"변화","move":"손톱갈기","type":"Dark","power":"—","accuracy":"—"}
 ,{"level":6,"category":"물리","move":"Fell Stinger","type":"Bug","power":"50","accuracy":"100"}
 ,{"level":9,"category":"물리","move":"Poison Fang","type":"Poison","power":"50","accuracy":"100"}
 ,{"level":12,"category":"물리","move":"Bite","type":"Dark","power":"60","accuracy":"100"}
@@ -18,14 +18,14 @@
 ,{"level":21,"category":"특수","move":"Venoshock","type":"Poison","power":"65","accuracy":"100"}
 ,{"level":24,"category":"물리","move":"Knock Off","type":"Dark","power":"65","accuracy":"100"}
 ,{"level":27,"category":"변화","move":"Scary Face","type":"Normal","power":"—","accuracy":"100"}
-,{"level":30,"category":"물리","move":"Pin Missile","type":"Bug","power":"25","accuracy":"95"}
+,{"level":30,"category":"물리","move":"바늘미사일","type":"Bug","power":"25","accuracy":"95"}
 ,{"level":33,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
-,{"level":36,"category":"물리","move":"Night Slash","type":"Dark","power":"70","accuracy":"100"}
+,{"level":36,"category":"물리","move":"깜짝베기","type":"Dark","power":"70","accuracy":"100"}
 ,{"level":39,"category":"물리","move":"Cross Poison","type":"Poison","power":"70","accuracy":"100"}
-,{"level":42,"category":"물리","move":"X-Scissor","type":"Bug","power":"80","accuracy":"100"}
+,{"level":42,"category":"물리","move":"시저크로스","type":"Bug","power":"80","accuracy":"100"}
 ,{"level":45,"category":"변화","move":"Acupressure","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":48,"category":"물리","move":"Crunch","type":"Dark","power":"80","accuracy":"100"}]
-,"technicalMachine":[{"technicalMachine":7,"category":"물리","move":"Pin Missile","type":"Bug","power":"25","accuracy":"95"}
+,"technicalMachine":[{"technicalMachine":7,"category":"물리","move":"바늘미사일","type":"Bug","power":"25","accuracy":"95"}
 ,{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
 ,{"technicalMachine":16,"category":"변화","move":"Screech","type":"Normal","power":"—","accuracy":"85"}
 ,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
@@ -35,10 +35,10 @@
 ,{"technicalMachine":26,"category":"변화","move":"Scary Face","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
-,{"technicalMachine":48,"category":"물리","move":"Rock Tomb","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
 ,{"technicalMachine":57,"category":"물리","move":"Payback","type":"Dark","power":"50","accuracy":"100"}
 ,{"technicalMachine":58,"category":"물리","move":"Assurance","type":"Dark","power":"60","accuracy":"100"}
 ,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
@@ -46,7 +46,7 @@
 ,{"technicalMachine":74,"category":"특수","move":"Venoshock","type":"Poison","power":"65","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
 ,{"technicalMachine":94,"category":"물리","move":"False Swipe","type":"Normal","power":"40","accuracy":"100"}],"technicalRecords":[
-{"technicalRecord":0,"category":"변화","move":"Swords Dance","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":0,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":12,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},
 {"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":22,"category":"특수","move":"Sludge Bomb","type":"Poison","power":"90","accuracy":"100"},
@@ -57,13 +57,13 @@
 {"technicalRecord":33,"category":"특수","move":"Shadow Ball","type":"Ghost","power":"80","accuracy":"100"},
 {"technicalRecord":37,"category":"변화","move":"Taunt","type":"Dark","power":"—","accuracy":"100"},
 {"technicalRecord":54,"category":"변화","move":"Toxic Spikes","type":"Poison","power":"—","accuracy":"—"},
-{"technicalRecord":57,"category":"물리","move":"Poison Jab","type":"Poison","power":"80","accuracy":"100"},
+{"technicalRecord":57,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"},
 {"technicalRecord":58,"category":"특수","move":"Dark Pulse","type":"Dark","power":"80","accuracy":"100"},
-{"technicalRecord":60,"category":"물리","move":"X-Scissor","type":"Bug","power":"80","accuracy":"100"},
+{"technicalRecord":60,"category":"물리","move":"시저크로스","type":"Bug","power":"80","accuracy":"100"},
 {"technicalRecord":61,"category":"특수","move":"Bug Buzz","type":"Bug","power":"90","accuracy":"100"}]
 ,"egg":[{"category":"변화","move":"Confuse Ray","type":"Ghost","power":"—","accuracy":"100"}
-,{"category":"변화","move":"Sand Attack","type":"Ground","power":"—","accuracy":"100"}
-,{"category":"물리","move":"Slash","type":"Normal","power":"70","accuracy":"100"}
+,{"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"}
+,{"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}
 ,{"category":"변화","move":"Whirlwind","type":"Normal","power":"—","accuracy":"—"}]
 ,"tutor":[{"category":"물리","move":"Skitter Smack","type":"Bug","power":"70","accuracy":"90"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_IV"}

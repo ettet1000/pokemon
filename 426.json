@@ -35,7 +35,7 @@
 ,{"technicalMachine":27,"category":"특수","move":"Icy Wind","type":"Ice","power":"55","accuracy":"95"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":38,"category":"변화","move":"Will-O-Wisp","type":"Fire","power":"—","accuracy":"85"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
@@ -52,7 +52,7 @@
 {"technicalRecord":9,"category":"특수","move":"번개","type":"Electric","power":"110","accuracy":"70"},
 {"technicalRecord":11,"category":"특수","move":"Psychic","type":"Psychic","power":"90","accuracy":"100"},
 {"technicalRecord":13,"category":"변화","move":"Focus Energy","type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":17,"category":"변화","move":"Amnesia","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":17,"category":"변화","move":"망각술","type":"Psychic","power":"—","accuracy":"—"},
 {"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
@@ -61,7 +61,7 @@
 {"technicalRecord":38,"category":"변화","move":"Trick","type":"Psychic","power":"—","accuracy":"100"},
 {"technicalRecord":40,"category":"변화","move":"Skill Swap","type":"Psychic","power":"—","accuracy":"—"},
 {"technicalRecord":49,"category":"변화","move":"Calm Mind","type":"Psychic","power":"—","accuracy":"—"},
-{"technicalRecord":52,"category":"물리","move":"Gyro Ball","type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":52,"category":"물리","move":"자이로볼","type":"Steel","power":"—","accuracy":"100"},
 {"technicalRecord":83,"category":"변화","move":"Ally Switch","type":"Psychic","power":"—","accuracy":"—"}]
 ,"egg":[{"category":"특수","move":"Clear Smog","type":"Poison","power":"50","accuracy":"—"}
 ,{"category":"변화","move":"Defog","type":"Flying","power":"—","accuracy":"—"}

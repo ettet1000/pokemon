@@ -11,7 +11,7 @@
 ,{"level":1,"category":"특수","move":"Bug Buzz","type":"Bug","power":"90","accuracy":"100"}
 ,{"level":1,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":1,"category":"변화","move":"Foresight","type":"Normal","power":"—","accuracy":"—"}
-,{"level":1,"category":"물리","move":"Night Slash","type":"Dark","power":"70","accuracy":"100"}
+,{"level":1,"category":"물리","move":"깜짝베기","type":"Dark","power":"70","accuracy":"100"}
 ,{"level":1,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":1,"category":"물리","move":"Tackle","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":6,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
@@ -23,21 +23,21 @@
 ,{"level":30,"category":"물리","move":"Pursuit","type":"Dark","power":"40","accuracy":"100"}
 ,{"level":33,"category":"특수","move":"Ancient Power","type":"Rock","power":"60","accuracy":"100"}
 ,{"level":38,"category":"물리","move":"페인트","type":"Normal","power":"30","accuracy":"100"}
-,{"level":43,"category":"물리","move":"Slash","type":"Normal","power":"70","accuracy":"100"}
+,{"level":43,"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}
 ,{"level":46,"category":"변화","move":"Screech","type":"Normal","power":"—","accuracy":"85"}
 ,{"level":49,"category":"물리","move":"U-turn","type":"Bug","power":"70","accuracy":"100"}
 ,{"level":54,"category":"특수","move":"Air Slash","type":"Flying","power":"75","accuracy":"95"}
 ,{"level":57,"category":"특수","move":"Bug Buzz","type":"Bug","power":"90","accuracy":"100"}]
 ,"technicalMachine":[{"technicalMachine":6,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
 ,{"technicalMachine":10,"category":"특수","move":"Hidden Power","type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":11,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":11,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":15,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
 ,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":19,"category":"변화","move":"Roost","type":"Flying","power":"—","accuracy":"—"}
 ,{"technicalMachine":21,"category":"물리","move":"Frustration","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":22,"category":"특수","move":"Solar Beam","type":"Grass","power":"120","accuracy":"100"}
 ,{"technicalMachine":27,"category":"물리","move":"Return","type":"Normal","power":"—","accuracy":"100"}
-,{"technicalMachine":28,"category":"물리","move":"Leech Life","type":"Bug","power":"80","accuracy":"100"}
+,{"technicalMachine":28,"category":"물리","move":"흡혈","type":"Bug","power":"80","accuracy":"100"}
 ,{"technicalMachine":29,"category":"특수","move":"Psychic","type":"Psychic","power":"90","accuracy":"100"}
 ,{"technicalMachine":30,"category":"특수","move":"Shadow Ball","type":"Ghost","power":"80","accuracy":"100"}
 ,{"technicalMachine":32,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
@@ -59,7 +59,7 @@
 ,"egg":[{"category":"물리","move":"Double-Edge","type":"Normal","power":"120","accuracy":"100"}
 ,{"category":"물리","move":"페인트","type":"Normal","power":"30","accuracy":"100"}
 ,{"category":"물리","move":"페인트 Attack","type":"Dark","power":"60","accuracy":"∞"}
-,{"category":"물리","move":"Leech Life","type":"Bug","power":"80","accuracy":"100"}
+,{"category":"물리","move":"흡혈","type":"Bug","power":"80","accuracy":"100"}
 ,{"category":"물리","move":"Pursuit","type":"Dark","power":"40","accuracy":"100"}
 ,{"category":"물리","move":"기사회생","type":"Fighting","power":"—","accuracy":"100"}
 ,{"category":"물리","move":"Secret Power","type":"Normal","power":"70","accuracy":"100"}

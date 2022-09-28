@@ -8,11 +8,11 @@
 "requirement":"Level 34"}],"superEvolutions":[],"baseStats":{"hp":63,"attack":63,"defense":47,"spAtk":41,"spDef":41,"speed":74,"total":329},"cards":[{"number":"114","name":"스컹뿡","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/434/SWSH2_EN_114.png"},{"number":"75","name":"스컹뿡","expansionName":"Ultra Prism","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/434/SM5_EN_75.png"},{"number":"53","name":"스컹뿡","expansionName":"XY—Flashfire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/434/XY2_EN_53.png"},{"number":"54","name":"스컹뿡","expansionName":"XY—Flashfire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/434/XY2_EN_54.png"},{"number":"76","name":"스컹뿡","expansionName":"Black & White—Dragons Exalted","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/434/BW6_EN_76.png"},{"number":"69","name":"스컹뿡","expansionName":"HS—Undaunted","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/434/HGSS3_EN_69.png"},{"number":"102","name":"스컹뿡","expansionName":"Diamond & Pearl","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/434/DP1_EN_102.png"},{"number":"76","name":"스컹뿡","expansionName":"Diamond & Pearl—Majestic Dawn","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/434/DP5_EN_76.png"},{"number":"76","name":"스컹뿡","expansionName":"Diamond & Pearl—Stormfront","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/434/DP7_EN_76.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/434.mp3","moves":{
 "levelUp":[{"level":1,"category":"변화","move":"Poison Gas","type":"Poison","power":"—","accuracy":"90"}
-,{"level":1,"category":"물리","move":"Scratch","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"물리","move":"할퀴기","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":3,"category":"물리","move":"페인트","type":"Normal","power":"30","accuracy":"100"}
 ,{"level":6,"category":"변화","move":"Smokescreen","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":9,"category":"특수","move":"Acid Spray","type":"Poison","power":"40","accuracy":"100"}
-,{"level":12,"category":"물리","move":"Fury Swipes","type":"Normal","power":"18","accuracy":"80"}
+,{"level":12,"category":"물리","move":"마구할퀴기","type":"Normal","power":"18","accuracy":"80"}
 ,{"level":15,"category":"변화","move":"Focus Energy","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":18,"category":"물리","move":"Bite","type":"Dark","power":"60","accuracy":"100"}
 ,{"level":21,"category":"특수","move":"Venoshock","type":"Poison","power":"65","accuracy":"100"}
@@ -20,7 +20,7 @@
 ,{"level":27,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
 ,{"level":30,"category":"물리","move":"Sucker Punch","type":"Dark","power":"70","accuracy":"100"}
 ,{"level":33,"category":"변화","move":"Memento","type":"Dark","power":"—","accuracy":"100"}
-,{"level":36,"category":"물리","move":"Night Slash","type":"Dark","power":"70","accuracy":"100"}
+,{"level":36,"category":"물리","move":"깜짝베기","type":"Dark","power":"70","accuracy":"100"}
 ,{"level":39,"category":"특수","move":"Belch","type":"Poison","power":"120","accuracy":"90"}
 ,{"level":42,"category":"변화","move":"Venom Drench","type":"Poison","power":"—","accuracy":"100"}
 ,{"level":45,"category":"물리","move":"Explosion","type":"Normal","power":"250","accuracy":"100"}]
@@ -33,12 +33,12 @@
 ,{"technicalMachine":26,"category":"변화","move":"Scary Face","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
 ,{"technicalMachine":57,"category":"물리","move":"Payback","type":"Dark","power":"50","accuracy":"100"}
 ,{"technicalMachine":58,"category":"물리","move":"Assurance","type":"Dark","power":"60","accuracy":"100"}
-,{"technicalMachine":65,"category":"물리","move":"Shadow Claw","type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":65,"category":"물리","move":"섀도크루","type":"Ghost","power":"70","accuracy":"100"}
 ,{"technicalMachine":74,"category":"특수","move":"Venoshock","type":"Poison","power":"65","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
 ,{"technicalMachine":77,"category":"특수","move":"Hex","type":"Ghost","power":"65","accuracy":"100"}
@@ -60,12 +60,12 @@
 {"technicalRecord":81,"category":"물리","move":"Foul Play","type":"Dark","power":"95","accuracy":"100"},
 {"technicalRecord":90,"category":"물리","move":"치근거리기","type":"Fairy","power":"90","accuracy":"90"},
 {"technicalRecord":91,"category":"변화","move":"Venom Drench","type":"Poison","power":"—","accuracy":"100"},
-{"technicalRecord":95,"category":"물리","move":"Throat Chop","type":"Dark","power":"80","accuracy":"100"}]
+{"technicalRecord":95,"category":"물리","move":"지옥찌르기","type":"Dark","power":"80","accuracy":"100"}]
 ,"egg":[{"category":"물리","move":"Astonish","type":"Ghost","power":"30","accuracy":"100"}
 ,{"category":"물리","move":"Double-Edge","type":"Normal","power":"120","accuracy":"100"}
 ,{"category":"변화","move":"Haze","type":"Ice","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"Leer","type":"Normal","power":"—","accuracy":"100"}
-,{"category":"물리","move":"Slash","type":"Normal","power":"70","accuracy":"100"}
+,{"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}
 ,{"category":"특수","move":"Smog","type":"Poison","power":"30","accuracy":"70"}]
 ,"tutor":[{"category":"변화","move":"Corrosive Gas","type":"Poison","power":"—","accuracy":"100"}
 ,{"category":"물리","move":"Lash Out","type":"Dark","power":"75","accuracy":"100"}]

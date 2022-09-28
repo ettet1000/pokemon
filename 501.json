@@ -15,16 +15,16 @@
 ,{"level":11,"category":"변화","move":"Water Sport","type":"Water","power":"—","accuracy":"—"}
 ,{"level":13,"category":"변화","move":"Focus Energy","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":17,"category":"물리","move":"Razor Shell","type":"Water","power":"75","accuracy":"95"}
-,{"level":19,"category":"물리","move":"Fury Cutter","type":"Bug","power":"40","accuracy":"95"}
+,{"level":19,"category":"물리","move":"연속자르기","type":"Bug","power":"40","accuracy":"95"}
 ,{"level":23,"category":"특수","move":"Water Pulse","type":"Water","power":"60","accuracy":"100"}
 ,{"level":25,"category":"물리","move":"Revenge","type":"Fighting","power":"60","accuracy":"100"}
 ,{"level":29,"category":"물리","move":"Aqua Jet","type":"Water","power":"40","accuracy":"100"}
 ,{"level":31,"category":"변화","move":"앵콜","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":35,"category":"물리","move":"Aqua Tail","type":"Water","power":"90","accuracy":"90"}
 ,{"level":37,"category":"물리","move":"Retaliate","type":"Normal","power":"70","accuracy":"100"}
-,{"level":41,"category":"변화","move":"Swords Dance","type":"Normal","power":"—","accuracy":"—"}
+,{"level":41,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":43,"category":"특수","move":"Hydro Pump","type":"Water","power":"110","accuracy":"80"}]
-,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"}
+,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":6,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
 ,{"technicalMachine":7,"category":"변화","move":"Hail","type":"Ice","power":"—","accuracy":"—"}
 ,{"technicalMachine":10,"category":"특수","move":"Hidden Power","type":"Normal","power":"60","accuracy":"100"}
@@ -44,8 +44,8 @@
 ,{"technicalMachine":54,"category":"물리","move":"False Swipe","type":"Normal","power":"40","accuracy":"100"}
 ,{"technicalMachine":55,"category":"특수","move":"Scald","type":"Water","power":"80","accuracy":"100"}
 ,{"technicalMachine":56,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
-,{"technicalMachine":75,"category":"변화","move":"Swords Dance","type":"Normal","power":"—","accuracy":"—"}
-,{"technicalMachine":81,"category":"물리","move":"X-Scissor","type":"Bug","power":"80","accuracy":"100"}
+,{"technicalMachine":75,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":81,"category":"물리","move":"시저크로스","type":"Bug","power":"80","accuracy":"100"}
 ,{"technicalMachine":86,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"}
 ,{"technicalMachine":87,"category":"변화","move":"Swagger","type":"Normal","power":"—","accuracy":"85"}
 ,{"technicalMachine":88,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"}
@@ -58,7 +58,7 @@
 ,{"category":"특수","move":"Brine","type":"Water","power":"65","accuracy":"100"}
 ,{"category":"변화","move":"Copycat","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"Detect","type":"Fighting","power":"—","accuracy":"—"}
-,{"category":"물리","move":"Night Slash","type":"Dark","power":"70","accuracy":"100"}
+,{"category":"물리","move":"깜짝베기","type":"Dark","power":"70","accuracy":"100"}
 ,{"category":"물리","move":"Sacred Sword","type":"Fighting","power":"90","accuracy":"100"}
 ,{"category":"변화","move":"Screech","type":"Normal","power":"—","accuracy":"85"}
 ,{"category":"특수","move":"Trump Card","type":"Normal","power":"—","accuracy":"∞"}]

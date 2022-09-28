@@ -7,7 +7,7 @@
 "requirement":"달의돌 사용"}],"previousEvolutions":[{"number":"517","name":"몽나","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/517.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/517.png","type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":116,"attack":55,"defense":85,"spAtk":107,"spDef":95,"speed":29,"total":487},"cards":[{"number":"88","name":"몽얌나","expansionName":"Sword & Shield","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/518/SWSH1_EN_88.png"},{"number":"89","name":"몽얌나","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/518/SM11_EN_89.png"},{"number":"40","name":"몽얌나","expansionName":"XY—Phantom Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/518/XY4_EN_40.png"},{"number":"40","name":"몽얌나","expansionName":"Black & White—Plasma Blast","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/518/BW10_EN_40.png"},{"number":"69","name":"몽얌나","expansionName":"Black & White—Boundaries Crossed","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/518/BW7_EN_69.png"},{"number":"59","name":"몽얌나","expansionName":"Black & White—Next Destinies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/518/BW4_EN_59.png"},{"number":"49","name":"몽얌나","expansionName":"Black & White","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/518/BW1_EN_49.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/518.mp3","moves":{
 "levelUp":[{"level":1,"category":"변화","move":"Calm Mind","type":"Psychic","power":"—","accuracy":"—"}
-,{"level":1,"category":"변화","move":"Defense Curl","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"웅크리기","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":1,"category":"특수","move":"Dream Eater","type":"Psychic","power":"100","accuracy":"100"}
 ,{"level":1,"category":"특수","move":"Future Sight","type":"Psychic","power":"120","accuracy":"100"}
 ,{"level":1,"category":"변화","move":"Hypnosis","type":"Psychic","power":"—","accuracy":"60"}
@@ -29,7 +29,7 @@
 ,{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
-,{"technicalMachine":22,"category":"물리","move":"Rock Slide","type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
 ,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
 ,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
@@ -38,7 +38,7 @@
 ,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
 ,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":44,"category":"변화","move":"Imprison","type":"Psychic","power":"—","accuracy":"—"}
-,{"technicalMachine":48,"category":"물리","move":"Rock Tomb","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
 ,{"technicalMachine":60,"category":"변화","move":"Power Swap","type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":61,"category":"변화","move":"Guard Swap","type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":70,"category":"변화","move":"Trick Room","type":"Psychic","power":"—","accuracy":"—"}
@@ -46,7 +46,7 @@
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
 ,{"technicalMachine":91,"category":"변화","move":"Psychic Terrain","type":"Psychic","power":"—","accuracy":"—"}],"technicalRecords":[
 {"technicalRecord":11,"category":"특수","move":"Psychic","type":"Psychic","power":"90","accuracy":"100"},
-{"technicalRecord":17,"category":"변화","move":"Amnesia","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":17,"category":"변화","move":"망각술","type":"Psychic","power":"—","accuracy":"—"},
 {"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":25,"category":"특수","move":"Psyshock","type":"Psychic","power":"80","accuracy":"100"},
 {"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
@@ -56,7 +56,7 @@
 {"technicalRecord":38,"category":"변화","move":"Trick","type":"Psychic","power":"—","accuracy":"100"},
 {"technicalRecord":40,"category":"변화","move":"Skill Swap","type":"Psychic","power":"—","accuracy":"—"},
 {"technicalRecord":49,"category":"변화","move":"Calm Mind","type":"Psychic","power":"—","accuracy":"—"},
-{"technicalRecord":52,"category":"물리","move":"Gyro Ball","type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":52,"category":"물리","move":"자이로볼","type":"Steel","power":"—","accuracy":"100"},
 {"technicalRecord":65,"category":"특수","move":"Energy Ball","type":"Grass","power":"90","accuracy":"100"},
 {"technicalRecord":69,"category":"물리","move":"Zen Headbutt","type":"Psychic","power":"80","accuracy":"90"},
 {"technicalRecord":82,"category":"특수","move":"Stored Power","type":"Psychic","power":"20","accuracy":"100"},

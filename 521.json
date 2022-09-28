@@ -30,7 +30,7 @@
 ,{"technicalMachine":30,"category":"물리","move":"Steel Wing","type":"Steel","power":"70","accuracy":"90"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
 ,{"technicalMachine":56,"category":"물리","move":"U-turn","type":"Bug","power":"70","accuracy":"100"}
@@ -45,12 +45,12 @@
 {"technicalRecord":36,"category":"특수","move":"Heat Wave","type":"Fire","power":"95","accuracy":"90"},
 {"technicalRecord":37,"category":"변화","move":"Taunt","type":"Dark","power":"—","accuracy":"100"},
 {"technicalRecord":66,"category":"물리","move":"Brave Bird","type":"Flying","power":"120","accuracy":"100"},
-{"technicalRecord":85,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":85,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":89,"category":"특수","move":"Hurricane","type":"Flying","power":"110","accuracy":"70"}]
 ,"egg":[{"category":"변화","move":"Defog","type":"Flying","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"Hypnosis","type":"Psychic","power":"—","accuracy":"60"}
 ,{"category":"변화","move":"Morning Sun","type":"Normal","power":"—","accuracy":"—"}
-,{"category":"물리","move":"Night Slash","type":"Dark","power":"70","accuracy":"100"}
+,{"category":"물리","move":"깜짝베기","type":"Dark","power":"70","accuracy":"100"}
 ,{"category":"변화","move":"희망사항","type":"Normal","power":"—","accuracy":"—"}]
 ,"tutor":[{"category":"물리","move":"Dual Wingbeat","type":"Flying","power":"40","accuracy":"90"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_V"}

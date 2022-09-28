@@ -14,7 +14,7 @@
 ,{"level":1,"category":"변화","move":"Leer","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":1,"category":"물리","move":"Tackle","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":1,"category":"물리","move":"Thunder Fang","type":"Electric","power":"65","accuracy":"95"}
-,{"level":1,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":12,"category":"물리","move":"Retaliate","type":"Normal","power":"70","accuracy":"100"}
 ,{"level":19,"category":"변화","move":"Baby-Doll Eyes","type":"Fairy","power":"—","accuracy":"100"}
 ,{"level":24,"category":"물리","move":"치근거리기","type":"Fairy","power":"90","accuracy":"90"}
@@ -35,10 +35,10 @@
 ,{"technicalMachine":29,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
-,{"technicalMachine":48,"category":"물리","move":"Rock Tomb","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
 ,{"technicalMachine":57,"category":"물리","move":"Payback","type":"Dark","power":"50","accuracy":"100"}
 ,{"technicalMachine":66,"category":"물리","move":"Thunder Fang","type":"Electric","power":"65","accuracy":"95"}
 ,{"technicalMachine":67,"category":"물리","move":"Ice Fang","type":"Ice","power":"65","accuracy":"95"}
@@ -46,7 +46,7 @@
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
 ,{"technicalMachine":79,"category":"물리","move":"Retaliate","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":85,"category":"특수","move":"Snarl","type":"Dark","power":"55","accuracy":"95"}
-,{"technicalMachine":98,"category":"물리","move":"Stomping Tantrum","type":"Ground","power":"75","accuracy":"100"}],"technicalRecords":[
+,{"technicalMachine":98,"category":"물리","move":"분함의발구르기","type":"Ground","power":"75","accuracy":"100"}],"technicalRecords":[
 {"technicalRecord":4,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"},
 {"technicalRecord":8,"category":"특수","move":"10만볼트","type":"Electric","power":"90","accuracy":"100"},
 {"technicalRecord":9,"category":"특수","move":"번개","type":"Electric","power":"110","accuracy":"70"},
@@ -60,7 +60,7 @@
 {"technicalRecord":39,"category":"물리","move":"Superpower","type":"Fighting","power":"120","accuracy":"100"},
 {"technicalRecord":42,"category":"특수","move":"Hyper Voice","type":"Normal","power":"90","accuracy":"100"},
 {"technicalRecord":74,"category":"물리","move":"Iron Head","type":"Steel","power":"80","accuracy":"100"},
-{"technicalRecord":85,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":85,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":86,"category":"물리","move":"와일드볼트","type":"Electric","power":"90","accuracy":"100"},
 {"technicalRecord":90,"category":"물리","move":"치근거리기","type":"Fairy","power":"90","accuracy":"90"},
 {"technicalRecord":97,"category":"물리","move":"Psychic Fangs","type":"Psychic","power":"85","accuracy":"100"}]
@@ -68,7 +68,7 @@
 ,{"category":"물리","move":"Covet","type":"Normal","power":"60","accuracy":"100"}
 ,{"category":"변화","move":"Howl","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"Lick","type":"Ghost","power":"30","accuracy":"100"}
-,{"category":"특수","move":"Mud-Slap","type":"Ground","power":"20","accuracy":"100"}
+,{"category":"특수","move":"진흙뿌리기","type":"Ground","power":"20","accuracy":"100"}
 ,{"category":"변화","move":"Yawn","type":"Normal","power":"—","accuracy":"—"}]
 ,"tutor":[]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_V"}

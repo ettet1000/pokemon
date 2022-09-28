@@ -8,25 +8,25 @@
 "requirement":"불꽃의돌 사용"}],"superEvolutions":[],"baseStats":{"hp":50,"attack":53,"defense":48,"spAtk":53,"spDef":48,"speed":64,"total":316},"cards":[{"number":"26","name":"바오프","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/513/SWSH3_EN_26.png"},{"number":"22","name":"바오프","expansionName":"Burning Shadows","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/513/SM3_EN_22.png"},{"number":"23","name":"바오프","expansionName":"XY–BREAKthrough","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/513/XY8_EN_23.png"},{"number":"XY131","name":"바오프","expansionName":"XY—Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/513/XYP_EN_XY131.png"},{"number":"7","name":"바오프","expansionName":"XY—Kalos Starter Set","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/513/XY0_EN_7.png"},{"number":"22","name":"바오프","expansionName":"XY","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/513/XY1_EN_22.png"},{"number":"19","name":"바오프","expansionName":"Black & White—Plasma Storm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/513/BW8_EN_19.png"},{"number":"15","name":"바오프","expansionName":"Black & White—Next Destinies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/513/BW4_EN_15.png"},{"number":"16","name":"바오프","expansionName":"Black & White—Noble Victories","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/513/BW3_EN_16.png"},{"number":"18","name":"바오프","expansionName":"Black & White—Emerging Powers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/513/BW2_EN_18.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/513.mp3","moves":{
 "levelUp":[{"level":1,"category":"변화","move":"친해지기","type":"Normal","power":"—","accuracy":"—"}
-,{"level":1,"category":"물리","move":"Scratch","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"물리","move":"할퀴기","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":4,"category":"변화","move":"Leer","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":7,"category":"물리","move":"Lick","type":"Ghost","power":"30","accuracy":"100"}
 ,{"level":10,"category":"특수","move":"Incinerate","type":"Fire","power":"60","accuracy":"100"}
-,{"level":13,"category":"물리","move":"Fury Swipes","type":"Normal","power":"18","accuracy":"80"}
+,{"level":13,"category":"물리","move":"마구할퀴기","type":"Normal","power":"18","accuracy":"80"}
 ,{"level":16,"category":"변화","move":"Yawn","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":19,"category":"물리","move":"Bite","type":"Dark","power":"60","accuracy":"100"}
 ,{"level":22,"category":"특수","move":"Flame Burst","type":"Fire","power":"70","accuracy":"100"}
-,{"level":25,"category":"변화","move":"Amnesia","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":25,"category":"변화","move":"망각술","type":"Psychic","power":"—","accuracy":"—"}
 ,{"level":28,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
 ,{"level":31,"category":"물리","move":"Acrobatics","type":"Flying","power":"55","accuracy":"100"}
 ,{"level":34,"category":"특수","move":"Fire Blast","type":"Fire","power":"110","accuracy":"85"}
 ,{"level":37,"category":"변화","move":"Recycle","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":40,"category":"물리","move":"Natural Gift","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":43,"category":"물리","move":"Crunch","type":"Dark","power":"80","accuracy":"100"}]
-,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"}
+,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":6,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
 ,{"technicalMachine":10,"category":"특수","move":"Hidden Power","type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":11,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":11,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":12,"category":"변화","move":"Taunt","type":"Dark","power":"—","accuracy":"100"}
 ,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":21,"category":"물리","move":"Frustration","type":"Normal","power":"—","accuracy":"100"}
@@ -35,7 +35,7 @@
 ,{"technicalMachine":32,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":35,"category":"특수","move":"Flamethrower","type":"Fire","power":"90","accuracy":"100"}
 ,{"technicalMachine":38,"category":"특수","move":"Fire Blast","type":"Fire","power":"110","accuracy":"85"}
-,{"technicalMachine":39,"category":"물리","move":"Rock Tomb","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":39,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
 ,{"technicalMachine":41,"category":"변화","move":"Torment","type":"Dark","power":"—","accuracy":"100"}
 ,{"technicalMachine":42,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":43,"category":"물리","move":"Flame Charge","type":"Fire","power":"50","accuracy":"100"}
@@ -48,7 +48,7 @@
 ,{"technicalMachine":56,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
 ,{"technicalMachine":61,"category":"변화","move":"Will-O-Wisp","type":"Fire","power":"—","accuracy":"85"}
 ,{"technicalMachine":62,"category":"물리","move":"Acrobatics","type":"Flying","power":"55","accuracy":"100"}
-,{"technicalMachine":65,"category":"물리","move":"Shadow Claw","type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":65,"category":"물리","move":"섀도크루","type":"Ghost","power":"70","accuracy":"100"}
 ,{"technicalMachine":66,"category":"물리","move":"Payback","type":"Dark","power":"50","accuracy":"100"}
 ,{"technicalMachine":86,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"}
 ,{"technicalMachine":87,"category":"변화","move":"Swagger","type":"Normal","power":"—","accuracy":"85"}

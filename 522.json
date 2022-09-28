@@ -49,7 +49,7 @@
 ,{"category":"물리","move":"페인트","type":"Normal","power":"30","accuracy":"100"}
 ,{"category":"변화","move":"Me First","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"Rage","type":"Normal","power":"20","accuracy":"100"}
-,{"category":"변화","move":"Sand Attack","type":"Ground","power":"—","accuracy":"100"}
+,{"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"Screech","type":"Normal","power":"—","accuracy":"85"}
 ,{"category":"특수","move":"Shock Wave","type":"Electric","power":"60","accuracy":"∞"}
 ,{"category":"변화","move":"Snatch","type":"Dark","power":"—","accuracy":"—"}

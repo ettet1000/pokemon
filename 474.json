@@ -9,7 +9,7 @@
 "requirement":"업그레이드를 지니고 통신교환"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":85,"attack":80,"defense":70,"spAtk":135,"spDef":75,"speed":90,"total":535},"cards":[{"number":"118","name":"폴리곤Z","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/474/SWSH6_EN_118.png"},{"number":"157","name":"폴리곤Z","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/474/SM10_EN_157.png"},{"number":"105","name":"폴리곤Z","expansionName":"Burning Shadows","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/474/SM3_EN_105.png"},{"number":"SM216","name":"폴리곤Z-GX","expansionName":"Sun & Moon Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/474/SMP_EN_SM216.png"},{"number":"67","name":"폴리곤Z","expansionName":"XY—Ancient Origins","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/474/XY7_EN_67.png"},{"number":"66","name":"폴리곤Z","expansionName":"XY—Ancient Origins","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/474/XY7_EN_66.png"},{"number":"BW84","name":"폴리곤Z","expansionName":"BW—Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/474/BWP_EN_BW84.png"},{"number":"74","name":"폴리곤Z","expansionName":"Black & White—Plasma Blast","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/474/BW10_EN_74.png"},{"number":"7","name":"폴리곤Z","expansionName":"HS—Triumphant","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/474/HGSS4_EN_7.png"},{"number":"6","name":"폴리곤Z","expansionName":"Diamond & Pearl—Great Encounters","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/474/DP4_EN_6.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/474.mp3","moves":{
 "levelUp":[{"level":1,"category":"변화","move":"Conversion","type":"Normal","power":"—","accuracy":"—"}
-,{"level":1,"category":"변화","move":"Defense Curl","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"웅크리기","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":1,"category":"변화","move":"Magnet Rise","type":"Electric","power":"—","accuracy":"—"}
 ,{"level":1,"category":"변화","move":"나쁜음모","type":"Dark","power":"—","accuracy":"—"}
 ,{"level":1,"category":"변화","move":"Recycle","type":"Normal","power":"—","accuracy":"—"}
@@ -36,7 +36,7 @@
 ,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":27,"category":"특수","move":"Icy Wind","type":"Ice","power":"55","accuracy":"95"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
 ,{"technicalMachine":60,"category":"변화","move":"Power Swap","type":"Psychic","power":"—","accuracy":"—"}
