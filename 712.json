@@ -7,16 +7,16 @@
 ,"type":"LAST",
 "requirement":"Level 37"}],"superEvolutions":[],"baseStats":{"hp":55,"attack":69,"defense":85,"spAtk":32,"spDef":35,"speed":28,"total":304},"cards":[{"number":"44","name":"꽁어름","expansionName":"Evolving Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/712/SWSH7_EN_44.png"},{"number":"29","name":"꽁어름","expansionName":"Forbidden Light","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/712/SM6_EN_29.png"},{"number":"36","name":"꽁어름","expansionName":"XY—Steam Siege","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/712/XY11_EN_36.png"},{"number":"30","name":"꽁어름","expansionName":"XY—Flashfire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/712/XY2_EN_30.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/712.mp3","moves":{
-"levelUp":[{"level":1,"category":"변화","move":"Harden","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"Rapid Spin","type":"Normal","power":"50","accuracy":"100"},{"level":3,"category":"물리","move":"Tackle","type":"Normal","power":"40","accuracy":"100"},{"level":6,"category":"특수","move":"Powder Snow","type":"Ice","power":"40","accuracy":"100"},{"level":9,"category":"변화","move":"Curse","type":"Ghost","power":"—","accuracy":"—"},{"level":12,"category":"특수","move":"Icy Wind","type":"Ice","power":"55","accuracy":"95"},{"level":15,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"level":18,"category":"물리","move":"Avalanche","type":"Ice","power":"60","accuracy":"100"},{"level":21,"category":"물리","move":"Bite","type":"Dark","power":"60","accuracy":"100"},{"level":24,"category":"물리","move":"Ice Fang","type":"Ice","power":"65","accuracy":"95"},{"level":27,"category":"변화","move":"Iron Defense","type":"Steel","power":"—","accuracy":"—"},{"level":30,"category":"변화","move":"Recover","type":"Normal","power":"—","accuracy":"—"},{"level":33,"category":"물리","move":"Crunch","type":"Dark","power":"80","accuracy":"100"},{"level":36,"category":"물리","move":"Take Down","type":"Normal","power":"90","accuracy":"85"},{"level":39,"category":"특수","move":"Blizzard","type":"Ice","power":"110","accuracy":"70"},{"level":42,"category":"물리","move":"Double-Edge","type":"Normal","power":"120","accuracy":"100"}],"technicalMachine":[{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"Rock Slide","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":27,"category":"특수","move":"Icy Wind","type":"Ice","power":"55","accuracy":"95"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+"levelUp":[{"level":1,"category":"변화","move":"Harden","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"고속스핀","type":"Normal","power":"50","accuracy":"100"},{"level":3,"category":"물리","move":"Tackle","type":"Normal","power":"40","accuracy":"100"},{"level":6,"category":"특수","move":"Powder Snow","type":"Ice","power":"40","accuracy":"100"},{"level":9,"category":"변화","move":"Curse","type":"Ghost","power":"—","accuracy":"—"},{"level":12,"category":"특수","move":"Icy Wind","type":"Ice","power":"55","accuracy":"95"},{"level":15,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"level":18,"category":"물리","move":"Avalanche","type":"Ice","power":"60","accuracy":"100"},{"level":21,"category":"물리","move":"Bite","type":"Dark","power":"60","accuracy":"100"},{"level":24,"category":"물리","move":"Ice Fang","type":"Ice","power":"65","accuracy":"95"},{"level":27,"category":"변화","move":"Iron Defense","type":"Steel","power":"—","accuracy":"—"},{"level":30,"category":"변화","move":"Recover","type":"Normal","power":"—","accuracy":"—"},{"level":33,"category":"물리","move":"Crunch","type":"Dark","power":"80","accuracy":"100"},{"level":36,"category":"물리","move":"Take Down","type":"Normal","power":"90","accuracy":"85"},{"level":39,"category":"특수","move":"Blizzard","type":"Ice","power":"110","accuracy":"70"},{"level":42,"category":"물리","move":"Double-Edge","type":"Normal","power":"120","accuracy":"100"}],"technicalMachine":[{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":27,"category":"특수","move":"Icy Wind","type":"Ice","power":"55","accuracy":"95"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기"
 ,"type":"Water","power":"—","accuracy":"—"}
 ,{"technicalMachine":35,"category":"변화","move":"Hail"
 ,"type":"Ice","power":"—","accuracy":"—"}
 ,{"technicalMachine":39,"category":"물리","move":"객기"
 ,"type":"Normal","power":"70","accuracy":"100"}
-,{"technicalMachine":48,"category":"물리","move":"Rock Tomb"
+,{"technicalMachine":48,"category":"물리","move":"암석봉인"
 ,"type":"Rock","power":"60","accuracy":"95"}
-,{"technicalMachine":51,"category":"물리","move":"Icicle Spear"
+,{"technicalMachine":51,"category":"물리","move":"고드름침"
 ,"type":"Ice","power":"25","accuracy":"100"}
 ,{"technicalMachine":64,"category":"물리","move":"Avalanche"
 ,"type":"Ice","power":"60","accuracy":"100"}
@@ -40,11 +40,11 @@
 ,"type":"Dark","power":"80","accuracy":"100"},
 {"technicalRecord":46,"category":"변화","move":"Iron Defense"
 ,"type":"Steel","power":"—","accuracy":"—"},
-{"technicalRecord":52,"category":"물리","move":"Gyro Ball"
+{"technicalRecord":52,"category":"물리","move":"자이로볼"
 ,"type":"Steel","power":"—","accuracy":"100"},
 {"technicalRecord":70,"category":"특수","move":"Flash Cannon"
 ,"type":"Steel","power":"80","accuracy":"100"},
-{"technicalRecord":75,"category":"물리","move":"Stone Edge"
+{"technicalRecord":75,"category":"물리","move":"스톤에지"
 ,"type":"Rock","power":"100","accuracy":"80"}]
 ,"egg":[{"category":"변화","move":"Aurora Veil"
 ,"type":"Ice","power":"—","accuracy":"—"}

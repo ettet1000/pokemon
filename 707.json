@@ -10,7 +10,7 @@
 ,"type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기"
 ,"type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day"
+,{"technicalMachine":34,"category":"변화","move":"쾌청"
 ,"type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":39,"category":"물리","move":"객기"
 ,"type":"Normal","power":"70","accuracy":"100"}
@@ -28,7 +28,7 @@
 ,"type":"Psychic","power":"90","accuracy":"100"},
 {"technicalRecord":20,"category":"변화","move":"대타출동"
 ,"type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":23,"category":"변화","move":"Spikes"
+{"technicalRecord":23,"category":"변화","move":"압정뿌리기"
 ,"type":"Ground","power":"—","accuracy":"—"},
 {"technicalRecord":25,"category":"특수","move":"Psyshock"
 ,"type":"Psychic","power":"80","accuracy":"100"},
