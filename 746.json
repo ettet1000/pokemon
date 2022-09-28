@@ -7,7 +7,7 @@
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/746.mp3","moves":{
 "levelUp":[{"level":1,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"특수","move":"Water Gun","type":"Water","power":"40","accuracy":"100"},{"level":4,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"},{"level":8,"category":"물리","move":"Beat Up","type":"Dark","power":"—","accuracy":"100"},{"level":12,"category":"특수","move":"Brine","type":"Water","power":"65","accuracy":"100"},{"level":16,"category":"변화","move":"Tearful Look","type":"Normal","power":"—","accuracy":"—"},{"level":20,"category":"물리","move":"Dive","type":"Water","power":"80","accuracy":"100"},{"level":24,"category":"변화","move":"Soak","type":"Water","power":"—","accuracy":"100"},{"level":28,"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"},{"level":32,"category":"물리","move":"Aqua Tail","type":"Water","power":"90","accuracy":"90"},{"level":36,"category":"변화","move":"Aqua Ring","type":"Water","power":"—","accuracy":"—"},{"level":40,"category":"물리","move":"Endeavor","type":"Normal","power":"—","accuracy":"100"},{"level":44,"category":"특수","move":"Hydro Pump","type":"Water","power":"110","accuracy":"80"},{"level":48,"category":"물리","move":"Double-Edge","type":"Normal","power":"120","accuracy":"100"}],"technicalMachine":[{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":35,"category":"변화","move":"Hail","type":"Ice","power":"—","accuracy":"—"},{"technicalMachine":36,"category":"특수","move":"Whirlpool","type":"Water","power":"35","accuracy":"85"},{"technicalMachine":37,"category":"물리","move":"Beat Up","type":"Dark","power":"—","accuracy":"100"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":45,"category":"물리","move":"Dive"
 ,"type":"Water","power":"80","accuracy":"100"}
-,{"technicalMachine":53,"category":"특수","move":"Mud Shot"
+,{"technicalMachine":53,"category":"특수","move":"머드숏"
 ,"type":"Ground","power":"55","accuracy":"95"}
 ,{"technicalMachine":55,"category":"특수","move":"Brine"
 ,"type":"Water","power":"65","accuracy":"100"}
@@ -15,7 +15,7 @@
 ,"type":"Bug","power":"70","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래"
 ,"type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":81,"category":"물리","move":"Bulldoze"
+,{"technicalMachine":81,"category":"물리","move":"땅고르기"
 ,"type":"Ground","power":"60","accuracy":"100"}],"technicalRecords":[
 {"technicalRecord":3,"category":"특수","move":"Hydro Pump"
 ,"type":"Water","power":"110","accuracy":"80"},
@@ -23,7 +23,7 @@
 ,"type":"Water","power":"90","accuracy":"100"},
 {"technicalRecord":5,"category":"특수","move":"Ice Beam"
 ,"type":"Ice","power":"90","accuracy":"100"},
-{"technicalRecord":10,"category":"물리","move":"Earthquake"
+{"technicalRecord":10,"category":"물리","move":"지진"
 ,"type":"Ground","power":"100","accuracy":"100"},
 {"technicalRecord":16,"category":"물리","move":"Waterfall"
 ,"type":"Water","power":"80","accuracy":"100"},

@@ -16,7 +16,7 @@
 ,"type":"Dark","power":"50","accuracy":"100"}
 ,{"technicalMachine":68,"category":"물리","move":"기가임팩트"
 ,"type":"Normal","power":"150","accuracy":"90"}
-,{"technicalMachine":75,"category":"변화","move":"Swords Dance"
+,{"technicalMachine":75,"category":"변화","move":"칼춤"
 ,"type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":79,"category":"특수","move":"Frost Breath"
 ,"type":"Ice","power":"60","accuracy":"90"}

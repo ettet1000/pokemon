@@ -30,7 +30,7 @@
 ,"type":"Ice","power":"110","accuracy":"70"},
 {"technicalRecord":16,"category":"물리","move":"Waterfall"
 ,"type":"Water","power":"80","accuracy":"100"},
-{"technicalRecord":17,"category":"변화","move":"Amnesia"
+{"technicalRecord":17,"category":"변화","move":"망각술"
 ,"type":"Psychic","power":"—","accuracy":"—"},
 {"technicalRecord":20,"category":"변화","move":"대타출동"
 ,"type":"Normal","power":"—","accuracy":"—"},
@@ -48,7 +48,7 @@
 ,"type":"Normal","power":"90","accuracy":"100"},
 {"technicalRecord":84,"category":"특수","move":"Scald"
 ,"type":"Water","power":"80","accuracy":"100"},
-{"technicalRecord":85,"category":"변화","move":"Work Up"
+{"technicalRecord":85,"category":"변화","move":"분발"
 ,"type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":90,"category":"물리","move":"치근거리기"
 ,"type":"Fairy","power":"90","accuracy":"90"}]

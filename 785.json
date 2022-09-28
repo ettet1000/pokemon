@@ -61,7 +61,7 @@
 ,"type":"Electric","power":"—","accuracy":"100"},
 {"technicalRecord":82,"category":"특수","move":"Stored Power"
 ,"type":"Psychic","power":"20","accuracy":"100"},
-{"technicalRecord":85,"category":"변화","move":"Work Up"
+{"technicalRecord":85,"category":"변화","move":"분발"
 ,"type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":86,"category":"물리","move":"와일드볼트"
 ,"type":"Electric","power":"90","accuracy":"100"},
