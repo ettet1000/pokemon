@@ -28,7 +28,7 @@
 ,"type":"Fighting","power":"—","accuracy":"100"},
 {"technicalRecord":14,"category":"변화","move":"Metronome"
 ,"type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":18,"category":"물리","move":"Leech Life"
+{"technicalRecord":18,"category":"물리","move":"흡혈"
 ,"type":"Bug","power":"80","accuracy":"100"},
 {"technicalRecord":20,"category":"변화","move":"대타출동"
 ,"type":"Normal","power":"—","accuracy":"—"},

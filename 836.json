@@ -55,7 +55,7 @@
 ,"type":"Fire","power":"50","accuracy":"100"}
 ,{"category":"변화","move":"Howl"
 ,"type":"Normal","power":"—","accuracy":"—"}
-,{"category":"변화","move":"Sand Attack"
+,{"category":"변화","move":"모래뿌리기"
 ,"type":"Ground","power":"—","accuracy":"100"}]
 ,"tutor":[{"category":"특수","move":"라이징볼트"
 ,"type":"Electric","power":"70","accuracy":"100"}]

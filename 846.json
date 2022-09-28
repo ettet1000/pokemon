@@ -28,13 +28,13 @@
 ,"type":"Dark","power":"80","accuracy":"100"},
 {"technicalRecord":53,"category":"물리","move":"Close Combat"
 ,"type":"Fighting","power":"120","accuracy":"100"},
-{"technicalRecord":57,"category":"물리","move":"Poison Jab"
+{"technicalRecord":57,"category":"물리","move":"독찌르기"
 ,"type":"Poison","power":"80","accuracy":"100"},
 {"technicalRecord":84,"category":"특수","move":"Scald"
 ,"type":"Water","power":"80","accuracy":"100"},
-{"technicalRecord":87,"category":"물리","move":"Drill Run"
+{"technicalRecord":87,"category":"물리","move":"드릴라이너"
 ,"type":"Ground","power":"80","accuracy":"95"},
-{"technicalRecord":95,"category":"물리","move":"Throat Chop"
+{"technicalRecord":95,"category":"물리","move":"지옥찌르기"
 ,"type":"Dark","power":"80","accuracy":"100"},
 {"technicalRecord":97,"category":"물리","move":"Psychic Fangs"
 ,"type":"Psychic","power":"85","accuracy":"100"},
@@ -42,9 +42,9 @@
 ,"type":"Water","power":"85","accuracy":"100"}]
 ,"egg":[{"category":"변화","move":"Acupressure"
 ,"type":"Normal","power":"—","accuracy":"—"}
-,{"category":"물리","move":"Night Slash"
+,{"category":"물리","move":"깜짝베기"
 ,"type":"Dark","power":"70","accuracy":"100"}
-,{"category":"물리","move":"Slash"
+,{"category":"물리","move":"베어가르기"
 ,"type":"Normal","power":"70","accuracy":"100"}
 ,{"category":"물리","move":"Thrash"
 ,"type":"Normal","power":"120","accuracy":"100"}]

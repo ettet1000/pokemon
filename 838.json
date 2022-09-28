@@ -8,7 +8,7 @@
 ,"type":"LAST",
 "requirement":"Level 34"}],"superEvolutions":[],"baseStats":{"hp":80,"attack":60,"defense":90,"spAtk":60,"spDef":70,"speed":50,"total":410},"cards":[{"number":"79","name":"탄차곤","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/838/SWSH5_EN_79.png"},{"number":"SV068","name":"탄차곤","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/838/SWSH45_EN_SV068.png"},{"number":"106","name":"탄차곤","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/838/SWSH2_EN_106.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/838.mp3","moves":{
-"levelUp":[{"level":1,"category":"물리","move":"Flame Charge","type":"Fire","power":"50","accuracy":"100"},{"level":1,"category":"물리","move":"Rapid Spin","type":"Normal","power":"50","accuracy":"100"},{"level":1,"category":"물리","move":"Smack Down","type":"Rock","power":"50","accuracy":"100"},{"level":1,"category":"변화","move":"Smokescreen","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"Tackle","type":"Normal","power":"40","accuracy":"100"},{"level":15,"category":"변화","move":"Rock Polish","type":"Rock","power":"—","accuracy":"—"},{"level":20,"category":"특수","move":"Ancient Power","type":"Rock","power":"60","accuracy":"100"},{"level":27,"category":"특수","move":"Incinerate","type":"Fire","power":"60","accuracy":"100"},{"level":35,"category":"변화","move":"Stealth Rock","type":"Rock","power":"—","accuracy":"—"},{"level":41,"category":"물리","move":"Heat Crash","type":"Fire","power":"—","accuracy":"100"},{"level":48,"category":"물리","move":"Rock Blast","type":"Rock","power":"25","accuracy":"90"},{"level":55,"category":"특수","move":"Burn Up","type":"Fire","power":"130","accuracy":"100"}],"technicalMachine":[{"technicalMachine":13,"category":"특수","move":"Fire Spin","type":"Fire","power":"35","accuracy":"85"},{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"},{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":20,"category":"물리","move":"Self-Destruct","type":"Normal","power":"200","accuracy":"100"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"Rock Slide","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":32,"category":"변화","move":"Sandstorm","type":"Rock","power":"—","accuracy":"—"},{"technicalMachine":38,"category":"변화","move":"Will-O-Wisp","type":"Fire","power":"—","accuracy":"85"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":48,"category":"물리","move":"Rock Tomb","type":"Rock","power":"60","accuracy":"95"},{"technicalMachine":49,"category":"물리","move":"Sand Tomb","type":"Ground","power":"35","accuracy":"85"},{"technicalMachine":54,"category":"물리","move":"Rock Blast","type":"Rock","power":"25","accuracy":"90"}
+"levelUp":[{"level":1,"category":"물리","move":"Flame Charge","type":"Fire","power":"50","accuracy":"100"},{"level":1,"category":"물리","move":"고속스핀","type":"Normal","power":"50","accuracy":"100"},{"level":1,"category":"물리","move":"Smack Down","type":"Rock","power":"50","accuracy":"100"},{"level":1,"category":"변화","move":"Smokescreen","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"Tackle","type":"Normal","power":"40","accuracy":"100"},{"level":15,"category":"변화","move":"Rock Polish","type":"Rock","power":"—","accuracy":"—"},{"level":20,"category":"특수","move":"Ancient Power","type":"Rock","power":"60","accuracy":"100"},{"level":27,"category":"특수","move":"Incinerate","type":"Fire","power":"60","accuracy":"100"},{"level":35,"category":"변화","move":"스텔스록","type":"Rock","power":"—","accuracy":"—"},{"level":41,"category":"물리","move":"Heat Crash","type":"Fire","power":"—","accuracy":"100"},{"level":48,"category":"물리","move":"Rock Blast","type":"Rock","power":"25","accuracy":"90"},{"level":55,"category":"특수","move":"Burn Up","type":"Fire","power":"130","accuracy":"100"}],"technicalMachine":[{"technicalMachine":13,"category":"특수","move":"Fire Spin","type":"Fire","power":"35","accuracy":"85"},{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"},{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":20,"category":"물리","move":"Self-Destruct","type":"Normal","power":"200","accuracy":"100"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"},{"technicalMachine":38,"category":"변화","move":"Will-O-Wisp","type":"Fire","power":"—","accuracy":"85"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"},{"technicalMachine":49,"category":"물리","move":"모래지옥","type":"Ground","power":"35","accuracy":"85"},{"technicalMachine":54,"category":"물리","move":"Rock Blast","type":"Rock","power":"25","accuracy":"90"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래"
 ,"type":"Normal","power":"60","accuracy":"100"}],"technicalRecords":[
 {"technicalRecord":2,"category":"특수","move":"Flamethrower"
@@ -17,7 +17,7 @@
 ,"type":"Fire","power":"110","accuracy":"85"},
 {"technicalRecord":20,"category":"변화","move":"대타출동"
 ,"type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":23,"category":"변화","move":"Spikes"
+{"technicalRecord":23,"category":"변화","move":"압정뿌리기"
 ,"type":"Ground","power":"—","accuracy":"—"},
 {"technicalRecord":26,"category":"변화","move":"버티기"
 ,"type":"Normal","power":"—","accuracy":"—"},
@@ -29,15 +29,15 @@
 ,"type":"Fire","power":"130","accuracy":"90"},
 {"technicalRecord":46,"category":"변화","move":"Iron Defense"
 ,"type":"Steel","power":"—","accuracy":"—"},
-{"technicalRecord":52,"category":"물리","move":"Gyro Ball"
+{"technicalRecord":52,"category":"물리","move":"자이로볼"
 ,"type":"Steel","power":"—","accuracy":"100"},
 {"technicalRecord":55,"category":"물리","move":"Flare Blitz"
 ,"type":"Fire","power":"120","accuracy":"100"},
 {"technicalRecord":74,"category":"물리","move":"Iron Head"
 ,"type":"Steel","power":"80","accuracy":"100"},
-{"technicalRecord":75,"category":"물리","move":"Stone Edge"
+{"technicalRecord":75,"category":"물리","move":"스톤에지"
 ,"type":"Rock","power":"100","accuracy":"80"},
-{"technicalRecord":76,"category":"변화","move":"Stealth Rock"
+{"technicalRecord":76,"category":"변화","move":"스텔스록"
 ,"type":"Rock","power":"—","accuracy":"—"},
 {"technicalRecord":79,"category":"물리","move":"Heavy 힘껏치기"
 ,"type":"Steel","power":"—","accuracy":"100"},
@@ -53,11 +53,11 @@
 ,"type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"Explosion"
 ,"type":"Normal","power":"250","accuracy":"100"}
-,{"category":"특수","move":"Mud-Slap"
+,{"category":"특수","move":"진흙뿌리기"
 ,"type":"Ground","power":"20","accuracy":"100"}]
 ,"tutor":[{"category":"특수","move":"Meteor Beam"
 ,"type":"Rock","power":"120","accuracy":"90"}
-,{"category":"특수","move":"Scorching Sands"
+,{"category":"특수","move":"열사의대지"
 ,"type":"Ground","power":"70","accuracy":"100"}]
 ,"evolution":[{"category":"물리","move":"Flame Charge"
 ,"type":"Fire","power":"50","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_VIII"}

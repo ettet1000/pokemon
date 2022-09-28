@@ -44,7 +44,7 @@
 ,"type":"Dragon","power":"—","accuracy":"—"},
 {"technicalRecord":54,"category":"변화","move":"Toxic Spikes"
 ,"type":"Poison","power":"—","accuracy":"—"},
-{"technicalRecord":57,"category":"물리","move":"Poison Jab"
+{"technicalRecord":57,"category":"물리","move":"독찌르기"
 ,"type":"Poison","power":"80","accuracy":"100"},
 {"technicalRecord":62,"category":"특수","move":"Dragon Pulse"
 ,"type":"Dragon","power":"85","accuracy":"100"},

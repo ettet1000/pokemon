@@ -12,10 +12,10 @@
 "levelUp":[{"level":1,"category":"물리","move":"Astonish","type":"Ghost","power":"30","accuracy":"100"},{"level":1,"category":"변화","move":"Withdraw","type":"Water","power":"—","accuracy":"—"}],"technicalMachine":[{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}]
 ,"technicalRecords":[]
 ,"egg":[
-{"category":"변화","move":"Defense Curl","type":"Normal","power":"—","accuracy":"—"}
+{"category":"변화","move":"웅크리기","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"Recycle"
 ,"type":"Normal","power":"—","accuracy":"—"}
-,{"category":"물리","move":"Rollout"
+,{"category":"물리","move":"구르기"
 ,"type":"Rock","power":"30","accuracy":"90"}
 ,{"category":"물리","move":"Sucker Punch"
 ,"type":"Dark","power":"70","accuracy":"100"}]
