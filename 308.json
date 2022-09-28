@@ -29,14 +29,14 @@
 ,{"level":36,"category":"변화","move":"Power Trick","type":"Psychic","power":"—","accuracy":"—"}
 ,{"level":42,"category":"물리","move":"기사회생","type":"Fighting","power":"—","accuracy":"100"}
 ,{"level":47,"category":"변화","move":"Recover","type":"Normal","power":"—","accuracy":"—"}
-,{"level":53,"category":"물리","move":"Counter","type":"Fighting","power":"—","accuracy":"100"}]
-,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"}
+,{"level":53,"category":"물리","move":"카운터","type":"Fighting","power":"—","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":3,"category":"특수","move":"Psyshock","type":"Psychic","power":"80","accuracy":"100"}
 ,{"technicalMachine":4,"category":"변화","move":"Calm Mind","type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":6,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
 ,{"technicalMachine":8,"category":"변화","move":"Bulk Up","type":"Fighting","power":"—","accuracy":"—"}
 ,{"technicalMachine":10,"category":"특수","move":"Hidden Power","type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":11,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":11,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":15,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
 ,{"technicalMachine":16,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
@@ -48,7 +48,7 @@
 ,{"technicalMachine":31,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
 ,{"technicalMachine":32,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":33,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"}
-,{"technicalMachine":39,"category":"물리","move":"Rock Tomb","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":39,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
 ,{"technicalMachine":42,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":44,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":45,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
@@ -59,8 +59,8 @@
 ,{"technicalMachine":56,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
 ,{"technicalMachine":68,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
 ,{"technicalMachine":77,"category":"변화","move":"Psych Up","type":"Normal","power":"—","accuracy":"—"}
-,{"technicalMachine":80,"category":"물리","move":"Rock Slide","type":"Rock","power":"75","accuracy":"90"}
-,{"technicalMachine":84,"category":"물리","move":"Poison Jab","type":"Poison","power":"80","accuracy":"100"}
+,{"technicalMachine":80,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":84,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"}
 ,{"technicalMachine":85,"category":"특수","move":"Dream Eater","type":"Psychic","power":"100","accuracy":"100"}
 ,{"technicalMachine":86,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"}
 ,{"technicalMachine":87,"category":"변화","move":"Swagger","type":"Normal","power":"—","accuracy":"85"}

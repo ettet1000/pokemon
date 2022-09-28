@@ -8,23 +8,23 @@
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/264.mp3","moves":{
 "levelUp":[{"level":1,"category":"변화","move":"Baby-Doll Eyes","type":"Fairy","power":"—","accuracy":"100"}
 ,{"level":1,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"}
-,{"level":1,"category":"물리","move":"Pin Missile","type":"Bug","power":"25","accuracy":"95"}
-,{"level":1,"category":"변화","move":"Sand Attack","type":"Ground","power":"—","accuracy":"100"}
-,{"level":1,"category":"물리","move":"Slash","type":"Normal","power":"70","accuracy":"100"}
+,{"level":1,"category":"물리","move":"바늘미사일","type":"Bug","power":"25","accuracy":"95"}
+,{"level":1,"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}
 ,{"level":1,"category":"변화","move":"Switcheroo","type":"Dark","power":"—","accuracy":"100"}
 ,{"level":1,"category":"물리","move":"Tackle","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":1,"category":"변화","move":"꼬리흔들기","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":9,"category":"물리","move":"Covet","type":"Normal","power":"60","accuracy":"100"}
 ,{"level":12,"category":"물리","move":"Headbutt","type":"Normal","power":"70","accuracy":"100"}
-,{"level":15,"category":"변화","move":"Hone Claws","type":"Dark","power":"—","accuracy":"—"}
-,{"level":18,"category":"물리","move":"Fury Swipes","type":"Normal","power":"18","accuracy":"80"}
+,{"level":15,"category":"변화","move":"손톱갈기","type":"Dark","power":"—","accuracy":"—"}
+,{"level":18,"category":"물리","move":"마구할퀴기","type":"Normal","power":"18","accuracy":"80"}
 ,{"level":23,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
 ,{"level":28,"category":"물리","move":"Take Down","type":"Normal","power":"90","accuracy":"85"}
 ,{"level":33,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
 ,{"level":38,"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":43,"category":"변화","move":"Belly Drum","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":48,"category":"물리","move":"Double-Edge","type":"Normal","power":"120","accuracy":"100"}]
-,"technicalMachine":[{"technicalMachine":7,"category":"물리","move":"Pin Missile","type":"Bug","power":"25","accuracy":"95"}
+,"technicalMachine":[{"technicalMachine":7,"category":"물리","move":"바늘미사일","type":"Bug","power":"25","accuracy":"95"}
 ,{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
 ,{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
 ,{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"}
@@ -37,18 +37,18 @@
 ,{"technicalMachine":29,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":36,"category":"특수","move":"Whirlpool","type":"Water","power":"35","accuracy":"85"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
 ,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
-,{"technicalMachine":53,"category":"특수","move":"Mud Shot","type":"Ground","power":"55","accuracy":"95"}
+,{"technicalMachine":53,"category":"특수","move":"머드숏","type":"Ground","power":"55","accuracy":"95"}
 ,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
-,{"technicalMachine":65,"category":"물리","move":"Shadow Claw","type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":65,"category":"물리","move":"섀도크루","type":"Ghost","power":"70","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
 ,{"technicalMachine":79,"category":"물리","move":"Retaliate","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":84,"category":"물리","move":"Tail Slap","type":"Normal","power":"25","accuracy":"85"}
-,{"technicalMachine":98,"category":"물리","move":"Stomping Tantrum","type":"Ground","power":"75","accuracy":"100"}],"technicalRecords":[
+,{"technicalMachine":98,"category":"물리","move":"분함의발구르기","type":"Ground","power":"75","accuracy":"100"}],"technicalRecords":[
 {"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
 {"technicalRecord":4,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"},
 {"technicalRecord":5,"category":"특수","move":"Ice Beam","type":"Ice","power":"90","accuracy":"100"},
@@ -65,11 +65,11 @@
 {"technicalRecord":59,"category":"물리","move":"Seed Bomb","type":"Grass","power":"80","accuracy":"100"},
 {"technicalRecord":73,"category":"물리","move":"Gunk Shot","type":"Poison","power":"120","accuracy":"80"},
 {"technicalRecord":77,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"},
-{"technicalRecord":85,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":85,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":90,"category":"물리","move":"치근거리기","type":"Fairy","power":"90","accuracy":"90"},
-{"technicalRecord":95,"category":"물리","move":"Throat Chop","type":"Dark","power":"80","accuracy":"100"}]
+{"technicalRecord":95,"category":"물리","move":"지옥찌르기","type":"Dark","power":"80","accuracy":"100"}]
 ,"egg":[{"category":"물리","move":"Extreme Speed","type":"Normal","power":"80","accuracy":"100"}
 ,{"category":"변화","move":"Simple Beam","type":"Normal","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"간지르기","type":"Normal","power":"—","accuracy":"100"}]
 ,"tutor":[{"category":"물리","move":"Lash Out","type":"Dark","power":"75","accuracy":"100"}]
-,"evolution":[{"category":"물리","move":"Slash","type":"Normal","power":"70","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_III"}
+,"evolution":[{"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_III"}

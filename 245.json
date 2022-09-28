@@ -32,9 +32,9 @@
 ,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
 ,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":27,"category":"특수","move":"Icy Wind","type":"Ice","power":"55","accuracy":"95"}
-,{"technicalMachine":32,"category":"변화","move":"Sandstorm","type":"Rock","power":"—","accuracy":"—"}
+,{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":35,"category":"변화","move":"Hail","type":"Ice","power":"—","accuracy":"—"}
 ,{"technicalMachine":36,"category":"특수","move":"Whirlpool","type":"Water","power":"35","accuracy":"85"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
@@ -46,7 +46,7 @@
 ,{"technicalMachine":64,"category":"물리","move":"Avalanche","type":"Ice","power":"60","accuracy":"100"}
 ,{"technicalMachine":67,"category":"물리","move":"Ice Fang","type":"Ice","power":"65","accuracy":"95"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":81,"category":"물리","move":"Bulldoze","type":"Ground","power":"60","accuracy":"100"}
+,{"technicalMachine":81,"category":"물리","move":"땅고르기","type":"Ground","power":"60","accuracy":"100"}
 ,{"technicalMachine":85,"category":"특수","move":"Snarl","type":"Dark","power":"55","accuracy":"95"}
 ,{"technicalMachine":95,"category":"특수","move":"Air Slash","type":"Flying","power":"75","accuracy":"95"}],"technicalRecords":[
 {"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},

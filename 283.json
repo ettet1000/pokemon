@@ -20,7 +20,7 @@
 ,{"level":38,"category":"변화","move":"Sticky Web","type":"Bug","power":"—","accuracy":"—"}]
 ,"technicalMachine":[{"technicalMachine":6,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
 ,{"technicalMachine":10,"category":"특수","move":"Hidden Power","type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":11,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":11,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":13,"category":"특수","move":"Ice Beam","type":"Ice","power":"90","accuracy":"100"}
 ,{"technicalMachine":14,"category":"특수","move":"Blizzard","type":"Ice","power":"110","accuracy":"70"}
 ,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
@@ -50,7 +50,7 @@
 ,{"category":"특수","move":"Hydro Pump","type":"Water","power":"110","accuracy":"80"}
 ,{"category":"물리","move":"Lunge","type":"Bug","power":"80","accuracy":"100"}
 ,{"category":"변화","move":"Mind Reader","type":"Normal","power":"—","accuracy":"—"}
-,{"category":"특수","move":"Mud Shot","type":"Ground","power":"55","accuracy":"95"}
+,{"category":"특수","move":"머드숏","type":"Ground","power":"55","accuracy":"95"}
 ,{"category":"변화","move":"Power Split","type":"Psychic","power":"—","accuracy":"—"}
 ,{"category":"특수","move":"Psybeam","type":"Psychic","power":"65","accuracy":"100"}
 ,{"category":"특수","move":"Signal Beam","type":"Bug","power":"75","accuracy":"100"}]

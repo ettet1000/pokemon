@@ -15,7 +15,7 @@
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/265.mp3","moves":{
 "levelUp":[{"level":1,"category":"변화","move":"String Shot","type":"Bug","power":"—","accuracy":"95"}
 ,{"level":1,"category":"물리","move":"Tackle","type":"Normal","power":"40","accuracy":"100"}
-,{"level":5,"category":"물리","move":"Poison Sting","type":"Poison","power":"15","accuracy":"100"}
+,{"level":5,"category":"물리","move":"독침","type":"Poison","power":"15","accuracy":"100"}
 ,{"level":15,"category":"물리","move":"Bug Bite","type":"Bug","power":"60","accuracy":"100"}],"technicalMachine":[],"technicalRecords":[]
 ,"egg":[]
 ,"tutor":[]

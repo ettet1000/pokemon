@@ -11,7 +11,7 @@
 "levelUp":[{"level":1,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}
 ,{"level":1,"category":"변화","move":"Copycat","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":1,"category":"물리","move":"Covet","type":"Normal","power":"60","accuracy":"100"}
-,{"level":1,"category":"변화","move":"Defense Curl","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"웅크리기","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":1,"category":"특수","move":"차밍보이스","type":"Fairy","power":"40","accuracy":"∞"}
 ,{"level":1,"category":"변화","move":"Minimize","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":1,"category":"물리","move":"Pound","type":"Normal","power":"40","accuracy":"100"}
@@ -41,34 +41,34 @@
 ,{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
-,{"technicalMachine":22,"category":"물리","move":"Rock Slide","type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
 ,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
 ,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":27,"category":"특수","move":"Icy Wind","type":"Ice","power":"55","accuracy":"95"}
 ,{"technicalMachine":29,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
-,{"technicalMachine":32,"category":"변화","move":"Sandstorm","type":"Rock","power":"—","accuracy":"—"}
+,{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":35,"category":"변화","move":"Hail","type":"Ice","power":"—","accuracy":"—"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
-,{"technicalMachine":48,"category":"물리","move":"Rock Tomb","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
 ,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
 ,{"technicalMachine":63,"category":"물리","move":"Drain Punch","type":"Fighting","power":"75","accuracy":"100"}
 ,{"technicalMachine":64,"category":"물리","move":"Avalanche","type":"Ice","power":"60","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
 ,{"technicalMachine":79,"category":"물리","move":"Retaliate","type":"Normal","power":"70","accuracy":"100"}
-,{"technicalMachine":81,"category":"물리","move":"Bulldoze","type":"Ground","power":"60","accuracy":"100"}
-,{"technicalMachine":98,"category":"물리","move":"Stomping Tantrum","type":"Ground","power":"75","accuracy":"100"}],"technicalRecords":[
+,{"technicalMachine":81,"category":"물리","move":"땅고르기","type":"Ground","power":"60","accuracy":"100"}
+,{"technicalMachine":98,"category":"물리","move":"분함의발구르기","type":"Ground","power":"75","accuracy":"100"}],"technicalRecords":[
 {"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
 {"technicalRecord":2,"category":"특수","move":"Flamethrower","type":"Fire","power":"90","accuracy":"100"},
 {"technicalRecord":5,"category":"특수","move":"Ice Beam","type":"Ice","power":"90","accuracy":"100"},
 {"technicalRecord":6,"category":"특수","move":"Blizzard","type":"Ice","power":"110","accuracy":"70"},
 {"technicalRecord":8,"category":"특수","move":"10만볼트","type":"Electric","power":"90","accuracy":"100"},
 {"technicalRecord":9,"category":"특수","move":"번개","type":"Electric","power":"110","accuracy":"70"},
-{"technicalRecord":10,"category":"물리","move":"Earthquake","type":"Ground","power":"100","accuracy":"100"},
+{"technicalRecord":10,"category":"물리","move":"지진","type":"Ground","power":"100","accuracy":"100"},
 {"technicalRecord":11,"category":"특수","move":"Psychic","type":"Psychic","power":"90","accuracy":"100"},
 {"technicalRecord":14,"category":"변화","move":"Metronome","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":15,"category":"특수","move":"Fire Blast","type":"Fire","power":"110","accuracy":"85"},
@@ -84,11 +84,11 @@
 {"technicalRecord":49,"category":"변화","move":"Calm Mind","type":"Psychic","power":"—","accuracy":"—"},
 {"technicalRecord":64,"category":"특수","move":"기합구슬","type":"Fighting","power":"120","accuracy":"70"},
 {"technicalRecord":69,"category":"물리","move":"Zen Headbutt","type":"Psychic","power":"80","accuracy":"90"},
-{"technicalRecord":76,"category":"변화","move":"Stealth Rock","type":"Rock","power":"—","accuracy":"—"},
+{"technicalRecord":76,"category":"변화","move":"스텔스록","type":"Rock","power":"—","accuracy":"—"},
 {"technicalRecord":77,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"},
 {"technicalRecord":82,"category":"특수","move":"Stored Power","type":"Psychic","power":"20","accuracy":"100"},
 {"technicalRecord":83,"category":"변화","move":"Ally Switch","type":"Psychic","power":"—","accuracy":"—"},
-{"technicalRecord":85,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":85,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":86,"category":"물리","move":"와일드볼트","type":"Electric","power":"90","accuracy":"100"},
 {"technicalRecord":92,"category":"특수","move":"Dazzling Gleam","type":"Fairy","power":"80","accuracy":"100"}]
 ,"egg":[{"category":"변화","move":"Aromatherapy","type":"Grass","power":"—","accuracy":"—"}

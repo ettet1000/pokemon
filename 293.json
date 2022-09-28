@@ -34,7 +34,7 @@
 ,{"technicalMachine":27,"category":"특수","move":"Icy Wind","type":"Ice","power":"55","accuracy":"95"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":47,"category":"변화","move":"Fake Tears","type":"Dark","power":"—","accuracy":"100"}
 ,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
@@ -52,7 +52,7 @@
 {"technicalRecord":35,"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"},
 {"technicalRecord":42,"category":"특수","move":"Hyper Voice","type":"Normal","power":"90","accuracy":"100"},
 {"technicalRecord":69,"category":"물리","move":"Zen Headbutt","type":"Psychic","power":"80","accuracy":"90"},
-{"technicalRecord":85,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"}]
+{"technicalRecord":85,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}]
 ,"egg":[{"category":"물리","move":"Circle Throw","type":"Fighting","power":"60","accuracy":"90"}
 ,{"category":"특수","move":"차밍보이스","type":"Fairy","power":"40","accuracy":"∞"}
 ,{"category":"물리","move":"Endeavor","type":"Normal","power":"—","accuracy":"100"}

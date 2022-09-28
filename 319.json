@@ -9,9 +9,9 @@
 "levelUp":[{"level":1,"category":"물리","move":"Aqua Jet","type":"Water","power":"40","accuracy":"100"}
 ,{"level":1,"category":"변화","move":"Focus Energy","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":1,"category":"변화","move":"Leer","type":"Normal","power":"—","accuracy":"100"}
-,{"level":1,"category":"물리","move":"Night Slash","type":"Dark","power":"70","accuracy":"100"}
+,{"level":1,"category":"물리","move":"깜짝베기","type":"Dark","power":"70","accuracy":"100"}
 ,{"level":1,"category":"물리","move":"Poison Fang","type":"Poison","power":"50","accuracy":"100"}
-,{"level":1,"category":"물리","move":"Slash","type":"Normal","power":"70","accuracy":"100"}
+,{"level":1,"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}
 ,{"level":12,"category":"변화","move":"Scary Face","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":16,"category":"물리","move":"Bite","type":"Dark","power":"60","accuracy":"100"}
 ,{"level":20,"category":"물리","move":"Ice Fang","type":"Ice","power":"65","accuracy":"95"}
@@ -37,7 +37,7 @@
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
 ,{"technicalMachine":45,"category":"물리","move":"Dive","type":"Water","power":"80","accuracy":"100"}
-,{"technicalMachine":48,"category":"물리","move":"Rock Tomb","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
 ,{"technicalMachine":52,"category":"물리","move":"Bounce","type":"Flying","power":"85","accuracy":"85"}
 ,{"technicalMachine":55,"category":"특수","move":"Brine","type":"Water","power":"65","accuracy":"100"}
 ,{"technicalMachine":57,"category":"물리","move":"Payback","type":"Dark","power":"50","accuracy":"100"}
@@ -46,13 +46,13 @@
 ,{"technicalMachine":67,"category":"물리","move":"Ice Fang","type":"Ice","power":"65","accuracy":"95"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
 ,{"technicalMachine":79,"category":"물리","move":"Retaliate","type":"Normal","power":"70","accuracy":"100"}
-,{"technicalMachine":81,"category":"물리","move":"Bulldoze","type":"Ground","power":"60","accuracy":"100"}
+,{"technicalMachine":81,"category":"물리","move":"땅고르기","type":"Ground","power":"60","accuracy":"100"}
 ,{"technicalMachine":85,"category":"특수","move":"Snarl","type":"Dark","power":"55","accuracy":"95"}],"technicalRecords":[
 {"technicalRecord":3,"category":"특수","move":"Hydro Pump","type":"Water","power":"110","accuracy":"80"},
 {"technicalRecord":4,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"},
 {"technicalRecord":5,"category":"특수","move":"Ice Beam","type":"Ice","power":"90","accuracy":"100"},
 {"technicalRecord":6,"category":"특수","move":"Blizzard","type":"Ice","power":"110","accuracy":"70"},
-{"technicalRecord":10,"category":"물리","move":"Earthquake","type":"Ground","power":"100","accuracy":"100"},
+{"technicalRecord":10,"category":"물리","move":"지진","type":"Ground","power":"100","accuracy":"100"},
 {"technicalRecord":12,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},
 {"technicalRecord":13,"category":"변화","move":"Focus Energy","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":16,"category":"물리","move":"Waterfall","type":"Water","power":"80","accuracy":"100"},
@@ -63,7 +63,7 @@
 {"technicalRecord":35,"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"},
 {"technicalRecord":37,"category":"변화","move":"Taunt","type":"Dark","power":"—","accuracy":"100"},
 {"technicalRecord":53,"category":"물리","move":"Close Combat","type":"Fighting","power":"120","accuracy":"100"},
-{"technicalRecord":57,"category":"물리","move":"Poison Jab","type":"Poison","power":"80","accuracy":"100"},
+{"technicalRecord":57,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"},
 {"technicalRecord":58,"category":"특수","move":"Dark Pulse","type":"Dark","power":"80","accuracy":"100"},
 {"technicalRecord":69,"category":"물리","move":"Zen Headbutt","type":"Psychic","power":"80","accuracy":"90"},
 {"technicalRecord":84,"category":"특수","move":"Scald","type":"Water","power":"80","accuracy":"100"},
@@ -76,4 +76,4 @@
 ,{"category":"특수","move":"Water Pulse","type":"Water","power":"60","accuracy":"100"}]
 ,"tutor":[{"category":"물리","move":"Flip Turn","type":"Water","power":"60","accuracy":"100"}
 ,{"category":"물리","move":"Scale Shot","type":"Dragon","power":"25","accuracy":"90"}]
-,"evolution":[{"category":"물리","move":"Slash","type":"Normal","power":"70","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_III"}
+,"evolution":[{"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_III"}

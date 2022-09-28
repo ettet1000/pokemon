@@ -30,7 +30,7 @@
 ,"technicalMachine":[{"technicalMachine":5,"category":"변화","move":"Roar","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":6,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
 ,{"technicalMachine":10,"category":"특수","move":"Hidden Power","type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":11,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":11,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":12,"category":"변화","move":"Taunt","type":"Dark","power":"—","accuracy":"100"}
 ,{"technicalMachine":15,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
 ,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
@@ -62,7 +62,7 @@
 ,{"technicalMachine":97,"category":"특수","move":"Dark Pulse","type":"Dark","power":"80","accuracy":"100"}
 ,{"technicalMachine":100,"category":"변화","move":"Confide","type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[]
 ,"egg":[{"category":"물리","move":"Beat Up","type":"Dark","power":"—","accuracy":"100"}
-,{"category":"물리","move":"Counter","type":"Fighting","power":"—","accuracy":"100"}
+,{"category":"물리","move":"카운터","type":"Fighting","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"Destiny Bond","type":"Ghost","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"페인트","type":"Normal","power":"30","accuracy":"100"}
 ,{"category":"물리","move":"Fire Fang","type":"Fire","power":"65","accuracy":"95"}
@@ -85,6 +85,6 @@
 ,{"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
 ,{"category":"변화","move":"Spite","type":"Ghost","power":"—","accuracy":"100"}
 ,{"category":"물리","move":"Super Fang","type":"Normal","power":"—","accuracy":"90"}
-,{"category":"물리","move":"Throat Chop","type":"Dark","power":"80","accuracy":"100"}
+,{"category":"물리","move":"지옥찌르기","type":"Dark","power":"80","accuracy":"100"}
 ,{"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_II"}

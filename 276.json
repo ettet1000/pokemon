@@ -20,10 +20,10 @@
 ,{"level":37,"category":"물리","move":"Endeavor","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":41,"category":"물리","move":"Brave Bird","type":"Flying","power":"120","accuracy":"100"}
 ,{"level":45,"category":"물리","move":"기사회생","type":"Fighting","power":"—","accuracy":"100"}]
-,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"}
+,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":6,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
 ,{"technicalMachine":10,"category":"특수","move":"Hidden Power","type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":11,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":11,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":18,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
 ,{"technicalMachine":19,"category":"변화","move":"Roost","type":"Flying","power":"—","accuracy":"—"}

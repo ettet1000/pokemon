@@ -10,11 +10,11 @@
 ,{"level":1,"category":"물리","move":"Double Slap","type":"Normal","power":"15","accuracy":"85"}
 ,{"level":1,"category":"물리","move":"속이다","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":1,"category":"변화","move":"Sing","type":"Normal","power":"—","accuracy":"55"}]
-,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"}
+,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":4,"category":"변화","move":"Calm Mind","type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":6,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
 ,{"technicalMachine":10,"category":"특수","move":"Hidden Power","type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":11,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":11,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":13,"category":"특수","move":"Ice Beam","type":"Ice","power":"90","accuracy":"100"}
 ,{"technicalMachine":14,"category":"특수","move":"Blizzard","type":"Ice","power":"110","accuracy":"70"}
 ,{"technicalMachine":15,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
@@ -69,7 +69,7 @@
 ,{"category":"물리","move":"Last Resort","type":"Normal","power":"140","accuracy":"100"}
 ,{"category":"특수","move":"Shock Wave","type":"Electric","power":"60","accuracy":"∞"}
 ,{"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
-,{"category":"물리","move":"Stomping Tantrum","type":"Ground","power":"75","accuracy":"100"}
+,{"category":"물리","move":"분함의발구르기","type":"Ground","power":"75","accuracy":"100"}
 ,{"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"}
 ,{"category":"특수","move":"Water Pulse","type":"Water","power":"60","accuracy":"100"}
 ,{"category":"물리","move":"Zen Headbutt","type":"Psychic","power":"80","accuracy":"90"}]

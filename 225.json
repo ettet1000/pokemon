@@ -25,7 +25,7 @@
 ,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
 ,{"technicalMachine":46,"category":"특수","move":"Weather Ball","type":"Normal","power":"50","accuracy":"100"}
-,{"technicalMachine":51,"category":"물리","move":"Icicle Spear","type":"Ice","power":"25","accuracy":"100"}
+,{"technicalMachine":51,"category":"물리","move":"고드름침","type":"Ice","power":"25","accuracy":"100"}
 ,{"technicalMachine":52,"category":"물리","move":"Bounce","type":"Flying","power":"85","accuracy":"85"}
 ,{"technicalMachine":58,"category":"물리","move":"Assurance","type":"Dark","power":"60","accuracy":"100"}
 ,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
@@ -37,7 +37,7 @@
 {"technicalRecord":6,"category":"특수","move":"Blizzard","type":"Ice","power":"110","accuracy":"70"},
 {"technicalRecord":12,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},
 {"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":23,"category":"변화","move":"Spikes","type":"Ground","power":"—","accuracy":"—"},
+{"technicalRecord":23,"category":"변화","move":"압정뿌리기","type":"Ground","power":"—","accuracy":"—"},
 {"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":29,"category":"변화","move":"Baton Pass","type":"Normal","power":"—","accuracy":"—"},
@@ -45,17 +45,17 @@
 {"technicalRecord":59,"category":"물리","move":"Seed Bomb","type":"Grass","power":"80","accuracy":"100"},
 {"technicalRecord":66,"category":"물리","move":"Brave Bird","type":"Flying","power":"120","accuracy":"100"},
 {"technicalRecord":73,"category":"물리","move":"Gunk Shot","type":"Poison","power":"120","accuracy":"80"},
-{"technicalRecord":87,"category":"물리","move":"Drill Run","type":"Ground","power":"80","accuracy":"95"}]
+{"technicalRecord":87,"category":"물리","move":"드릴라이너","type":"Ground","power":"80","accuracy":"95"}]
 ,"egg":[{"category":"특수","move":"Aurora Beam","type":"Ice","power":"65","accuracy":"100"}
 ,{"category":"변화","move":"Aurora Veil","type":"Ice","power":"—","accuracy":"—"}
-,{"category":"물리","move":"Counter","type":"Fighting","power":"—","accuracy":"100"}
+,{"category":"물리","move":"카운터","type":"Fighting","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"Destiny Bond","type":"Ghost","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"속이다","type":"Normal","power":"40","accuracy":"100"}
 ,{"category":"특수","move":"Freeze-Dry","type":"Ice","power":"70","accuracy":"100"}
 ,{"category":"물리","move":"Ice Shard","type":"Ice","power":"40","accuracy":"100"}
 ,{"category":"변화","move":"Memento","type":"Dark","power":"—","accuracy":"100"}
 ,{"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
-,{"category":"물리","move":"Rapid Spin","type":"Normal","power":"50","accuracy":"100"}
+,{"category":"물리","move":"고속스핀","type":"Normal","power":"50","accuracy":"100"}
 ,{"category":"변화","move":"Splash","type":"Normal","power":"—","accuracy":"—"}]
 ,"tutor":[{"category":"물리","move":"Dual Wingbeat","type":"Flying","power":"40","accuracy":"90"}
 ,{"category":"물리","move":"Triple Axel","type":"Ice","power":"20","accuracy":"90"}]

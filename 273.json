@@ -14,11 +14,11 @@
 ,{"level":3,"category":"특수","move":"Absorb","type":"Grass","power":"20","accuracy":"100"}
 ,{"level":6,"category":"물리","move":"Astonish","type":"Ghost","power":"30","accuracy":"100"}
 ,{"level":9,"category":"변화","move":"Growth","type":"Normal","power":"—","accuracy":"—"}
-,{"level":12,"category":"물리","move":"Rollout","type":"Rock","power":"30","accuracy":"90"}
+,{"level":12,"category":"물리","move":"구르기","type":"Rock","power":"30","accuracy":"90"}
 ,{"level":15,"category":"특수","move":"Mega Drain","type":"Grass","power":"40","accuracy":"100"}
 ,{"level":18,"category":"물리","move":"Payback","type":"Dark","power":"50","accuracy":"100"}
 ,{"level":21,"category":"변화","move":"Nature Power","type":"Normal","power":"—","accuracy":"—"}
-,{"level":24,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"level":24,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"level":27,"category":"변화","move":"Synthesis","type":"Grass","power":"—","accuracy":"—"}
 ,{"level":30,"category":"물리","move":"Sucker Punch","type":"Dark","power":"70","accuracy":"100"}
 ,{"level":33,"category":"물리","move":"Explosion","type":"Normal","power":"250","accuracy":"100"}]
@@ -30,7 +30,7 @@
 ,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":28,"category":"특수","move":"Giga Drain","type":"Grass","power":"75","accuracy":"100"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":37,"category":"물리","move":"Beat Up","type":"Dark","power":"—","accuracy":"100"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":50,"category":"물리","move":"Bullet Seed","type":"Grass","power":"25","accuracy":"100"}
@@ -40,9 +40,9 @@
 ,{"technicalMachine":79,"category":"물리","move":"Retaliate","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":88,"category":"변화","move":"Grassy Terrain","type":"Grass","power":"—","accuracy":"—"}
 ,{"technicalMachine":94,"category":"물리","move":"False Swipe","type":"Normal","power":"40","accuracy":"100"}],"technicalRecords":[
-{"technicalRecord":0,"category":"변화","move":"Swords Dance","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":0,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
-{"technicalRecord":17,"category":"변화","move":"Amnesia","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":17,"category":"변화","move":"망각술","type":"Psychic","power":"—","accuracy":"—"},
 {"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
@@ -54,7 +54,7 @@
 {"technicalRecord":81,"category":"물리","move":"Foul Play","type":"Dark","power":"95","accuracy":"100"}]
 ,"egg":[{"category":"변화","move":"Defog","type":"Flying","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"Leech Seed","type":"Grass","power":"—","accuracy":"90"}
-,{"category":"물리","move":"Night Slash","type":"Dark","power":"70","accuracy":"100"}
+,{"category":"물리","move":"깜짝베기","type":"Dark","power":"70","accuracy":"100"}
 ,{"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
 ,{"category":"물리","move":"Take Down","type":"Normal","power":"90","accuracy":"85"}
 ,{"category":"변화","move":"Worry Seed","type":"Grass","power":"—","accuracy":"100"}]

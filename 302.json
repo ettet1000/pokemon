@@ -6,7 +6,7 @@
 "growthRate":"중간 느림"},"abilities":[{"name":"Keen Eye","description":"Keen eyes prevent other Pokémon from lowering this Pokémon's accuracy."},{"name":"Stall","description":"The Pokémon moves after all other Pokémon do."}],"typesEffectiveness":{"Normal":"0","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"0","Poison":"½","Ground":"1","Flying":"1","Psychic":"0","Bug":"1","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"2"},"evolutionChain":[{"number":"302","name":"깜까미","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/302.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/302.png","type":"FIRST"}],"previousEvolutions":[],"nextEvolutions":[],"superEvolutions":[{"name":"Mega 깜까미","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/302_mega_1.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/302_mega_1.png","type":"MEGA"}],"baseStats":{"hp":50,"attack":75,"defense":75,"spAtk":65,"spDef":65,"speed":50,"total":380},"cards":[{"number":"67","name":"깜까미","expansionName":"Evolving Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/302/SWSH7_EN_67.png"},{"number":"105","name":"깜까미","expansionName":"Vivid Voltage","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/302/SWSH4_EN_105.png"},{"number":"120","name":"깜까미 V","expansionName":"Sword & Shield","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/302/SWSH1_EN_120.png"},{"number":"194","name":"깜까미 V","expansionName":"Sword & Shield","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/302/SWSH1_EN_194.png"},{"number":"225","name":"Mega 깜까미 & 마기라스-GX","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/302/SM11_EN_225.png"},{"number":"226","name":"Mega 깜까미 & 마기라스-GX","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/302/SM11_EN_226.png"},{"number":"245","name":"Mega 깜까미 & 마기라스-GX","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/302/SM11_EN_245.png"},{"number":"126","name":"Mega 깜까미 & 마기라스-GX","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/302/SM11_EN_126.png"},{"number":"133","name":"깜까미","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/302/SM11_EN_133.png"},{"number":"96","name":"깜까미","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/302/SM8_EN_96.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/302.mp3","moves":{
 "levelUp":[{"level":1,"category":"변화","move":"Leer","type":"Normal","power":"—","accuracy":"100"}
-,{"level":1,"category":"물리","move":"Scratch","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"물리","move":"할퀴기","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":3,"category":"물리","move":"Astonish","type":"Ghost","power":"30","accuracy":"100"}
 ,{"level":6,"category":"변화","move":"Confuse Ray","type":"Ghost","power":"—","accuracy":"100"}
 ,{"level":9,"category":"물리","move":"Shadow Sneak","type":"Ghost","power":"40","accuracy":"100"}
@@ -14,10 +14,10 @@
 ,{"level":15,"category":"변화","move":"Disable","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":18,"category":"변화","move":"Detect","type":"Fighting","power":"—","accuracy":"—"}
 ,{"level":21,"category":"특수","move":"Night Shade","type":"Ghost","power":"—","accuracy":"100"}
-,{"level":24,"category":"물리","move":"Fury Swipes","type":"Normal","power":"18","accuracy":"80"}
+,{"level":24,"category":"물리","move":"마구할퀴기","type":"Normal","power":"18","accuracy":"80"}
 ,{"level":27,"category":"물리","move":"Knock Off","type":"Dark","power":"65","accuracy":"100"}
 ,{"level":30,"category":"변화","move":"Quash","type":"Dark","power":"—","accuracy":"100"}
-,{"level":33,"category":"물리","move":"Shadow Claw","type":"Ghost","power":"70","accuracy":"100"}
+,{"level":33,"category":"물리","move":"섀도크루","type":"Ghost","power":"70","accuracy":"100"}
 ,{"level":36,"category":"변화","move":"Mean Look","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":39,"category":"특수","move":"Power Gem","type":"Rock","power":"80","accuracy":"100"}
 ,{"level":42,"category":"물리","move":"Zen Headbutt","type":"Psychic","power":"80","accuracy":"90"}
@@ -36,17 +36,17 @@
 ,{"technicalMachine":27,"category":"특수","move":"Icy Wind","type":"Ice","power":"55","accuracy":"95"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":38,"category":"변화","move":"Will-O-Wisp","type":"Fire","power":"—","accuracy":"85"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
 ,{"technicalMachine":44,"category":"변화","move":"Imprison","type":"Psychic","power":"—","accuracy":"—"}
-,{"technicalMachine":48,"category":"물리","move":"Rock Tomb","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
 ,{"technicalMachine":57,"category":"물리","move":"Payback","type":"Dark","power":"50","accuracy":"100"}
 ,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
 ,{"technicalMachine":63,"category":"물리","move":"Drain Punch","type":"Fighting","power":"75","accuracy":"100"}
-,{"technicalMachine":65,"category":"물리","move":"Shadow Claw","type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":65,"category":"물리","move":"섀도크루","type":"Ghost","power":"70","accuracy":"100"}
 ,{"technicalMachine":71,"category":"변화","move":"Wonder Room","type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":75,"category":"물리","move":"Low Sweep","type":"Fighting","power":"65","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
@@ -65,8 +65,8 @@
 {"technicalRecord":37,"category":"변화","move":"Taunt","type":"Dark","power":"—","accuracy":"100"},
 {"technicalRecord":38,"category":"변화","move":"Trick","type":"Psychic","power":"—","accuracy":"100"},
 {"technicalRecord":49,"category":"변화","move":"Calm Mind","type":"Psychic","power":"—","accuracy":"—"},
-{"technicalRecord":52,"category":"물리","move":"Gyro Ball","type":"Steel","power":"—","accuracy":"100"},
-{"technicalRecord":57,"category":"물리","move":"Poison Jab","type":"Poison","power":"80","accuracy":"100"},
+{"technicalRecord":52,"category":"물리","move":"자이로볼","type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":57,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"},
 {"technicalRecord":58,"category":"특수","move":"Dark Pulse","type":"Dark","power":"80","accuracy":"100"},
 {"technicalRecord":63,"category":"특수","move":"Power Gem","type":"Rock","power":"80","accuracy":"100"},
 {"technicalRecord":68,"category":"변화","move":"나쁜음모","type":"Dark","power":"—","accuracy":"—"},

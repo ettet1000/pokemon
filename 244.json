@@ -21,7 +21,7 @@
 ,{"level":48,"category":"특수","move":"Extrasensory","type":"Psychic","power":"80","accuracy":"100"}
 ,{"level":54,"category":"특수","move":"Lava Plume","type":"Fire","power":"80","accuracy":"100"}
 ,{"level":60,"category":"변화","move":"Swagger","type":"Normal","power":"—","accuracy":"85"}
-,{"level":66,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"level":66,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"level":72,"category":"특수","move":"Fire Blast","type":"Fire","power":"110","accuracy":"85"}
 ,{"level":78,"category":"특수","move":"Eruption","type":"Fire","power":"150","accuracy":"100"}]
 ,"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
@@ -34,9 +34,9 @@
 ,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
 ,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":26,"category":"변화","move":"Scary Face","type":"Normal","power":"—","accuracy":"100"}
-,{"technicalMachine":32,"category":"변화","move":"Sandstorm","type":"Rock","power":"—","accuracy":"—"}
+,{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":38,"category":"변화","move":"Will-O-Wisp","type":"Fire","power":"—","accuracy":"85"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
@@ -44,9 +44,9 @@
 ,{"technicalMachine":46,"category":"특수","move":"Weather Ball","type":"Normal","power":"50","accuracy":"100"}
 ,{"technicalMachine":68,"category":"물리","move":"Fire Fang","type":"Fire","power":"65","accuracy":"95"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":81,"category":"물리","move":"Bulldoze","type":"Ground","power":"60","accuracy":"100"}
+,{"technicalMachine":81,"category":"물리","move":"땅고르기","type":"Ground","power":"60","accuracy":"100"}
 ,{"technicalMachine":85,"category":"특수","move":"Snarl","type":"Dark","power":"55","accuracy":"95"}
-,{"technicalMachine":98,"category":"물리","move":"Stomping Tantrum","type":"Ground","power":"75","accuracy":"100"}],"technicalRecords":[
+,{"technicalMachine":98,"category":"물리","move":"분함의발구르기","type":"Ground","power":"75","accuracy":"100"}],"technicalRecords":[
 {"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
 {"technicalRecord":2,"category":"특수","move":"Flamethrower","type":"Fire","power":"90","accuracy":"100"},
 {"technicalRecord":12,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},
@@ -63,7 +63,7 @@
 {"technicalRecord":49,"category":"변화","move":"Calm Mind","type":"Psychic","power":"—","accuracy":"—"},
 {"technicalRecord":55,"category":"물리","move":"Flare Blitz","type":"Fire","power":"120","accuracy":"100"},
 {"technicalRecord":74,"category":"물리","move":"Iron Head","type":"Steel","power":"80","accuracy":"100"},
-{"technicalRecord":75,"category":"물리","move":"Stone Edge","type":"Rock","power":"100","accuracy":"80"}]
+{"technicalRecord":75,"category":"물리","move":"스톤에지","type":"Rock","power":"100","accuracy":"80"}]
 ,"egg":[]
 ,"tutor":[]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_II"}

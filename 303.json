@@ -29,19 +29,19 @@
 ,{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
 ,{"technicalMachine":11,"category":"특수","move":"Solar Beam","type":"Grass","power":"120","accuracy":"100"}
 ,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
-,{"technicalMachine":22,"category":"물리","move":"Rock Slide","type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
 ,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
 ,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":27,"category":"특수","move":"Icy Wind","type":"Ice","power":"55","accuracy":"95"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
-,{"technicalMachine":32,"category":"변화","move":"Sandstorm","type":"Rock","power":"—","accuracy":"—"}
+,{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
 ,{"technicalMachine":47,"category":"변화","move":"Fake Tears","type":"Dark","power":"—","accuracy":"100"}
-,{"technicalMachine":48,"category":"물리","move":"Rock Tomb","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
 ,{"technicalMachine":57,"category":"물리","move":"Payback","type":"Dark","power":"50","accuracy":"100"}
 ,{"technicalMachine":58,"category":"물리","move":"Assurance","type":"Dark","power":"60","accuracy":"100"}
 ,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
@@ -54,7 +54,7 @@
 ,{"technicalMachine":89,"category":"변화","move":"Misty Terrain","type":"Fairy","power":"—","accuracy":"—"}
 ,{"technicalMachine":94,"category":"물리","move":"False Swipe","type":"Normal","power":"40","accuracy":"100"}
 ,{"technicalMachine":97,"category":"물리","move":"세차게휘두르기","type":"Dark","power":"60","accuracy":"100"}],"technicalRecords":[
-{"technicalRecord":0,"category":"변화","move":"Swords Dance","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":0,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
 {"technicalRecord":2,"category":"특수","move":"Flamethrower","type":"Fire","power":"90","accuracy":"100"},
 {"technicalRecord":5,"category":"특수","move":"Ice Beam","type":"Ice","power":"90","accuracy":"100"},
@@ -72,8 +72,8 @@
 {"technicalRecord":64,"category":"특수","move":"기합구슬","type":"Fighting","power":"120","accuracy":"70"},
 {"technicalRecord":70,"category":"특수","move":"Flash Cannon","type":"Steel","power":"80","accuracy":"100"},
 {"technicalRecord":74,"category":"물리","move":"Iron Head","type":"Steel","power":"80","accuracy":"100"},
-{"technicalRecord":75,"category":"물리","move":"Stone Edge","type":"Rock","power":"100","accuracy":"80"},
-{"technicalRecord":76,"category":"변화","move":"Stealth Rock","type":"Rock","power":"—","accuracy":"—"},
+{"technicalRecord":75,"category":"물리","move":"스톤에지","type":"Rock","power":"100","accuracy":"80"},
+{"technicalRecord":76,"category":"변화","move":"스텔스록","type":"Rock","power":"—","accuracy":"—"},
 {"technicalRecord":77,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"},
 {"technicalRecord":81,"category":"물리","move":"Foul Play","type":"Dark","power":"95","accuracy":"100"},
 {"technicalRecord":90,"category":"물리","move":"치근거리기","type":"Fairy","power":"90","accuracy":"90"},

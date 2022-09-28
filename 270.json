@@ -31,13 +31,13 @@
 ,{"technicalMachine":28,"category":"특수","move":"Giga Drain","type":"Grass","power":"75","accuracy":"100"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":35,"category":"변화","move":"Hail","type":"Ice","power":"—","accuracy":"—"}
 ,{"technicalMachine":36,"category":"특수","move":"Whirlpool","type":"Water","power":"35","accuracy":"85"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":50,"category":"물리","move":"Bullet Seed","type":"Grass","power":"25","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}],"technicalRecords":[
-{"technicalRecord":0,"category":"변화","move":"Swords Dance","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":0,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
 {"technicalRecord":4,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"},
 {"technicalRecord":5,"category":"특수","move":"Ice Beam","type":"Ice","power":"90","accuracy":"100"},
@@ -51,7 +51,7 @@
 {"technicalRecord":69,"category":"물리","move":"Zen Headbutt","type":"Psychic","power":"80","accuracy":"90"},
 {"technicalRecord":77,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"},
 {"technicalRecord":84,"category":"특수","move":"Scald","type":"Water","power":"80","accuracy":"100"}]
-,"egg":[{"category":"물리","move":"Counter","type":"Fighting","power":"—","accuracy":"100"}
+,"egg":[{"category":"물리","move":"카운터","type":"Fighting","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"Leech Seed","type":"Grass","power":"—","accuracy":"90"}
 ,{"category":"물리","move":"Razor Leaf","type":"Grass","power":"55","accuracy":"95"}
 ,{"category":"변화","move":"Sweet Scent","type":"Normal","power":"—","accuracy":"100"}

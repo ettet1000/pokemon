@@ -31,7 +31,7 @@
 ,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":47,"category":"변화","move":"Fake Tears","type":"Dark","power":"—","accuracy":"100"}
 ,{"technicalMachine":52,"category":"물리","move":"Bounce","type":"Flying","power":"85","accuracy":"85"}
-,{"technicalMachine":53,"category":"특수","move":"Mud Shot","type":"Ground","power":"55","accuracy":"95"}
+,{"technicalMachine":53,"category":"특수","move":"머드숏","type":"Ground","power":"55","accuracy":"95"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
 ,{"technicalMachine":87,"category":"특수","move":"드레인키스","type":"Fairy","power":"50","accuracy":"100"}
 ,{"technicalMachine":97,"category":"물리","move":"세차게휘두르기","type":"Dark","power":"60","accuracy":"100"}],"technicalRecords":[
@@ -49,7 +49,7 @@
 {"technicalRecord":42,"category":"특수","move":"Hyper Voice","type":"Normal","power":"90","accuracy":"100"},
 {"technicalRecord":45,"category":"특수","move":"Muddy Water","type":"Water","power":"90","accuracy":"85"},
 {"technicalRecord":84,"category":"특수","move":"Scald","type":"Water","power":"80","accuracy":"100"},
-{"technicalRecord":85,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"}]
+{"technicalRecord":85,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}]
 ,"egg":[{"category":"물리","move":"Aqua Jet","type":"Water","power":"40","accuracy":"100"}
 ,{"category":"변화","move":"Belly Drum","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"Copycat","type":"Normal","power":"—","accuracy":"—"}

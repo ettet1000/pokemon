@@ -14,12 +14,12 @@
 ,{"level":1,"category":"특수","move":"Flamethrower","type":"Fire","power":"90","accuracy":"100"}
 ,{"level":1,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":1,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
-,{"level":1,"category":"물리","move":"Scratch","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"물리","move":"할퀴기","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":9,"category":"물리","move":"Flame Charge","type":"Fire","power":"50","accuracy":"100"}
 ,{"level":12,"category":"변화","move":"Detect","type":"Fighting","power":"—","accuracy":"—"}
-,{"level":15,"category":"변화","move":"Sand Attack","type":"Ground","power":"—","accuracy":"100"}
+,{"level":15,"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"}
 ,{"level":20,"category":"물리","move":"Aerial Ace","type":"Flying","power":"60","accuracy":"∞"}
-,{"level":25,"category":"물리","move":"Slash","type":"Normal","power":"70","accuracy":"100"}
+,{"level":25,"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}
 ,{"level":30,"category":"물리","move":"Bounce","type":"Flying","power":"85","accuracy":"85"}
 ,{"level":35,"category":"변화","move":"Focus Energy","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":40,"category":"물리","move":"Blaze Kick","type":"Fire","power":"85","accuracy":"90"}
@@ -33,25 +33,25 @@
 ,{"technicalMachine":13,"category":"특수","move":"Fire Spin","type":"Fire","power":"35","accuracy":"85"}
 ,{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
 ,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
-,{"technicalMachine":22,"category":"물리","move":"Rock Slide","type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
 ,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
 ,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":38,"category":"변화","move":"Will-O-Wisp","type":"Fire","power":"—","accuracy":"85"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
 ,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":42,"category":"물리","move":"Revenge","type":"Fighting","power":"60","accuracy":"100"}
 ,{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
-,{"technicalMachine":48,"category":"물리","move":"Rock Tomb","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
 ,{"technicalMachine":52,"category":"물리","move":"Bounce","type":"Flying","power":"85","accuracy":"85"}
 ,{"technicalMachine":58,"category":"물리","move":"Assurance","type":"Dark","power":"60","accuracy":"100"}
 ,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
-,{"technicalMachine":65,"category":"물리","move":"Shadow Claw","type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":65,"category":"물리","move":"섀도크루","type":"Ghost","power":"70","accuracy":"100"}
 ,{"technicalMachine":75,"category":"물리","move":"Low Sweep","type":"Fighting","power":"65","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}],"technicalRecords":[
-{"technicalRecord":0,"category":"변화","move":"Swords Dance","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":0,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
 {"technicalRecord":2,"category":"특수","move":"Flamethrower","type":"Fire","power":"90","accuracy":"100"},
 {"technicalRecord":7,"category":"물리","move":"Low Kick","type":"Fighting","power":"—","accuracy":"100"},
@@ -68,9 +68,9 @@
 {"technicalRecord":43,"category":"특수","move":"Overheat","type":"Fire","power":"130","accuracy":"90"},
 {"technicalRecord":48,"category":"변화","move":"Bulk Up","type":"Fighting","power":"—","accuracy":"—"},
 {"technicalRecord":55,"category":"물리","move":"Flare Blitz","type":"Fire","power":"120","accuracy":"100"},
-{"technicalRecord":57,"category":"물리","move":"Poison Jab","type":"Poison","power":"80","accuracy":"100"},
+{"technicalRecord":57,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"},
 {"technicalRecord":64,"category":"특수","move":"기합구슬","type":"Fighting","power":"120","accuracy":"70"},
-{"technicalRecord":85,"category":"변화","move":"Work Up","type":"Normal","power":"—","accuracy":"—"}]
+{"technicalRecord":85,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}]
 ,"egg":[]
 ,"tutor":[]
 ,"evolution":[{"category":"물리","move":"Double Kick","type":"Fighting","power":"30","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_III"}
