@@ -8,11 +8,11 @@
 "requirement":"Level 30"}],"previousEvolutions":[{"number":"543","name":"마디네","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/543.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/543.png","type":"FIRST"}],"nextEvolutions":[{"number":"545","name":"펜드라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/545.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/545.png","type":"LAST",
 "requirement":"Level 30"}],"superEvolutions":[],"baseStats":{"hp":40,"attack":55,"defense":99,"spAtk":40,"spDef":79,"speed":47,"total":360},"cards":[{"number":"106","name":"휠구","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/544/SWSH6_EN_106.png"},{"number":"57","name":"휠구","expansionName":"Burning Shadows","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/544/SM3_EN_57.png"},{"number":"52","name":"휠구","expansionName":"XY","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/544/XY1_EN_52.png"},{"number":"73","name":"휠구","expansionName":"Black & White—Boundaries Crossed","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/544/BW7_EN_73.png"},{"number":"39","name":"휠구","expansionName":"Black & White—Emerging Powers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/544/BW2_EN_39.png"},{"number":"53","name":"휠구","expansionName":"Black & White","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/544/BW1_EN_53.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/544.mp3","moves":{
-"levelUp":[{"level":1,"category":"변화","move":"Defense Curl","type":"Normal","power":"—","accuracy":"—"}
+"levelUp":[{"level":1,"category":"변화","move":"웅크리기","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":1,"category":"변화","move":"Iron Defense","type":"Steel","power":"—","accuracy":"—"}
-,{"level":1,"category":"물리","move":"Poison Sting","type":"Poison","power":"15","accuracy":"100"}
+,{"level":1,"category":"물리","move":"독침","type":"Poison","power":"15","accuracy":"100"}
 ,{"level":1,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
-,{"level":1,"category":"물리","move":"Rollout","type":"Rock","power":"30","accuracy":"90"}
+,{"level":1,"category":"물리","move":"구르기","type":"Rock","power":"30","accuracy":"90"}
 ,{"level":12,"category":"물리","move":"Poison Tail","type":"Poison","power":"50","accuracy":"100"}
 ,{"level":16,"category":"변화","move":"Screech","type":"Normal","power":"—","accuracy":"85"}
 ,{"level":20,"category":"물리","move":"Bug Bite","type":"Bug","power":"60","accuracy":"100"}
@@ -22,14 +22,14 @@
 ,{"level":44,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
 ,{"level":50,"category":"변화","move":"Venom Drench","type":"Poison","power":"—","accuracy":"100"}
 ,{"level":56,"category":"물리","move":"Double-Edge","type":"Normal","power":"120","accuracy":"100"}]
-,"technicalMachine":[{"technicalMachine":7,"category":"물리","move":"Pin Missile","type":"Bug","power":"25","accuracy":"95"}
+,"technicalMachine":[{"technicalMachine":7,"category":"물리","move":"바늘미사일","type":"Bug","power":"25","accuracy":"95"}
 ,{"technicalMachine":11,"category":"특수","move":"Solar Beam","type":"Grass","power":"120","accuracy":"100"}
 ,{"technicalMachine":16,"category":"변화","move":"Screech","type":"Normal","power":"—","accuracy":"85"}
 ,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
 ,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":57,"category":"물리","move":"Payback","type":"Dark","power":"50","accuracy":"100"}
 ,{"technicalMachine":74,"category":"특수","move":"Venoshock","type":"Poison","power":"65","accuracy":"100"}
@@ -38,16 +38,16 @@
 {"technicalRecord":12,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},
 {"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":22,"category":"특수","move":"Sludge Bomb","type":"Poison","power":"90","accuracy":"100"},
-{"technicalRecord":23,"category":"변화","move":"Spikes","type":"Ground","power":"—","accuracy":"—"},
+{"technicalRecord":23,"category":"변화","move":"압정뿌리기","type":"Ground","power":"—","accuracy":"—"},
 {"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":46,"category":"변화","move":"Iron Defense","type":"Steel","power":"—","accuracy":"—"},
-{"technicalRecord":52,"category":"물리","move":"Gyro Ball","type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":52,"category":"물리","move":"자이로볼","type":"Steel","power":"—","accuracy":"100"},
 {"technicalRecord":54,"category":"변화","move":"Toxic Spikes","type":"Poison","power":"—","accuracy":"—"},
-{"technicalRecord":57,"category":"물리","move":"Poison Jab","type":"Poison","power":"80","accuracy":"100"},
+{"technicalRecord":57,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"},
 {"technicalRecord":91,"category":"변화","move":"Venom Drench","type":"Poison","power":"—","accuracy":"100"}]
 ,"egg":[{"category":"물리","move":"Bite","type":"Dark","power":"60","accuracy":"100"}
-,{"category":"물리","move":"Fury Cutter","type":"Bug","power":"40","accuracy":"95"}]
+,{"category":"물리","move":"연속자르기","type":"Bug","power":"40","accuracy":"95"}]
 ,"tutor":[{"category":"물리","move":"Skitter Smack","type":"Bug","power":"70","accuracy":"90"}
-,{"category":"물리","move":"Steel Roller","type":"Steel","power":"130","accuracy":"100"}]
+,{"category":"물리","move":"아이언롤러","type":"Steel","power":"130","accuracy":"100"}]
 ,"evolution":[{"category":"변화","move":"Iron Defense","type":"Steel","power":"—","accuracy":"—"}],"preEvolution":[]},"generation":"GENERATION_V"}

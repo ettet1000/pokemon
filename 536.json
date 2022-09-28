@@ -12,7 +12,7 @@
 ,{"level":1,"category":"특수","move":"Echoed Voice","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":1,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":1,"category":"변화","move":"Supersonic","type":"Normal","power":"—","accuracy":"55"}
-,{"level":12,"category":"특수","move":"Mud Shot","type":"Ground","power":"55","accuracy":"95"}
+,{"level":12,"category":"특수","move":"머드숏","type":"Ground","power":"55","accuracy":"95"}
 ,{"level":16,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
 ,{"level":20,"category":"특수","move":"Bubble Beam","type":"Water","power":"65","accuracy":"100"}
 ,{"level":24,"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"}
@@ -33,9 +33,9 @@
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":46,"category":"특수","move":"Weather Ball","type":"Normal","power":"50","accuracy":"100"}
 ,{"technicalMachine":52,"category":"물리","move":"Bounce","type":"Flying","power":"85","accuracy":"85"}
-,{"technicalMachine":53,"category":"특수","move":"Mud Shot","type":"Ground","power":"55","accuracy":"95"}
+,{"technicalMachine":53,"category":"특수","move":"머드숏","type":"Ground","power":"55","accuracy":"95"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":81,"category":"물리","move":"Bulldoze","type":"Ground","power":"60","accuracy":"100"}],"technicalRecords":[
+,{"technicalMachine":81,"category":"물리","move":"땅고르기","type":"Ground","power":"60","accuracy":"100"}],"technicalRecords":[
 {"technicalRecord":3,"category":"특수","move":"Hydro Pump","type":"Water","power":"110","accuracy":"80"},
 {"technicalRecord":4,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"},
 {"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
@@ -45,14 +45,14 @@
 {"technicalRecord":35,"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"},
 {"technicalRecord":42,"category":"특수","move":"Hyper Voice","type":"Normal","power":"90","accuracy":"100"},
 {"technicalRecord":45,"category":"특수","move":"Muddy Water","type":"Water","power":"90","accuracy":"85"},
-{"technicalRecord":67,"category":"특수","move":"Earth Power","type":"Ground","power":"90","accuracy":"100"},
+{"technicalRecord":67,"category":"특수","move":"대지의힘","type":"Ground","power":"90","accuracy":"100"},
 {"technicalRecord":72,"category":"물리","move":"Power Whip","type":"Grass","power":"120","accuracy":"85"},
-{"technicalRecord":76,"category":"변화","move":"Stealth Rock","type":"Rock","power":"—","accuracy":"—"},
+{"technicalRecord":76,"category":"변화","move":"스텔스록","type":"Rock","power":"—","accuracy":"—"},
 {"technicalRecord":78,"category":"특수","move":"Sludge Wave","type":"Poison","power":"95","accuracy":"100"},
 {"technicalRecord":84,"category":"특수","move":"Scald","type":"Water","power":"80","accuracy":"100"},
 {"technicalRecord":91,"category":"변화","move":"Venom Drench","type":"Poison","power":"—","accuracy":"100"}]
 ,"egg":[{"category":"변화","move":"Mist","type":"Ice","power":"—","accuracy":"—"}
-,{"category":"특수","move":"Mud-Slap","type":"Ground","power":"20","accuracy":"100"}
+,{"category":"특수","move":"진흙뿌리기","type":"Ground","power":"20","accuracy":"100"}
 ,{"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"}
 ,{"category":"특수","move":"Water Pulse","type":"Water","power":"60","accuracy":"100"}]
 ,"tutor":[]

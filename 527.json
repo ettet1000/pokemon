@@ -14,7 +14,7 @@
 ,{"level":15,"category":"특수","move":"Air Cutter","type":"Flying","power":"60","accuracy":"95"}
 ,{"level":20,"category":"변화","move":"Imprison","type":"Psychic","power":"—","accuracy":"—"}
 ,{"level":25,"category":"물리","move":"Assurance","type":"Dark","power":"60","accuracy":"100"}
-,{"level":30,"category":"변화","move":"Amnesia","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":30,"category":"변화","move":"망각술","type":"Psychic","power":"—","accuracy":"—"}
 ,{"level":35,"category":"특수","move":"Air Slash","type":"Flying","power":"75","accuracy":"95"}
 ,{"level":40,"category":"특수","move":"Psychic","type":"Psychic","power":"90","accuracy":"100"}
 ,{"level":45,"category":"변화","move":"Calm Mind","type":"Psychic","power":"—","accuracy":"—"}
@@ -48,7 +48,7 @@
 ,{"technicalMachine":78,"category":"물리","move":"Acrobatics","type":"Flying","power":"55","accuracy":"100"}
 ,{"technicalMachine":95,"category":"특수","move":"Air Slash","type":"Flying","power":"75","accuracy":"95"}],"technicalRecords":[
 {"technicalRecord":11,"category":"특수","move":"Psychic","type":"Psychic","power":"90","accuracy":"100"},
-{"technicalRecord":17,"category":"변화","move":"Amnesia","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":17,"category":"변화","move":"망각술","type":"Psychic","power":"—","accuracy":"—"},
 {"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":25,"category":"특수","move":"Psyshock","type":"Psychic","power":"80","accuracy":"100"},
 {"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
@@ -62,7 +62,7 @@
 {"technicalRecord":38,"category":"변화","move":"Trick","type":"Psychic","power":"—","accuracy":"100"},
 {"technicalRecord":40,"category":"변화","move":"Skill Swap","type":"Psychic","power":"—","accuracy":"—"},
 {"technicalRecord":49,"category":"변화","move":"Calm Mind","type":"Psychic","power":"—","accuracy":"—"},
-{"technicalRecord":52,"category":"물리","move":"Gyro Ball","type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":52,"category":"물리","move":"자이로볼","type":"Steel","power":"—","accuracy":"100"},
 {"technicalRecord":65,"category":"특수","move":"Energy Ball","type":"Grass","power":"90","accuracy":"100"},
 {"technicalRecord":68,"category":"변화","move":"나쁜음모","type":"Dark","power":"—","accuracy":"—"},
 {"technicalRecord":69,"category":"물리","move":"Zen Headbutt","type":"Psychic","power":"80","accuracy":"90"},

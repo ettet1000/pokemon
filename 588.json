@@ -7,7 +7,7 @@
 ,"type":"LAST",
 "requirement":"쪼마리와 통신교환"}],"superEvolutions":[],"baseStats":{"hp":50,"attack":75,"defense":45,"spAtk":40,"spDef":45,"speed":60,"total":315},"cards":[{"number":"8","name":"딱정곤","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/588/SWSH3_EN_8.png"},{"number":"12","name":"딱정곤","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/588/SM11_EN_12.png"},{"number":"7","name":"딱정곤","expansionName":"Crimson Invasion","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/588/SM4_EN_7.png"},{"number":"8","name":"딱정곤","expansionName":"XY—Phantom Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/588/XY4_EN_8.png"},{"number":"6","name":"딱정곤","expansionName":"Black & White—Plasma Blast","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/588/BW10_EN_6.png"},{"number":"9","name":"딱정곤","expansionName":"Black & White—Dark Explorers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/588/BW5_EN_9.png"},{"number":"8","name":"딱정곤","expansionName":"Black & White—Noble Victories","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/588/BW3_EN_8.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/588.mp3","moves":{
-"levelUp":[{"level":1,"category":"변화","move":"Leer","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"Peck","type":"Flying","power":"35","accuracy":"100"},{"level":4,"category":"물리","move":"Fury Cutter","type":"Bug","power":"40","accuracy":"95"},{"level":8,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},{"level":12,"category":"물리","move":"False Swipe","type":"Normal","power":"40","accuracy":"100"},{"level":16,"category":"특수","move":"Acid Spray","type":"Poison","power":"40","accuracy":"100"},{"level":20,"category":"물리","move":"Headbutt","type":"Normal","power":"70","accuracy":"100"},{"level":24,"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"},{"level":28,"category":"변화","move":"Scary Face","type":"Normal","power":"—","accuracy":"100"},{"level":32,"category":"물리","move":"X-Scissor","type":"Bug","power":"80","accuracy":"100"},{"level":36,"category":"변화","move":"Swords Dance","type":"Normal","power":"—","accuracy":"—"},{"level":40,"category":"물리","move":"Take Down","type":"Normal","power":"90","accuracy":"85"},{"level":44,"category":"특수","move":"Bug Buzz","type":"Bug","power":"90","accuracy":"100"},{"level":48,"category":"물리","move":"Double-Edge","type":"Normal","power":"120","accuracy":"100"}],"technicalMachine":[{"technicalMachine":16,"category":"변화","move":"Screech","type":"Normal","power":"—","accuracy":"85"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":26,"category":"변화","move":"Scary Face","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":28,"category":"특수","move":"Giga Drain","type":"Grass","power":"75","accuracy":"100"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":33,"category":"변화","move":"비바라기"
+"levelUp":[{"level":1,"category":"변화","move":"Leer","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"Peck","type":"Flying","power":"35","accuracy":"100"},{"level":4,"category":"물리","move":"연속자르기","type":"Bug","power":"40","accuracy":"95"},{"level":8,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},{"level":12,"category":"물리","move":"False Swipe","type":"Normal","power":"40","accuracy":"100"},{"level":16,"category":"특수","move":"Acid Spray","type":"Poison","power":"40","accuracy":"100"},{"level":20,"category":"물리","move":"Headbutt","type":"Normal","power":"70","accuracy":"100"},{"level":24,"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"},{"level":28,"category":"변화","move":"Scary Face","type":"Normal","power":"—","accuracy":"100"},{"level":32,"category":"물리","move":"시저크로스","type":"Bug","power":"80","accuracy":"100"},{"level":36,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"},{"level":40,"category":"물리","move":"Take Down","type":"Normal","power":"90","accuracy":"85"},{"level":44,"category":"특수","move":"Bug Buzz","type":"Bug","power":"90","accuracy":"100"},{"level":48,"category":"물리","move":"Double-Edge","type":"Normal","power":"120","accuracy":"100"}],"technicalMachine":[{"technicalMachine":16,"category":"변화","move":"Screech","type":"Normal","power":"—","accuracy":"85"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":26,"category":"변화","move":"Scary Face","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":28,"category":"특수","move":"Giga Drain","type":"Grass","power":"75","accuracy":"100"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":33,"category":"변화","move":"비바라기"
 ,"type":"Water","power":"—","accuracy":"—"}
 ,{"technicalMachine":39,"category":"물리","move":"객기"
 ,"type":"Normal","power":"70","accuracy":"100"}
@@ -15,7 +15,7 @@
 ,"type":"Normal","power":"60","accuracy":"100"}
 ,{"technicalMachine":94,"category":"물리","move":"False Swipe"
 ,"type":"Normal","power":"40","accuracy":"100"}],"technicalRecords":[
-{"technicalRecord":0,"category":"변화","move":"Swords Dance"
+{"technicalRecord":0,"category":"변화","move":"칼춤"
 ,"type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":20,"category":"변화","move":"대타출동"
 ,"type":"Normal","power":"—","accuracy":"—"},
@@ -29,25 +29,25 @@
 ,"type":"Normal","power":"—","accuracy":"100"},
 {"technicalRecord":46,"category":"변화","move":"Iron Defense"
 ,"type":"Steel","power":"—","accuracy":"—"},
-{"technicalRecord":57,"category":"물리","move":"Poison Jab"
+{"technicalRecord":57,"category":"물리","move":"독찌르기"
 ,"type":"Poison","power":"80","accuracy":"100"},
-{"technicalRecord":60,"category":"물리","move":"X-Scissor"
+{"technicalRecord":60,"category":"물리","move":"시저크로스"
 ,"type":"Bug","power":"80","accuracy":"100"},
 {"technicalRecord":61,"category":"특수","move":"Bug Buzz"
 ,"type":"Bug","power":"90","accuracy":"100"},
 {"technicalRecord":65,"category":"특수","move":"Energy Ball"
 ,"type":"Grass","power":"90","accuracy":"100"},
-{"technicalRecord":87,"category":"물리","move":"Drill Run"
+{"technicalRecord":87,"category":"물리","move":"드릴라이너"
 ,"type":"Ground","power":"80","accuracy":"95"}]
 ,"egg":[{"category":"물리","move":"Bug Bite"
 ,"type":"Bug","power":"60","accuracy":"100"}
-,{"category":"물리","move":"Counter"
+,{"category":"물리","move":"카운터"
 ,"type":"Fighting","power":"—","accuracy":"100"}
 ,{"category":"물리","move":"Knock Off"
 ,"type":"Dark","power":"65","accuracy":"100"}
-,{"category":"물리","move":"Night Slash"
+,{"category":"물리","move":"깜짝베기"
 ,"type":"Dark","power":"70","accuracy":"100"}
-,{"category":"물리","move":"Slash"
+,{"category":"물리","move":"베어가르기"
 ,"type":"Normal","power":"70","accuracy":"100"}]
 ,"tutor":[]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_V"}

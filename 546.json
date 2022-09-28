@@ -20,7 +20,7 @@
 ,{"level":30,"category":"변화","move":"Leech Seed","type":"Grass","power":"—","accuracy":"90"}
 ,{"level":33,"category":"변화","move":"Cotton Spore","type":"Grass","power":"—","accuracy":"100"}
 ,{"level":36,"category":"특수","move":"Energy Ball","type":"Grass","power":"90","accuracy":"100"}
-,{"level":39,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"level":39,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"level":42,"category":"물리","move":"Endeavor","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":45,"category":"변화","move":"Cotton Guard","type":"Grass","power":"—","accuracy":"—"}
 ,{"level":48,"category":"특수","move":"Solar Beam","type":"Grass","power":"120","accuracy":"100"}]
@@ -32,7 +32,7 @@
 ,{"technicalMachine":28,"category":"특수","move":"Giga Drain","type":"Grass","power":"75","accuracy":"100"}
 ,{"technicalMachine":29,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
-,{"technicalMachine":34,"category":"변화","move":"Sunny Day","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":37,"category":"물리","move":"Beat Up","type":"Dark","power":"—","accuracy":"100"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
