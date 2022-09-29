@@ -8,26 +8,26 @@
 ,"type":"LAST",
 "requirement":"Level 35"}],"superEvolutions":[],"baseStats":{"hp":62,"attack":73,"defense":55,"spAtk":56,"spDef":52,"speed":84,"total":382},"cards":[{"number":"139","name":"불화살빈","expansionName":"Evolving Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/662/SWSH7_EN_139.png"},{"number":"31","name":"불화살빈","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/662/SWSH3_EN_31.png"},{"number":"31","name":"불화살빈","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/662/SM11_EN_31.png"},{"number":"110","name":"불화살빈","expansionName":"SM—Guardians Rising","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/662/SM2_EN_110.png"},{"number":"95","name":"불화살빈","expansionName":"XY—Steam Siege","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/662/XY11_EN_95.png"},{"number":"14","name":"불화살빈","expansionName":"XY—Roaring Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/662/XY6_EN_14.png"},{"number":"9","name":"불화살빈","expansionName":"XY—Phantom Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/662/XY4_EN_9.png"},{"number":"17","name":"불화살빈","expansionName":"XY—Flashfire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/662/XY2_EN_17.png"},{"number":"27","name":"불화살빈","expansionName":"XY","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/662/XY1_EN_27.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/662.mp3","moves":{
-"levelUp":[{"level":1,"category":"특수","move":"Ember","type":"Fire","power":"40","accuracy":"100"},{"level":1,"category":"물리","move":"페인트","type":"Normal","power":"30","accuracy":"100"},{"level":1,"category":"물리","move":"Flame Charge","type":"Fire","power":"50","accuracy":"100"},{"level":1,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"Peck","type":"Flying","power":"35","accuracy":"100"},{"level":1,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"},{"level":15,"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"},{"level":22,"category":"물리","move":"Acrobatics","type":"Flying","power":"55","accuracy":"100"},{"level":29,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},{"level":36,"category":"물리","move":"Aerial Ace","type":"Flying","power":"60","accuracy":"∞"},{"level":43,"category":"변화","move":"Tailwind","type":"Flying","power":"—","accuracy":"—"},{"level":50,"category":"물리","move":"Steel Wing","type":"Steel","power":"70","accuracy":"90"},{"level":57,"category":"변화","move":"Roost","type":"Flying","power":"—","accuracy":"—"},{"level":64,"category":"물리","move":"Fly","type":"Flying","power":"90","accuracy":"95"}],"technicalMachine":[{"technicalMachine":6,"category":"물리","move":"Fly","type":"Flying","power":"90","accuracy":"95"},{"technicalMachine":13,"category":"특수","move":"Fire Spin","type":"Fire","power":"35","accuracy":"85"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":30,"category":"물리","move":"Steel Wing","type":"Steel","power":"70","accuracy":"90"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
-,{"technicalMachine":38,"category":"변화","move":"Will-O-Wisp"
+"levelUp":[{"level":1,"category":"특수","move":"불꽃세례","type":"Fire","power":"40","accuracy":"100"},{"level":1,"category":"물리","move":"페인트","type":"Normal","power":"30","accuracy":"100"},{"level":1,"category":"물리","move":"니트로차지","type":"Fire","power":"50","accuracy":"100"},{"level":1,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"쪼기","type":"Flying","power":"35","accuracy":"100"},{"level":1,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"},{"level":15,"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"},{"level":22,"category":"물리","move":"애크러뱃","type":"Flying","power":"55","accuracy":"100"},{"level":29,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},{"level":36,"category":"물리","move":"제비반환","type":"Flying","power":"60","accuracy":"∞"},{"level":43,"category":"변화","move":"순풍","type":"Flying","power":"—","accuracy":"—"},{"level":50,"category":"물리","move":"강철날개","type":"Steel","power":"70","accuracy":"90"},{"level":57,"category":"변화","move":"날개쉬기","type":"Flying","power":"—","accuracy":"—"},{"level":64,"category":"물리","move":"공중날기","type":"Flying","power":"90","accuracy":"95"}],"technicalMachine":[{"technicalMachine":6,"category":"물리","move":"공중날기","type":"Flying","power":"90","accuracy":"95"},{"technicalMachine":13,"category":"특수","move":"회오리불꽃","type":"Fire","power":"35","accuracy":"85"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":30,"category":"물리","move":"강철날개","type":"Steel","power":"70","accuracy":"90"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":38,"category":"변화","move":"도깨비불"
 ,"type":"Fire","power":"—","accuracy":"85"}
 ,{"technicalMachine":39,"category":"물리","move":"객기"
 ,"type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":40,"category":"특수","move":"스피드스타"
 ,"type":"Normal","power":"60","accuracy":"∞"}
-,{"technicalMachine":56,"category":"물리","move":"U-turn"
+,{"technicalMachine":56,"category":"물리","move":"유턴"
 ,"type":"Bug","power":"70","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래"
 ,"type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":78,"category":"물리","move":"Acrobatics"
+,{"technicalMachine":78,"category":"물리","move":"애크러뱃"
 ,"type":"Flying","power":"55","accuracy":"100"}],"technicalRecords":[
 {"technicalRecord":0,"category":"변화","move":"칼춤"
 ,"type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":2,"category":"특수","move":"Flamethrower"
+{"technicalRecord":2,"category":"특수","move":"화염방사"
 ,"type":"Fire","power":"90","accuracy":"100"},
 {"technicalRecord":12,"category":"변화","move":"고속이동"
 ,"type":"Psychic","power":"—","accuracy":"—"},
-{"technicalRecord":15,"category":"특수","move":"Fire Blast"
+{"technicalRecord":15,"category":"특수","move":"불대문자"
 ,"type":"Fire","power":"110","accuracy":"85"},
 {"technicalRecord":20,"category":"변화","move":"대타출동"
 ,"type":"Normal","power":"—","accuracy":"—"},
@@ -35,21 +35,21 @@
 ,"type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":27,"category":"변화","move":"잠꼬대"
 ,"type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":36,"category":"특수","move":"Heat Wave"
+{"technicalRecord":36,"category":"특수","move":"열풍"
 ,"type":"Fire","power":"95","accuracy":"90"},
-{"technicalRecord":37,"category":"변화","move":"Taunt"
+{"technicalRecord":37,"category":"변화","move":"도발"
 ,"type":"Dark","power":"—","accuracy":"100"},
-{"technicalRecord":43,"category":"특수","move":"Overheat"
+{"technicalRecord":43,"category":"특수","move":"오버히트"
 ,"type":"Fire","power":"130","accuracy":"90"},
 {"technicalRecord":85,"category":"변화","move":"분발"
 ,"type":"Normal","power":"—","accuracy":"—"}]
-,"egg":[{"category":"변화","move":"Defog"
+,"egg":[{"category":"변화","move":"안개제거"
 ,"type":"Flying","power":"—","accuracy":"—"}
-,{"category":"물리","move":"Flame Charge"
+,{"category":"물리","move":"니트로차지"
 ,"type":"Fire","power":"50","accuracy":"100"}
-,{"category":"변화","move":"Quick Guard"
+,{"category":"변화","move":"퍼스트가드"
 ,"type":"Fighting","power":"—","accuracy":"—"}]
 ,"tutor":[{"category":"물리","move":"Dual Wingbeat"
 ,"type":"Flying","power":"40","accuracy":"90"}]
-,"evolution":[{"category":"물리","move":"Flame Charge"
+,"evolution":[{"category":"물리","move":"니트로차지"
 ,"type":"Fire","power":"50","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_VI"}

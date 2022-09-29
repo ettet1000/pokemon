@@ -8,16 +8,16 @@
 ,"type":"LAST",
 "requirement":"Level 12"}],"superEvolutions":[],"baseStats":{"hp":45,"attack":22,"defense":60,"spAtk":27,"spDef":30,"speed":29,"total":213},"cards":[{"number":"12","name":"분떠도리","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/665/SWSH5_EN_12.png"},{"number":"7","name":"분떠도리","expansionName":"Forbidden Light","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/665/SM6_EN_7.png"},{"number":"14","name":"분떠도리","expansionName":"XY–BREAKthrough","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/665/XY8_EN_14.png"},{"number":"16","name":"분떠도리","expansionName":"XY","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/665/XY1_EN_16.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/665.mp3","moves":{
-"levelUp":[{"level":1,"category":"변화","move":"Harden","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}],"technicalMachine":[{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[],"egg":[{"category":"변화","move":"Poison Powder","type":"Poison","power":"—","accuracy":"75"},{"category":"변화","move":"Rage Powder","type":"Bug","power":"—","accuracy":"—"},{"category":"변화","move":"Stun Spore","type":"Grass","power":"—","accuracy":"75"}],"type":"[{"category":"물리","move":"Bug Bite","type":"Bug","power":"60","accuracy":"100"},{"category":"특수","move":"일렉트릭네트"
+"levelUp":[{"level":1,"category":"변화","move":"단단해지기","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}],"technicalMachine":[{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[],"egg":[{"category":"변화","move":"독가루","type":"Poison","power":"—","accuracy":"75"},{"category":"변화","move":"분노가루","type":"Bug","power":"—","accuracy":"—"},{"category":"변화","move":"저리가루","type":"Grass","power":"—","accuracy":"75"}],"type":"[{"category":"물리","move":"벌레먹음","type":"Bug","power":"60","accuracy":"100"},{"category":"특수","move":"일렉트릭네트"
 ,"type":"Electric","power":"55","accuracy":"95"}
-,{"category":"변화","move":"Iron Defense"
+,{"category":"변화","move":"철벽"
 ,"type":"Steel","power":"—","accuracy":"—"}]
 ,"evolution":[{"category":"변화","move":"방어"
-,"type":"Normal","power":"—","accuracy":"—"}],"preEvolution":[{"category":"물리","move":"Bug Bite"
+,"type":"Normal","power":"—","accuracy":"—"}],"preEvolution":[{"category":"물리","move":"벌레먹음"
 ,"type":"Bug","power":"60","accuracy":"100","method":"Level up"}
-,{"category":"변화","move":"String Shot"
+,{"category":"변화","move":"실뿜기"
 ,"type":"Bug","power":"—","accuracy":"95","method":"Level up"}
-,{"category":"변화","move":"Stun Spore"
+,{"category":"변화","move":"저리가루"
 ,"type":"Grass","power":"—","accuracy":"75","method":"Level up"}
-,{"category":"물리","move":"Tackle"
+,{"category":"물리","move":"몸통박치기"
 ,"type":"Normal","power":"40","accuracy":"100","method":"Level up"}]},"generation":"GENERATION_VI"}

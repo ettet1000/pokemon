@@ -7,10 +7,10 @@
 ,"type":"LAST",
 "requirement":"태양의돌 사용"}],"superEvolutions":[],"baseStats":{"hp":44,"attack":38,"defense":33,"spAtk":61,"spDef":43,"speed":70,"total":289},"cards":[{"number":"63","name":"목도리키텔","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/694/SWSH2_EN_63.png"},{"number":"179","name":"목도리키텔","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/694/SM12_EN_179.png"},{"number":"49","name":"목도리키텔","expansionName":"Team Up","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/694/SM9_EN_49.png"},{"number":"37","name":"목도리키텔","expansionName":"Forbidden Light","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/694/SM6_EN_37.png"},{"number":"43","name":"목도리키텔","expansionName":"SM—Guardians Rising","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/694/SM2_EN_43.png"},{"number":"28","name":"목도리키텔","expansionName":"XY—Phantom Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/694/XY4_EN_28.png"},{"number":"29","name":"목도리키텔","expansionName":"XY—Phantom Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/694/XY4_EN_29.png"},{"number":"36","name":"목도리키텔","expansionName":"XY—Flashfire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/694/XY2_EN_36.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/694.mp3","moves":{
-"levelUp":[{"level":1,"category":"특수","move":"진흙뿌리기","type":"Ground","power":"20","accuracy":"100"},{"level":1,"category":"변화","move":"꼬리흔들기","type":"Normal","power":"—","accuracy":"100"},{"level":4,"category":"물리","move":"Pound","type":"Normal","power":"40","accuracy":"100"},{"level":8,"category":"특수","move":"전광석화","type":"Electric","power":"40","accuracy":"100"},{"level":12,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"},{"level":16,"category":"변화","move":"충전","type":"Electric","power":"—","accuracy":"—"},{"level":20,"category":"물리","move":"땅고르기","type":"Ground","power":"60","accuracy":"100"},{"level":24,"category":"특수","move":"볼트체인지","type":"Electric","power":"70","accuracy":"100"},{"level":28,"category":"특수","move":"Parabolic Charge","type":"Electric","power":"65","accuracy":"100"},{"level":32,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"level":36,"category":"특수","move":"10만볼트","type":"Electric","power":"90","accuracy":"100"},{"level":40,"category":"변화","move":"Electrify","type":"Electric","power":"—","accuracy":"—"},{"level":44,"category":"특수","move":"번개","type":"Electric","power":"110","accuracy":"70"}],"technicalMachine":[{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"},{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"},{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"},{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
-,{"technicalMachine":56,"category":"물리","move":"U-turn"
+"levelUp":[{"level":1,"category":"특수","move":"진흙뿌리기","type":"Ground","power":"20","accuracy":"100"},{"level":1,"category":"변화","move":"꼬리흔들기","type":"Normal","power":"—","accuracy":"100"},{"level":4,"category":"물리","move":"막치기","type":"Normal","power":"40","accuracy":"100"},{"level":8,"category":"특수","move":"전광석화","type":"Electric","power":"40","accuracy":"100"},{"level":12,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"},{"level":16,"category":"변화","move":"충전","type":"Electric","power":"—","accuracy":"—"},{"level":20,"category":"물리","move":"땅고르기","type":"Ground","power":"60","accuracy":"100"},{"level":24,"category":"특수","move":"볼트체인지","type":"Electric","power":"70","accuracy":"100"},{"level":28,"category":"특수","move":"파라볼라차지","type":"Electric","power":"65","accuracy":"100"},{"level":32,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"level":36,"category":"특수","move":"10만볼트","type":"Electric","power":"90","accuracy":"100"},{"level":40,"category":"변화","move":"송전","type":"Electric","power":"—","accuracy":"—"},{"level":44,"category":"특수","move":"번개","type":"Electric","power":"110","accuracy":"70"}],"technicalMachine":[{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"},{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"},{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"},{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":56,"category":"물리","move":"유턴"
 ,"type":"Bug","power":"70","accuracy":"100"}
-,{"technicalMachine":75,"category":"물리","move":"Low Sweep"
+,{"technicalMachine":75,"category":"물리","move":"로킥"
 ,"type":"Fighting","power":"65","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래"
 ,"type":"Normal","power":"60","accuracy":"100"}
@@ -38,21 +38,21 @@
 ,"type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":31,"category":"물리","move":"아이언테일"
 ,"type":"Steel","power":"100","accuracy":"75"},
-{"technicalRecord":58,"category":"특수","move":"Dark Pulse"
+{"technicalRecord":58,"category":"특수","move":"악의파동"
 ,"type":"Dark","power":"80","accuracy":"100"},
 {"technicalRecord":77,"category":"특수","move":"풀묶기"
 ,"type":"Grass","power":"—","accuracy":"100"},
 {"technicalRecord":80,"category":"특수","move":"일렉트릭볼"
 ,"type":"Electric","power":"—","accuracy":"100"},
-{"technicalRecord":83,"category":"변화","move":"Ally Switch"
+{"technicalRecord":83,"category":"변화","move":"사이드체인지"
 ,"type":"Psychic","power":"—","accuracy":"—"},
 {"technicalRecord":86,"category":"물리","move":"와일드볼트"
 ,"type":"Electric","power":"90","accuracy":"100"}]
-,"egg":[{"category":"물리","move":"Dragon Rush"
+,"egg":[{"category":"물리","move":"드래곤다이브"
 ,"type":"Dragon","power":"100","accuracy":"75"}
-,{"category":"물리","move":"Dragon Tail"
+,{"category":"물리","move":"드래곤테일"
 ,"type":"Dragon","power":"60","accuracy":"90"}
-,{"category":"변화","move":"Glare"
+,{"category":"변화","move":"뱀눈초리"
 ,"type":"Normal","power":"—","accuracy":"100"}]
 ,"tutor":[{"category":"특수","move":"라이징볼트"
 ,"type":"Electric","power":"70","accuracy":"100"}

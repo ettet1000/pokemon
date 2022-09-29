@@ -8,7 +8,7 @@
 ,"type":"LAST",
 "requirement":"어둠의돌 사용"}],"superEvolutions":[],"baseStats":{"hp":59,"attack":110,"defense":150,"spAtk":45,"spDef":49,"speed":35,"total":448},"cards":[{"number":"106","name":"쌍검킬","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/680/SWSH5_EN_106.png"},{"number":"134","name":"쌍검킬","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/680/SWSH2_EN_134.png"},{"number":"94","name":"쌍검킬","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/680/SM11_EN_94.png"},{"number":"108","name":"쌍검킬","expansionName":"Team Up","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/680/SM9_EN_108.png"},{"number":"48","name":"쌍검킬","expansionName":"Forbidden Light","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/680/SM6_EN_48.png"},{"number":"61","name":"쌍검킬","expansionName":"XY—BREAKpoint","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/680/XY9_EN_61.png"},{"number":"99","name":"쌍검킬","expansionName":"XY—Primal Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/680/XY5_EN_99.png"},{"number":"84","name":"쌍검킬","expansionName":"XY","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/680/XY1_EN_84.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/680.mp3","moves":{
-"levelUp":[{"level":1,"category":"변화","move":"Autotomize","type":"Steel","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"연속자르기","type":"Bug","power":"40","accuracy":"95"},{"level":1,"category":"물리","move":"Shadow Sneak","type":"Ghost","power":"40","accuracy":"100"},{"level":1,"category":"물리","move":"Tackle","type":"Normal","power":"40","accuracy":"100"},{"level":12,"category":"물리","move":"Aerial Ace","type":"Flying","power":"60","accuracy":"∞"},{"level":16,"category":"변화","move":"Metal Sound","type":"Steel","power":"—","accuracy":"85"},{"level":20,"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"},{"level":24,"category":"물리","move":"깜짝베기","type":"Dark","power":"70","accuracy":"100"},{"level":28,"category":"물리","move":"Retaliate","type":"Normal","power":"70","accuracy":"100"},{"level":32,"category":"변화","move":"Iron Defense","type":"Steel","power":"—","accuracy":"—"},{"level":38,"category":"물리","move":"Iron Head","type":"Steel","power":"80","accuracy":"100"},{"level":44,"category":"변화","move":"Power Trick","type":"Psychic","power":"—","accuracy":"—"},{"level":50,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"},{"level":56,"category":"물리","move":"Sacred Sword","type":"Fighting","power":"90","accuracy":"100"}],"technicalMachine":[{"technicalMachine":12,"category":"물리","move":"Solar Blade","type":"Grass","power":"125","accuracy":"100"},{"technicalMachine":16,"category":"변화","move":"Screech","type":"Normal","power":"—","accuracy":"85"},{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":33,"category":"변화","move":"비바라기"
+"levelUp":[{"level":1,"category":"변화","move":"바디퍼지","type":"Steel","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"연속자르기","type":"Bug","power":"40","accuracy":"95"},{"level":1,"category":"물리","move":"야습","type":"Ghost","power":"40","accuracy":"100"},{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"},{"level":12,"category":"물리","move":"제비반환","type":"Flying","power":"60","accuracy":"∞"},{"level":16,"category":"변화","move":"금속음","type":"Steel","power":"—","accuracy":"85"},{"level":20,"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"},{"level":24,"category":"물리","move":"깜짝베기","type":"Dark","power":"70","accuracy":"100"},{"level":28,"category":"물리","move":"원수갚기","type":"Normal","power":"70","accuracy":"100"},{"level":32,"category":"변화","move":"철벽","type":"Steel","power":"—","accuracy":"—"},{"level":38,"category":"물리","move":"아이언헤드","type":"Steel","power":"80","accuracy":"100"},{"level":44,"category":"변화","move":"파워트릭","type":"Psychic","power":"—","accuracy":"—"},{"level":50,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"},{"level":56,"category":"물리","move":"성스러운칼","type":"Fighting","power":"90","accuracy":"100"}],"technicalMachine":[{"technicalMachine":12,"category":"물리","move":"솔라블레이드","type":"Grass","power":"125","accuracy":"100"},{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"},{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":33,"category":"변화","move":"비바라기"
 ,"type":"Water","power":"—","accuracy":"—"}
 ,{"technicalMachine":39,"category":"물리","move":"객기"
 ,"type":"Normal","power":"70","accuracy":"100"}
@@ -16,13 +16,13 @@
 ,"type":"Fighting","power":"75","accuracy":"100"}
 ,{"technicalMachine":65,"category":"물리","move":"섀도크루"
 ,"type":"Ghost","power":"70","accuracy":"100"}
-,{"technicalMachine":69,"category":"물리","move":"Psycho Cut"
+,{"technicalMachine":69,"category":"물리","move":"사이코커터"
 ,"type":"Psychic","power":"70","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래"
 ,"type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":79,"category":"물리","move":"Retaliate"
+,{"technicalMachine":79,"category":"물리","move":"원수갚기"
 ,"type":"Normal","power":"70","accuracy":"100"}
-,{"technicalMachine":94,"category":"물리","move":"False Swipe"
+,{"technicalMachine":94,"category":"물리","move":"칼등치기"
 ,"type":"Normal","power":"40","accuracy":"100"}
 ,{"technicalMachine":97,"category":"물리","move":"세차게휘두르기"
 ,"type":"Dark","power":"60","accuracy":"100"}],"technicalRecords":[
@@ -36,21 +36,21 @@
 ,"type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":27,"category":"변화","move":"잠꼬대"
 ,"type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":46,"category":"변화","move":"Iron Defense"
+{"technicalRecord":46,"category":"변화","move":"철벽"
 ,"type":"Steel","power":"—","accuracy":"—"},
 {"technicalRecord":52,"category":"물리","move":"자이로볼"
 ,"type":"Steel","power":"—","accuracy":"100"},
-{"technicalRecord":53,"category":"물리","move":"Close Combat"
+{"technicalRecord":53,"category":"물리","move":"인파이트"
 ,"type":"Fighting","power":"120","accuracy":"100"},
-{"technicalRecord":70,"category":"특수","move":"Flash Cannon"
+{"technicalRecord":70,"category":"특수","move":"러스터캐논"
 ,"type":"Steel","power":"80","accuracy":"100"},
-{"technicalRecord":74,"category":"물리","move":"Iron Head"
+{"technicalRecord":74,"category":"물리","move":"아이언헤드"
 ,"type":"Steel","power":"80","accuracy":"100"}]
-,"egg":[{"category":"변화","move":"Block"
+,"egg":[{"category":"변화","move":"블록"
 ,"type":"Normal","power":"—","accuracy":"—"}
-,{"category":"변화","move":"Destiny Bond"
+,{"category":"변화","move":"길동무"
 ,"type":"Ghost","power":"—","accuracy":"—"}
-,{"category":"변화","move":"Wide Guard"
+,{"category":"변화","move":"와이드가드"
 ,"type":"Rock","power":"—","accuracy":"—"}]
 ,"tutor":[]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VI"}

@@ -9,12 +9,12 @@
 ,"type":"LAST",
 "requirement":"Level 12"}],"superEvolutions":[],"baseStats":{"hp":38,"attack":35,"defense":40,"spAtk":27,"spDef":25,"speed":35,"total":200},"cards":[{"number":"11","name":"분이벌레","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/664/SWSH5_EN_11.png"},{"number":"5","name":"분이벌레","expansionName":"Forbidden Light","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/664/SM6_EN_5.png"},{"number":"6","name":"분이벌레","expansionName":"Forbidden Light","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/664/SM6_EN_6.png"},{"number":"13","name":"분이벌레","expansionName":"XY–BREAKthrough","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/664/XY8_EN_13.png"},{"number":"15","name":"분이벌레","expansionName":"XY","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/664/XY1_EN_15.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/664.mp3","moves":{
-"levelUp":[{"level":1,"category":"변화","move":"String Shot","type":"Bug","power":"—","accuracy":"95"},{"level":1,"category":"물리","move":"Tackle","type":"Normal","power":"40","accuracy":"100"},{"level":6,"category":"변화","move":"Stun Spore","type":"Grass","power":"—","accuracy":"75"},{"level":15,"category":"물리","move":"Bug Bite","type":"Bug","power":"60","accuracy":"100"}],"technicalMachine":[],"technicalRecords":[],"egg":[{"category":"변화","move":"Poison Powder"
+"levelUp":[{"level":1,"category":"변화","move":"실뿜기","type":"Bug","power":"—","accuracy":"95"},{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"},{"level":6,"category":"변화","move":"저리가루","type":"Grass","power":"—","accuracy":"75"},{"level":15,"category":"물리","move":"벌레먹음","type":"Bug","power":"60","accuracy":"100"}],"technicalMachine":[],"technicalRecords":[],"egg":[{"category":"변화","move":"독가루"
 ,"type":"Poison","power":"—","accuracy":"75"}
-,{"category":"변화","move":"Rage Powder"
+,{"category":"변화","move":"분노가루"
 ,"type":"Bug","power":"—","accuracy":"—"}
-,{"category":"변화","move":"Stun Spore"
+,{"category":"변화","move":"저리가루"
 ,"type":"Grass","power":"—","accuracy":"75"}]
-,"tutor":[{"category":"물리","move":"Bug Bite"
+,"tutor":[{"category":"물리","move":"벌레먹음"
 ,"type":"Bug","power":"60","accuracy":"100"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VI"}

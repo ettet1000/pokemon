@@ -9,7 +9,7 @@
 ,"type":"LAST",
 "requirement":"Level 50, 비오는 날씨"}],"superEvolutions":[],"baseStats":{"hp":45,"attack":50,"defense":35,"spAtk":55,"spDef":75,"speed":40,"total":300},"cards":[{"number":"91","name":"미끄메라","expansionName":"Forbidden Light","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/704/SM6_EN_91.png"},{"number":"92","name":"미끄메라","expansionName":"Forbidden Light","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/704/SM6_EN_92.png"},{"number":"94","name":"미끄메라","expansionName":"SM—Guardians Rising","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/704/SM2_EN_94.png"},{"number":"58","name":"미끄메라","expansionName":"XY—Ancient Origins","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/704/XY7_EN_58.png"},{"number":"75","name":"미끄메라","expansionName":"XY—Phantom Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/704/XY4_EN_75.png"},{"number":"72","name":"미끄메라","expansionName":"XY—Flashfire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/704/XY2_EN_72.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/704.mp3","moves":{
-"levelUp":[{"level":1,"category":"특수","move":"Absorb","type":"Grass","power":"20","accuracy":"100"},{"level":1,"category":"물리","move":"Tackle","type":"Normal","power":"40","accuracy":"100"},{"level":5,"category":"특수","move":"Water Gun","type":"Water","power":"40","accuracy":"100"},{"level":10,"category":"특수","move":"Dragon Breath","type":"Dragon","power":"60","accuracy":"100"},{"level":15,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"level":20,"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"},{"level":25,"category":"특수","move":"Water Pulse","type":"Water","power":"60","accuracy":"100"},{"level":30,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"level":35,"category":"특수","move":"Dragon Pulse","type":"Dragon","power":"85","accuracy":"100"},{"level":41,"category":"변화","move":"Curse","type":"Ghost","power":"—","accuracy":"—"},{"level":45,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},{"level":50,"category":"특수","move":"Muddy Water","type":"Water","power":"90","accuracy":"85"}],"technicalMachine":[{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":34,"category":"변화","move":"쾌청"
+"levelUp":[{"level":1,"category":"특수","move":"흡수","type":"Grass","power":"20","accuracy":"100"},{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"},{"level":5,"category":"특수","move":"물대포","type":"Water","power":"40","accuracy":"100"},{"level":10,"category":"특수","move":"용의숨결","type":"Dragon","power":"60","accuracy":"100"},{"level":15,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"level":20,"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"},{"level":25,"category":"특수","move":"물의파동","type":"Water","power":"60","accuracy":"100"},{"level":30,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"level":35,"category":"특수","move":"용의파동","type":"Dragon","power":"85","accuracy":"100"},{"level":41,"category":"변화","move":"저주","type":"Ghost","power":"—","accuracy":"—"},{"level":45,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},{"level":50,"category":"특수","move":"탁류","type":"Water","power":"90","accuracy":"85"}],"technicalMachine":[{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":34,"category":"변화","move":"쾌청"
 ,"type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":39,"category":"물리","move":"객기"
 ,"type":"Normal","power":"70","accuracy":"100"}
@@ -23,9 +23,9 @@
 ,"type":"Electric","power":"90","accuracy":"100"},
 {"technicalRecord":20,"category":"변화","move":"대타출동"
 ,"type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":22,"category":"특수","move":"Sludge Bomb"
+{"technicalRecord":22,"category":"특수","move":"오물폭탄"
 ,"type":"Poison","power":"90","accuracy":"100"},
-{"technicalRecord":24,"category":"물리","move":"Outrage"
+{"technicalRecord":24,"category":"물리","move":"역린"
 ,"type":"Dragon","power":"120","accuracy":"100"},
 {"technicalRecord":26,"category":"변화","move":"버티기"
 ,"type":"Normal","power":"—","accuracy":"—"},
@@ -33,15 +33,15 @@
 ,"type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":31,"category":"물리","move":"아이언테일"
 ,"type":"Steel","power":"100","accuracy":"75"},
-{"technicalRecord":45,"category":"특수","move":"Muddy Water"
+{"technicalRecord":45,"category":"특수","move":"탁류"
 ,"type":"Water","power":"90","accuracy":"85"},
-{"technicalRecord":62,"category":"특수","move":"Dragon Pulse"
+{"technicalRecord":62,"category":"특수","move":"용의파동"
 ,"type":"Dragon","power":"85","accuracy":"100"},
-{"technicalRecord":78,"category":"특수","move":"Sludge Wave"
+{"technicalRecord":78,"category":"특수","move":"오물웨이브"
 ,"type":"Poison","power":"95","accuracy":"100"}]
 ,"egg":[{"category":"물리","move":"카운터"
 ,"type":"Fighting","power":"—","accuracy":"100"}
-,{"category":"변화","move":"Life Dew"
+,{"category":"변화","move":"생명의물방울"
 ,"type":"Water","power":"—","accuracy":"—"}]
 ,"tutor":[{"category":"물리","move":"Skitter Smack"
 ,"type":"Bug","power":"70","accuracy":"90"}]

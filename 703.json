@@ -3,9 +3,9 @@
 "specie":"보석","height":"5.7 kg (12.6 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["요정","광물"],"cycle":"25 (6,169–6,425 걸음)"},"genders":[{"type":"UNKNOWN"}]},
 "training":{"evYield":"1 방어, 1 특수방어","catchRate":"60 (7.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"100",
-"growthRate":"느린"},"abilities":[{"name":"Clear Body","description":"Prevents other Pokémon's moves or Abilities from lowering the Pokémon's stats."}],"typesEffectiveness":{"Normal":"½","Fire":"½","Water":"2","Electric":"1","Grass":"2","Ice":"1","Fighting":"1","Poison":"1","Ground":"2","Flying":"½","Psychic":"1","Bug":"½","Rock":"1","Ghost":"1","Dragon":"0","Dark":"½","Steel":"4","Fairy":"1"},"evolutionChain":[{"number":"703","name":"멜리시","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/703.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/703.png","type":"FIRST"}],"previousEvolutions":[],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":50,"attack":50,"defense":150,"spAtk":50,"spDef":150,"speed":50,"total":500},"cards":[{"number":"117","name":"멜리시","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/703/SM8_EN_117.png"},{"number":"143","name":"멜리시","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/703/SM8_EN_143.png"},{"number":"49","name":"멜리시","expansionName":"XY—Fates Collide","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/703/XY10_EN_49.png"},{"number":"50","name":"멜리시","expansionName":"XY—Fates Collide","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/703/XY10_EN_50.png"},{"number":"51","name":"멜리시 BREAK","expansionName":"XY—Fates Collide","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/703/XY10_EN_51.png"},{"number":"47","name":"멜리시","expansionName":"XY—Roaring Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/703/XY6_EN_47.png"},{"number":"68","name":"멜리시","expansionName":"XY—Flashfire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/703/XY2_EN_68.png"}],
+"growthRate":"느린"},"abilities":[{"name":"Clear Body","description":"Prevents other Pokémon's moves or Abilities from lowering the Pokémon's stats."}],"typesEffectiveness":{"Normal":"½","Fire":"½","Water":"2","Electric":"1","Grass":"2","Ice":"1","Fighting":"1","Poison":"1","Ground":"2","Flying":"½","Psychic":"1","Bug":"½","Rock":"1","Ghost":"1","Dragon":"0","Dark":"½","Steel":"4","Fairy":"1"},"evolutionChain":[{"number":"703","name":"멜리시","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/703.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/703.png","type":"FIRST"}],"previousEvolutions":[],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":50,"attack":50,"defense":150,"spAtk":50,"spDef":150,"speed":50,"total":500},"cards":[{"number":"117","name":"멜리시","expansionName":"Lost "번개","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/703/SM8_EN_117.png"},{"number":"143","name":"멜리시","expansionName":"Lost "번개","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/703/SM8_EN_143.png"},{"number":"49","name":"멜리시","expansionName":"XY—Fates Collide","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/703/XY10_EN_49.png"},{"number":"50","name":"멜리시","expansionName":"XY—Fates Collide","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/703/XY10_EN_50.png"},{"number":"51","name":"멜리시 BREAK","expansionName":"XY—Fates Collide","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/703/XY10_EN_51.png"},{"number":"47","name":"멜리시","expansionName":"XY—Roaring Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/703/XY6_EN_47.png"},{"number":"68","name":"멜리시","expansionName":"XY—Flashfire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/703/XY2_EN_68.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/703.mp3","moves":{
-"levelUp":[{"level":1,"category":"변화","move":"Harden","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"Tackle","type":"Normal","power":"40","accuracy":"100"},{"level":5,"category":"변화","move":"Guard Split","type":"Psychic","power":"—","accuracy":"—"},{"level":10,"category":"물리","move":"Smack Down","type":"Rock","power":"50","accuracy":"100"},{"level":15,"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"},{"level":20,"category":"특수","move":"Ancient Power","type":"Rock","power":"60","accuracy":"100"},{"level":25,"category":"변화","move":"Rock Polish","type":"Rock","power":"—","accuracy":"—"},{"level":30,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"level":35,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"level":40,"category":"변화","move":"Skill Swap","type":"Psychic","power":"—","accuracy":"—"},{"level":45,"category":"특수","move":"Power Gem","type":"Rock","power":"80","accuracy":"100"},{"level":50,"category":"변화","move":"스텔스록","type":"Rock","power":"—","accuracy":"—"},{"level":55,"category":"특수","move":"Moonblast","type":"Fairy","power":"95","accuracy":"100"},{"level":60,"category":"물리","move":"스톤에지","type":"Rock","power":"100","accuracy":"80"}],"technicalMachine":[{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":29,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"},{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"},{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"},{"technicalMachine":35,"category":"변화","move":"Hail"
+"levelUp":[{"level":1,"category":"변화","move":"단단해지기","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"},{"level":5,"category":"변화","move":"가드셰어","type":"Psychic","power":"—","accuracy":"—"},{"level":10,"category":"물리","move":"떨어뜨리기","type":"Rock","power":"50","accuracy":"100"},{"level":15,"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"},{"level":20,"category":"특수","move":"원시의힘","type":"Rock","power":"60","accuracy":"100"},{"level":25,"category":"변화","move":"록커트","type":"Rock","power":"—","accuracy":"—"},{"level":30,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"level":35,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"level":40,"category":"변화","move":"스킬스웹","type":"Psychic","power":"—","accuracy":"—"},{"level":45,"category":"특수","move":"파워젬","type":"Rock","power":"80","accuracy":"100"},{"level":50,"category":"변화","move":"스텔스록","type":"Rock","power":"—","accuracy":"—"},{"level":55,"category":"특수","move":"문포스","type":"Fairy","power":"95","accuracy":"100"},{"level":60,"category":"물리","move":"스톤에지","type":"Rock","power":"100","accuracy":"80"}],"technicalMachine":[{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":29,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"},{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"},{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"},{"technicalMachine":35,"category":"변화","move":"싸라기눈"
 ,"type":"Ice","power":"—","accuracy":"—"}
 ,{"technicalMachine":39,"category":"물리","move":"객기"
 ,"type":"Normal","power":"70","accuracy":"100"}
@@ -13,17 +13,17 @@
 ,"type":"Rock","power":"60","accuracy":"95"}
 ,{"technicalMachine":49,"category":"물리","move":"모래지옥"
 ,"type":"Ground","power":"35","accuracy":"85"}
-,{"technicalMachine":61,"category":"변화","move":"Guard Swap"
+,{"technicalMachine":61,"category":"변화","move":"가드스웹"
 ,"type":"Psychic","power":"—","accuracy":"—"}
-,{"technicalMachine":70,"category":"변화","move":"Trick Room"
+,{"technicalMachine":70,"category":"변화","move":"트릭룸"
 ,"type":"Psychic","power":"—","accuracy":"—"}
-,{"technicalMachine":71,"category":"변화","move":"Wonder Room"
+,{"technicalMachine":71,"category":"변화","move":"원더룸"
 ,"type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래"
 ,"type":"Normal","power":"60","accuracy":"100"}
 ,{"technicalMachine":98,"category":"물리","move":"분함의발구르기"
 ,"type":"Ground","power":"75","accuracy":"100"}],"technicalRecords":[
-{"technicalRecord":11,"category":"특수","move":"Psychic"
+{"technicalRecord":11,"category":"특수","move":"사이코키네시스"
 ,"type":"Psychic","power":"90","accuracy":"100"},
 {"technicalRecord":20,"category":"변화","move":"대타출동"
 ,"type":"Normal","power":"—","accuracy":"—"},
@@ -31,15 +31,15 @@
 ,"type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":27,"category":"변화","move":"잠꼬대"
 ,"type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":40,"category":"변화","move":"Skill Swap"
+{"technicalRecord":40,"category":"변화","move":"스킬스웹"
 ,"type":"Psychic","power":"—","accuracy":"—"},
-{"technicalRecord":46,"category":"변화","move":"Iron Defense"
+{"technicalRecord":46,"category":"변화","move":"철벽"
 ,"type":"Steel","power":"—","accuracy":"—"},
-{"technicalRecord":49,"category":"변화","move":"Calm Mind"
+{"technicalRecord":49,"category":"변화","move":"명상"
 ,"type":"Psychic","power":"—","accuracy":"—"},
 {"technicalRecord":52,"category":"물리","move":"자이로볼"
 ,"type":"Steel","power":"—","accuracy":"100"},
-{"technicalRecord":63,"category":"특수","move":"Power Gem"
+{"technicalRecord":63,"category":"특수","move":"파워젬"
 ,"type":"Rock","power":"80","accuracy":"100"},
 {"technicalRecord":67,"category":"특수","move":"대지의힘"
 ,"type":"Ground","power":"90","accuracy":"100"},
@@ -47,11 +47,11 @@
 ,"type":"Rock","power":"100","accuracy":"80"},
 {"technicalRecord":76,"category":"변화","move":"스텔스록"
 ,"type":"Rock","power":"—","accuracy":"—"},
-{"technicalRecord":83,"category":"변화","move":"Ally Switch"
+{"technicalRecord":83,"category":"변화","move":"사이드체인지"
 ,"type":"Psychic","power":"—","accuracy":"—"},
-{"technicalRecord":92,"category":"특수","move":"Dazzling Gleam"
+{"technicalRecord":92,"category":"특수","move":"매지컬샤인"
 ,"type":"Fairy","power":"80","accuracy":"100"},
-{"technicalRecord":99,"category":"물리","move":"Body Press"
+{"technicalRecord":99,"category":"물리","move":"바디프레스"
 ,"type":"Fighting","power":"80","accuracy":"100"}]
 ,"egg":[]
 ,"tutor":[]
