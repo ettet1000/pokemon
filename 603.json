@@ -8,13 +8,13 @@
 ,"type":"LAST",
 "requirement":"천둥의돌 사용"}],"superEvolutions":[],"baseStats":{"hp":65,"attack":85,"defense":70,"spAtk":75,"spDef":70,"speed":40,"total":405},"cards":[{"number":"58","name":"저리릴","expansionName":"Vivid Voltage","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/603/SWSH4_EN_58.png"},{"number":"65","name":"저리릴","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/603/SM11_EN_65.png"},{"number":"45","name":"저리릴","expansionName":"Burning Shadows","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/603/SM3_EN_45.png"},{"number":"63","name":"저리릴","expansionName":"XY—Primal Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/603/XY5_EN_63.png"},{"number":"64","name":"저리릴","expansionName":"XY—Primal Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/603/XY5_EN_64.png"},{"number":"32","name":"저리릴","expansionName":"Black & White—Plasma Blast","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/603/BW10_EN_32.png"},{"number":"46","name":"저리릴","expansionName":"Black & White—Dark Explorers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/603/BW5_EN_46.png"},{"number":"40","name":"저리릴","expansionName":"Black & White—Noble Victories","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/603/BW3_EN_40.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/603.mp3","moves":{
-"levelUp":[{"level":1,"category":"특수","move":"Charge Beam","type":"Electric","power":"50","accuracy":"90"},{"level":1,"category":"물리","move":"Crunch","type":"Dark","power":"80","accuracy":"100"},{"level":1,"category":"물리","move":"Headbutt","type":"Normal","power":"70","accuracy":"100"},{"level":1,"category":"물리","move":"스파크","type":"Electric","power":"65","accuracy":"100"},{"level":1,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"level":9,"category":"물리","move":"Bind","type":"Normal","power":"15","accuracy":"85"},{"level":19,"category":"특수","move":"Acid","type":"Poison","power":"40","accuracy":"100"},{"level":29,"category":"특수","move":"방전","type":"Electric","power":"80","accuracy":"100"},{"level":44,"category":"특수","move":"10만볼트","type":"Electric","power":"90","accuracy":"100"},{"level":49,"category":"특수","move":"Acid Spray","type":"Poison","power":"40","accuracy":"100"},{"level":54,"category":"변화","move":"Coil","type":"Poison","power":"—","accuracy":"—"},{"level":59,"category":"물리","move":"와일드볼트","type":"Electric","power":"90","accuracy":"100"},{"level":64,"category":"변화","move":"Gastro Acid","type":"Poison","power":"—","accuracy":"100"},{"level":69,"category":"특수","move":"Zap Cannon","type":"Electric","power":"120","accuracy":"50"},{"level":74,"category":"물리","move":"Thrash","type":"Normal","power":"120","accuracy":"100"}],"technicalMachine":[{"technicalMachine":6,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"},{"technicalMachine":10,"category":"특수","move":"Hidden Power","type":"Normal","power":"60","accuracy":"100"},{"technicalMachine":16,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":18,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"물리","move":"Frustration"
+"levelUp":[{"level":1,"category":"특수","move":"차지빔","type":"Electric","power":"50","accuracy":"90"},{"level":1,"category":"물리","move":"깨물어부수기","type":"Dark","power":"80","accuracy":"100"},{"level":1,"category":"물리","move":"박치기","type":"Normal","power":"70","accuracy":"100"},{"level":1,"category":"물리","move":"스파크","type":"Electric","power":"65","accuracy":"100"},{"level":1,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"level":9,"category":"물리","move":"조이기","type":"Normal","power":"15","accuracy":"85"},{"level":19,"category":"특수","move":"용해액","type":"Poison","power":"40","accuracy":"100"},{"level":29,"category":"특수","move":"방전","type":"Electric","power":"80","accuracy":"100"},{"level":44,"category":"특수","move":"10만볼트","type":"Electric","power":"90","accuracy":"100"},{"level":49,"category":"특수","move":"애시드봄","type":"Poison","power":"40","accuracy":"100"},{"level":54,"category":"변화","move":"똬리틀기","type":"Poison","power":"—","accuracy":"—"},{"level":59,"category":"물리","move":"와일드볼트","type":"Electric","power":"90","accuracy":"100"},{"level":64,"category":"변화","move":"위액","type":"Poison","power":"—","accuracy":"100"},{"level":69,"category":"특수","move":"전자포","type":"Electric","power":"120","accuracy":"50"},{"level":74,"category":"물리","move":"난동부리기","type":"Normal","power":"120","accuracy":"100"}],"technicalMachine":[{"technicalMachine":6,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"},{"technicalMachine":10,"category":"특수","move":"잠재파워","type":"Normal","power":"60","accuracy":"100"},{"technicalMachine":16,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":18,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"물리","move":"화풀이"
 ,"type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":24,"category":"특수","move":"10만볼트"
 ,"type":"Electric","power":"90","accuracy":"100"}
 ,{"technicalMachine":25,"category":"특수","move":"번개"
 ,"type":"Electric","power":"110","accuracy":"70"}
-,{"technicalMachine":27,"category":"물리","move":"Return"
+,{"technicalMachine":27,"category":"물리","move":"은혜갚기"
 ,"type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":32,"category":"변화","move":"그림자분신"
 ,"type":"Normal","power":"—","accuracy":"—"}
@@ -26,28 +26,28 @@
 ,"type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":48,"category":"특수","move":"돌림노래"
 ,"type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":57,"category":"특수","move":"Charge Beam"
+,{"technicalMachine":57,"category":"특수","move":"차지빔"
 ,"type":"Electric","power":"50","accuracy":"90"}
-,{"technicalMachine":62,"category":"물리","move":"Acrobatics"
+,{"technicalMachine":62,"category":"물리","move":"애크러뱃"
 ,"type":"Flying","power":"55","accuracy":"100"}
 ,{"technicalMachine":72,"category":"특수","move":"볼트체인지"
 ,"type":"Electric","power":"70","accuracy":"100"}
 ,{"technicalMachine":73,"category":"변화","move":"전기자석파"
 ,"type":"Electric","power":"—","accuracy":"90"}
-,{"technicalMachine":87,"category":"변화","move":"Swagger"
+,{"technicalMachine":87,"category":"변화","move":"뽐내기"
 ,"type":"Normal","power":"—","accuracy":"85"}
 ,{"technicalMachine":88,"category":"변화","move":"잠꼬대"
 ,"type":"Normal","power":"—","accuracy":"—"}
-,{"technicalMachine":89,"category":"물리","move":"U-turn"
+,{"technicalMachine":89,"category":"물리","move":"유턴"
 ,"type":"Bug","power":"70","accuracy":"100"}
 ,{"technicalMachine":90,"category":"변화","move":"대타출동"
 ,"type":"Normal","power":"—","accuracy":"—"}
-,{"technicalMachine":91,"category":"특수","move":"Flash Cannon"
+,{"technicalMachine":91,"category":"특수","move":"러스터캐논"
 ,"type":"Steel","power":"80","accuracy":"100"}
 ,{"technicalMachine":93,"category":"물리","move":"와일드볼트"
 ,"type":"Electric","power":"90","accuracy":"100"}
-,{"technicalMachine":100,"category":"변화","move":"Confide"
+,{"technicalMachine":100,"category":"변화","move":"비밀이야기"
 ,"type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[]
 ,"egg":[]
 ,"tutor":[]
-,"evolution":[{"category":"물리","move":"Crunch","type":"Dark","power":"80","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_V"}
+,"evolution":[{"category":"물리","move":"깨물어부수기","type":"Dark","power":"80","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_V"}

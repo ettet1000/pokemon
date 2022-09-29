@@ -8,10 +8,10 @@
 ,"type":"MIDDLE",
 "requirement":"Level 39"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":85,"attack":115,"defense":80,"spAtk":105,"spDef":80,"speed":50,"total":515},"cards":[{"number":"59","name":"저리더프","expansionName":"Vivid Voltage","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/604/SWSH4_EN_59.png"},{"number":"66","name":"저리더프","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/604/SM11_EN_66.png"},{"number":"46","name":"저리더프","expansionName":"Burning Shadows","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/604/SM3_EN_46.png"},{"number":"65","name":"저리더프","expansionName":"XY—Primal Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/604/XY5_EN_65.png"},{"number":"33","name":"저리더프","expansionName":"Black & White—Plasma Blast","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/604/BW10_EN_33.png"},{"number":"47","name":"저리더프","expansionName":"Black & White—Dark Explorers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/604/BW5_EN_47.png"},{"number":"41","name":"저리더프","expansionName":"Black & White—Noble Victories","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/604/BW3_EN_41.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/604.mp3","moves":{
-"levelUp":[{"level":1,"category":"특수","move":"Acid","type":"Poison","power":"40","accuracy":"100"},{"level":1,"category":"변화","move":"Coil","type":"Poison","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"Crunch","type":"Dark","power":"80","accuracy":"100"},{"level":1,"category":"물리","move":"브레이크크루","type":"Normal","power":"75","accuracy":"95"},{"level":1,"category":"특수","move":"방전","type":"Electric","power":"80","accuracy":"100"},{"level":1,"category":"변화","move":"Gastro Acid","type":"Poison","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"Headbutt","type":"Normal","power":"70","accuracy":"100"},{"level":1,"category":"변화","move":"Ion Deluge","type":"Electric","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"Thrash","type":"Normal","power":"120","accuracy":"100"},{"level":1,"category":"특수","move":"Zap Cannon","type":"Electric","power":"120","accuracy":"50"}],"technicalMachine":[{"technicalMachine":2,"category":"물리","move":"Dragon Claw","type":"Dragon","power":"80","accuracy":"100"},{"technicalMachine":5,"category":"변화","move":"Roar","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":6,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"},{"technicalMachine":10,"category":"특수","move":"Hidden Power","type":"Normal","power":"60","accuracy":"100"},{"technicalMachine":15,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":16,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":18,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"물리","move":"Frustration","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":24,"category":"특수","move":"10만볼트","type":"Electric","power":"90","accuracy":"100"},{"technicalMachine":25,"category":"특수","move":"번개","type":"Electric","power":"110","accuracy":"70"},{"technicalMachine":27,"category":"물리","move":"Return","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":31,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
+"levelUp":[{"level":1,"category":"특수","move":"용해액","type":"Poison","power":"40","accuracy":"100"},{"level":1,"category":"변화","move":"똬리틀기","type":"Poison","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"깨물어부수기","type":"Dark","power":"80","accuracy":"100"},{"level":1,"category":"물리","move":"브레이크크루","type":"Normal","power":"75","accuracy":"95"},{"level":1,"category":"특수","move":"방전","type":"Electric","power":"80","accuracy":"100"},{"level":1,"category":"변화","move":"위액","type":"Poison","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"박치기","type":"Normal","power":"70","accuracy":"100"},{"level":1,"category":"변화","move":"플라스마샤워","type":"Electric","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"난동부리기","type":"Normal","power":"120","accuracy":"100"},{"level":1,"category":"특수","move":"전자포","type":"Electric","power":"120","accuracy":"50"}],"technicalMachine":[{"technicalMachine":2,"category":"물리","move":"드래곤크루","type":"Dragon","power":"80","accuracy":"100"},{"technicalMachine":5,"category":"변화","move":"울부짖기","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":6,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"},{"technicalMachine":10,"category":"특수","move":"잠재파워","type":"Normal","power":"60","accuracy":"100"},{"technicalMachine":15,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":16,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":18,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"물리","move":"화풀이","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":24,"category":"특수","move":"10만볼트","type":"Electric","power":"90","accuracy":"100"},{"technicalMachine":25,"category":"특수","move":"번개","type":"Electric","power":"110","accuracy":"70"},{"technicalMachine":27,"category":"물리","move":"은혜갚기","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":31,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
 ,{"technicalMachine":32,"category":"변화","move":"그림자분신"
 ,"type":"Normal","power":"—","accuracy":"—"}
-,{"technicalMachine":35,"category":"특수","move":"Flamethrower"
+,{"technicalMachine":35,"category":"특수","move":"화염방사"
 ,"type":"Fire","power":"90","accuracy":"100"}
 ,{"technicalMachine":39,"category":"물리","move":"암석봉인"
 ,"type":"Rock","power":"60","accuracy":"95"}
@@ -23,9 +23,9 @@
 ,"type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":48,"category":"특수","move":"돌림노래"
 ,"type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":57,"category":"특수","move":"Charge Beam"
+,{"technicalMachine":57,"category":"특수","move":"차지빔"
 ,"type":"Electric","power":"50","accuracy":"90"}
-,{"technicalMachine":62,"category":"물리","move":"Acrobatics"
+,{"technicalMachine":62,"category":"물리","move":"애크러뱃"
 ,"type":"Flying","power":"55","accuracy":"100"}
 ,{"technicalMachine":68,"category":"물리","move":"기가임팩트"
 ,"type":"Normal","power":"150","accuracy":"90"}
@@ -35,23 +35,23 @@
 ,"type":"Electric","power":"—","accuracy":"90"}
 ,{"technicalMachine":80,"category":"물리","move":"스톤샤워"
 ,"type":"Rock","power":"75","accuracy":"90"}
-,{"technicalMachine":82,"category":"물리","move":"Dragon Tail"
+,{"technicalMachine":82,"category":"물리","move":"드래곤테일"
 ,"type":"Dragon","power":"60","accuracy":"90"}
 ,{"technicalMachine":86,"category":"특수","move":"풀묶기"
 ,"type":"Grass","power":"—","accuracy":"100"}
-,{"technicalMachine":87,"category":"변화","move":"Swagger"
+,{"technicalMachine":87,"category":"변화","move":"뽐내기"
 ,"type":"Normal","power":"—","accuracy":"85"}
 ,{"technicalMachine":88,"category":"변화","move":"잠꼬대"
 ,"type":"Normal","power":"—","accuracy":"—"}
-,{"technicalMachine":89,"category":"물리","move":"U-turn"
+,{"technicalMachine":89,"category":"물리","move":"유턴"
 ,"type":"Bug","power":"70","accuracy":"100"}
 ,{"technicalMachine":90,"category":"변화","move":"대타출동"
 ,"type":"Normal","power":"—","accuracy":"—"}
-,{"technicalMachine":91,"category":"특수","move":"Flash Cannon"
+,{"technicalMachine":91,"category":"특수","move":"러스터캐논"
 ,"type":"Steel","power":"80","accuracy":"100"}
 ,{"technicalMachine":93,"category":"물리","move":"와일드볼트"
 ,"type":"Electric","power":"90","accuracy":"100"}
-,{"technicalMachine":100,"category":"변화","move":"Confide"
+,{"technicalMachine":100,"category":"변화","move":"비밀이야기"
 ,"type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[]
 ,"egg":[]
 ,"tutor":[]

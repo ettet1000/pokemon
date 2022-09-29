@@ -6,22 +6,22 @@
 "growthRate":"중간 빠름"},"abilities":[{"name":"Keen Eye","description":"Keen eyes prevent other Pokémon from lowering this Pokémon's accuracy."},{"name":"Big Pecks","description":"Protects the Pokémon from Defense-lowering effects."}],"typesEffectiveness":{"Normal":"1","Fire":"½","Water":"½","Electric":"4","Grass":"1","Ice":"1","Fighting":"½","Poison":"1","Ground":"0","Flying":"1","Psychic":"1","Bug":"½","Rock":"2","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"1"},"evolutionChain":[{"number":"580","name":"꼬지보리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/580.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/580.png","type":"FIRST"},{"number":"581","name":"스완나","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/581.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/581.png","type":"LAST","requirement":"Level 35"}],"previousEvolutions":[{"number":"580","name":"꼬지보리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/580.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/580.png"
 ,"type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":75,"attack":87,"defense":63,"spAtk":87,"spDef":63,"speed":98,"total":473},"cards":[{"number":"SV096","name":"스완나","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/581/SWSH45_EN_SV096.png"},{"number":"149","name":"스완나","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/581/SWSH3_EN_149.png"},{"number":"60","name":"스완나","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/581/SM12_EN_60.png"},{"number":"37","name":"스완나","expansionName":"XY—BREAKpoint","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/581/XY9_EN_37.png"},{"number":"43","name":"스완나","expansionName":"Black & White—Boundaries Crossed","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/581/BW7_EN_43.png"},{"number":"36","name":"스완나","expansionName":"Black & White—Dark Explorers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/581/BW5_EN_36.png"},{"number":"27","name":"스완나","expansionName":"Black & White—Emerging Powers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/581/BW2_EN_27.png"},{"number":"37","name":"스완나","expansionName":"Black & White","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/581/BW1_EN_37.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/581.mp3","moves":{
-"levelUp":[{"level":1,"category":"변화","move":"Defog","type":"Flying","power":"—","accuracy":"—"},{"level":1,"category":"특수","move":"Water Gun","type":"Water","power":"40","accuracy":"100"},{"level":1,"category":"변화","move":"Water Sport","type":"Water","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"Wing Attack","type":"Flying","power":"60","accuracy":"100"},{"level":3,"category":"변화","move":"Water Sport","type":"Water","power":"—","accuracy":"—"},{"level":6,"category":"변화","move":"Defog","type":"Flying","power":"—","accuracy":"—"},{"level":9,"category":"물리","move":"Wing Attack","type":"Flying","power":"60","accuracy":"100"},{"level":13,"category":"특수","move":"Water Pulse","type":"Water","power":"60","accuracy":"100"},{"level":15,"category":"물리","move":"Aerial Ace","type":"Flying","power":"60","accuracy":"∞"},{"level":19,"category":"특수","move":"Bubble Beam","type":"Water","power":"65","accuracy":"100"},{"level":21,"category":"변화","move":"Feather Dance","type":"Flying","power":"—","accuracy":"100"},{"level":24,"category":"변화","move":"Aqua Ring","type":"Water","power":"—","accuracy":"—"},{"level":27,"category":"특수","move":"Air Slash","type":"Flying","power":"75","accuracy":"95"},{"level":30,"category":"변화","move":"Roost","type":"Flying","power":"—","accuracy":"—"},{"level":34,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"level":40,"category":"변화","move":"Tailwind","type":"Flying","power":"—","accuracy":"—"},{"level":47,"category":"물리","move":"Brave Bird","type":"Flying","power":"120","accuracy":"100"},{"level":55,"category":"특수","move":"Hurricane","type":"Flying","power":"110","accuracy":"70"}],"technicalMachine":[{"technicalMachine":6,"category":"변화","move":"Toxic","type":"Poison","power":"—","accuracy":"90"},{"technicalMachine":7,"category":"변화","move":"Hail","type":"Ice","power":"—","accuracy":"—"},{"technicalMachine":10,"category":"특수","move":"Hidden Power","type":"Normal","power":"60","accuracy":"100"},{"technicalMachine":13,"category":"특수","move":"Ice Beam","type":"Ice","power":"90","accuracy":"100"},{"technicalMachine":15,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":18,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":19,"category":"변화","move":"Roost","type":"Flying","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"물리","move":"Frustration","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":27,"category":"물리","move":"Return","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":32,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":40,"category":"물리","move":"Aerial Ace","type":"Flying","power":"60","accuracy":"∞"},{"technicalMachine":42,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+"levelUp":[{"level":1,"category":"변화","move":"안개제거","type":"Flying","power":"—","accuracy":"—"},{"level":1,"category":"특수","move":"물대포","type":"Water","power":"40","accuracy":"100"},{"level":1,"category":"변화","move":"물놀이","type":"Water","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"날개치기","type":"Flying","power":"60","accuracy":"100"},{"level":3,"category":"변화","move":"물놀이","type":"Water","power":"—","accuracy":"—"},{"level":6,"category":"변화","move":"안개제거","type":"Flying","power":"—","accuracy":"—"},{"level":9,"category":"물리","move":"날개치기","type":"Flying","power":"60","accuracy":"100"},{"level":13,"category":"특수","move":"물의파동","type":"Water","power":"60","accuracy":"100"},{"level":15,"category":"물리","move":"제비반환","type":"Flying","power":"60","accuracy":"∞"},{"level":19,"category":"특수","move":"거품광선","type":"Water","power":"65","accuracy":"100"},{"level":21,"category":"변화","move":"깃털댄스","type":"Flying","power":"—","accuracy":"100"},{"level":24,"category":"변화","move":"아쿠아링","type":"Water","power":"—","accuracy":"—"},{"level":27,"category":"특수","move":"에어슬래시","type":"Flying","power":"75","accuracy":"95"},{"level":30,"category":"변화","move":"날개쉬기","type":"Flying","power":"—","accuracy":"—"},{"level":34,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"level":40,"category":"변화","move":"순풍","type":"Flying","power":"—","accuracy":"—"},{"level":47,"category":"물리","move":"브레이브버드","type":"Flying","power":"120","accuracy":"100"},{"level":55,"category":"특수","move":"폭풍","type":"Flying","power":"110","accuracy":"70"}],"technicalMachine":[{"technicalMachine":6,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"},{"technicalMachine":7,"category":"변화","move":"싸라기눈","type":"Ice","power":"—","accuracy":"—"},{"technicalMachine":10,"category":"특수","move":"잠재파워","type":"Normal","power":"60","accuracy":"100"},{"technicalMachine":13,"category":"특수","move":"냉동빔","type":"Ice","power":"90","accuracy":"100"},{"technicalMachine":15,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":18,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":19,"category":"변화","move":"날개쉬기","type":"Flying","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"물리","move":"화풀이","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":27,"category":"물리","move":"은혜갚기","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":32,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":40,"category":"물리","move":"제비반환","type":"Flying","power":"60","accuracy":"∞"},{"technicalMachine":42,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":44,"category":"변화","move":"잠자기"
 ,"type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":45,"category":"변화","move":"헤롱헤롱"
 ,"type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":48,"category":"특수","move":"돌림노래"
 ,"type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":51,"category":"물리","move":"Steel Wing"
+,{"technicalMachine":51,"category":"물리","move":"강철날개"
 ,"type":"Steel","power":"70","accuracy":"90"}
-,{"technicalMachine":55,"category":"특수","move":"Scald"
+,{"technicalMachine":55,"category":"특수","move":"열탕"
 ,"type":"Water","power":"80","accuracy":"100"}
 ,{"technicalMachine":68,"category":"물리","move":"기가임팩트"
 ,"type":"Normal","power":"150","accuracy":"90"}
-,{"technicalMachine":76,"category":"물리","move":"Fly"
+,{"technicalMachine":76,"category":"물리","move":"공중날기"
 ,"type":"Flying","power":"90","accuracy":"95"}
-,{"technicalMachine":87,"category":"변화","move":"Swagger"
+,{"technicalMachine":87,"category":"변화","move":"뽐내기"
 ,"type":"Normal","power":"—","accuracy":"85"}
 ,{"technicalMachine":88,"category":"변화","move":"잠꼬대"
 ,"type":"Normal","power":"—","accuracy":"—"}
@@ -29,42 +29,42 @@
 ,"type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":94,"category":"특수","move":"파도타기"
 ,"type":"Water","power":"90","accuracy":"100"}
-,{"technicalMachine":100,"category":"변화","move":"Confide"
+,{"technicalMachine":100,"category":"변화","move":"비밀이야기"
 ,"type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[]
-,"egg":[{"category":"특수","move":"Air Cutter"
+,"egg":[{"category":"특수","move":"에어컷터"
 ,"type":"Flying","power":"60","accuracy":"95"}
-,{"category":"물리","move":"Aqua Jet"
+,{"category":"물리","move":"아쿠아제트"
 ,"type":"Water","power":"40","accuracy":"100"}
-,{"category":"특수","move":"Brine"
+,{"category":"특수","move":"소금물"
 ,"type":"Water","power":"65","accuracy":"100"}
-,{"category":"특수","move":"Gust"
+,{"category":"특수","move":"바람일으키기"
 ,"type":"Flying","power":"40","accuracy":"100"}
-,{"category":"변화","move":"Lucky Chant"
+,{"category":"변화","move":"주술"
 ,"type":"Normal","power":"—","accuracy":"—"}
-,{"category":"변화","move":"Me First"
+,{"category":"변화","move":"선취"
 ,"type":"Normal","power":"—","accuracy":"—"}
-,{"category":"변화","move":"Mirror Move"
+,{"category":"변화","move":"따라하기"
 ,"type":"Flying","power":"—","accuracy":"—"}
-,{"category":"변화","move":"Mud Sport"
+,{"category":"변화","move":"흙놀이"
 ,"type":"Ground","power":"—","accuracy":"—"}
-,{"category":"물리","move":"Steel Wing"
+,{"category":"물리","move":"강철날개"
 ,"type":"Steel","power":"70","accuracy":"90"}]
-,"tutor":[{"category":"변화","move":"Defog"
+,"tutor":[{"category":"변화","move":"안개제거"
 ,"type":"Flying","power":"—","accuracy":"—"}
-,{"category":"물리","move":"Endeavor"
+,{"category":"물리","move":"죽기살기"
 ,"type":"Normal","power":"—","accuracy":"100"}
-,{"category":"특수","move":"Icy Wind"
+,{"category":"특수","move":"얼다바람"
 ,"type":"Ice","power":"55","accuracy":"95"}
-,{"category":"물리","move":"Liquidation"
+,{"category":"물리","move":"아쿠아브레이크"
 ,"type":"Water","power":"85","accuracy":"100"}
-,{"category":"물리","move":"Sky Attack"
+,{"category":"물리","move":"불새"
 ,"type":"Flying","power":"140","accuracy":"90"}
 ,{"category":"특수","move":"코골기"
 ,"type":"Normal","power":"50","accuracy":"100"}
-,{"category":"변화","move":"Tailwind"
+,{"category":"변화","move":"순풍"
 ,"type":"Flying","power":"—","accuracy":"—"}
 ,{"category":"특수","move":"소란피기"
 ,"type":"Normal","power":"90","accuracy":"100"}
-,{"category":"특수","move":"Water Pulse"
+,{"category":"특수","move":"물의파동"
 ,"type":"Water","power":"60","accuracy":"100"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_V"}

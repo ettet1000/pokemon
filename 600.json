@@ -8,7 +8,7 @@
 ,"type":"LAST",
 "requirement":"Level 49"}],"superEvolutions":[],"baseStats":{"hp":60,"attack":80,"defense":95,"spAtk":70,"spDef":85,"speed":50,"total":440},"cards":[{"number":"126","name":"기기어르","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/600/SWSH3_EN_126.png"},{"number":"72","name":"기기어르","expansionName":"XY—Steam Siege","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/600/XY11_EN_72.png"},{"number":"89","name":"기기어르","expansionName":"Black & White—Plasma Storm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/600/BW8_EN_89.png"},{"number":"76","name":"기기어르","expansionName":"Black & White—Dark Explorers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/600/BW5_EN_76.png"},{"number":"75","name":"기기어르","expansionName":"Black & White—Emerging Powers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/600/BW2_EN_75.png"},{"number":"75","name":"기기어르","expansionName":"Black & White","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/600/BW1_EN_75.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/600.mp3","moves":{
-"levelUp":[{"level":1,"category":"물리","move":"Bind","type":"Normal","power":"15","accuracy":"85"},{"level":1,"category":"변화","move":"충전","type":"Electric","power":"—","accuracy":"—"},{"level":1,"category":"특수","move":"전광석화","type":"Electric","power":"40","accuracy":"100"},{"level":1,"category":"물리","move":"Vise Grip","type":"Normal","power":"55","accuracy":"100"},{"level":12,"category":"특수","move":"Charge Beam","type":"Electric","power":"50","accuracy":"90"},{"level":16,"category":"변화","move":"Metal Sound","type":"Steel","power":"—","accuracy":"85"},{"level":20,"category":"변화","move":"Autotomize","type":"Steel","power":"—","accuracy":"—"},{"level":24,"category":"특수","move":"방전","type":"Electric","power":"80","accuracy":"100"},{"level":28,"category":"변화","move":"Screech","type":"Normal","power":"—","accuracy":"85"},{"level":32,"category":"물리","move":"Gear Grind","type":"Steel","power":"50","accuracy":"85"},{"level":36,"category":"변화","move":"Lock-On","type":"Normal","power":"—","accuracy":"—"},{"level":42,"category":"변화","move":"Shift Gear","type":"Steel","power":"—","accuracy":"—"},{"level":48,"category":"특수","move":"Zap Cannon","type":"Electric","power":"120","accuracy":"50"},{"level":54,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}],"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"technicalMachine":16,"category":"변화","move":"Screech","type":"Normal","power":"—","accuracy":"85"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+"levelUp":[{"level":1,"category":"물리","move":"조이기","type":"Normal","power":"15","accuracy":"85"},{"level":1,"category":"변화","move":"충전","type":"Electric","power":"—","accuracy":"—"},{"level":1,"category":"특수","move":"전광석화","type":"Electric","power":"40","accuracy":"100"},{"level":1,"category":"물리","move":"찝기","type":"Normal","power":"55","accuracy":"100"},{"level":12,"category":"특수","move":"차지빔","type":"Electric","power":"50","accuracy":"90"},{"level":16,"category":"변화","move":"금속음","type":"Steel","power":"—","accuracy":"85"},{"level":20,"category":"변화","move":"바디퍼지","type":"Steel","power":"—","accuracy":"—"},{"level":24,"category":"특수","move":"방전","type":"Electric","power":"80","accuracy":"100"},{"level":28,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"},{"level":32,"category":"물리","move":"기어소서","type":"Steel","power":"50","accuracy":"85"},{"level":36,"category":"변화","move":"록온","type":"Normal","power":"—","accuracy":"—"},{"level":42,"category":"변화","move":"기어체인지","type":"Steel","power":"—","accuracy":"—"},{"level":48,"category":"특수","move":"전자포","type":"Electric","power":"120","accuracy":"50"},{"level":54,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}],"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":24,"category":"특수","move":"코골기"
 ,"type":"Normal","power":"50","accuracy":"100"}
 ,{"technicalMachine":25,"category":"변화","move":"방어"
@@ -17,7 +17,7 @@
 ,"type":"Rock","power":"—","accuracy":"—"}
 ,{"technicalMachine":39,"category":"물리","move":"객기"
 ,"type":"Normal","power":"70","accuracy":"100"}
-,{"technicalMachine":58,"category":"물리","move":"Assurance"
+,{"technicalMachine":58,"category":"물리","move":"승부굳히기"
 ,"type":"Dark","power":"60","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래"
 ,"type":"Normal","power":"60","accuracy":"100"}
@@ -33,13 +33,13 @@
 ,"type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":35,"category":"특수","move":"소란피기"
 ,"type":"Normal","power":"90","accuracy":"100"},
-{"technicalRecord":46,"category":"변화","move":"Iron Defense"
+{"technicalRecord":46,"category":"변화","move":"철벽"
 ,"type":"Steel","power":"—","accuracy":"—"},
-{"technicalRecord":63,"category":"특수","move":"Power Gem"
+{"technicalRecord":63,"category":"특수","move":"파워젬"
 ,"type":"Rock","power":"80","accuracy":"100"},
-{"technicalRecord":70,"category":"특수","move":"Flash Cannon"
+{"technicalRecord":70,"category":"특수","move":"러스터캐논"
 ,"type":"Steel","power":"80","accuracy":"100"},
-{"technicalRecord":83,"category":"변화","move":"Ally Switch"
+{"technicalRecord":83,"category":"변화","move":"사이드체인지"
 ,"type":"Psychic","power":"—","accuracy":"—"},
 {"technicalRecord":86,"category":"물리","move":"와일드볼트"
 ,"type":"Electric","power":"90","accuracy":"100"}]
