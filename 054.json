@@ -66,7 +66,7 @@
 ,"egg":[{"category":"특수","move":"클리어스모그","type":"Poison","power":"50","accuracy":"—"}
 ,{"category":"변화","move":"이상한빛","type":"Ghost","power":"—","accuracy":"100"}
 ,{"category":"물리","move":"크로스촙","type":"Fighting","power":"100","accuracy":"80"}
-,{"category":"변화","move":"슬리퍼sis","type":"Psychic","power":"—","accuracy":"60"}
+,{"category":"변화","move":"최면술","type":"Psychic","power":"—","accuracy":"60"}
 ,{"category":"특수","move":"환상빔","type":"Psychic","power":"65","accuracy":"100"}
 ,{"category":"변화","move":"심플빔","type":"Normal","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"하품","type":"Normal","power":"—","accuracy":"—"}]

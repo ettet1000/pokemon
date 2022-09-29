@@ -15,7 +15,7 @@
 ,{"level":1,"category":"물리","move":"폭발펀치","type":"Fighting","power":"100","accuracy":"50"}
 ,{"level":1,"category":"특수","move":"대지의힘","type":"Ground","power":"90","accuracy":"100"}
 ,{"level":1,"category":"특수","move":"하이드로펌프","type":"Water","power":"110","accuracy":"80"}
-,{"level":1,"category":"변화","move":"슬리퍼sis","type":"Psychic","power":"—","accuracy":"60"}
+,{"level":1,"category":"변화","move":"최면술","type":"Psychic","power":"—","accuracy":"60"}
 ,{"level":1,"category":"변화","move":"마음의눈","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":1,"category":"특수","move":"머드숏","type":"Ground","power":"55","accuracy":"95"}
 ,{"level":1,"category":"물리","move":"막치기","type":"Normal","power":"40","accuracy":"100"}

@@ -8,7 +8,7 @@
 "levelUp":[{"level":1,"category":"변화","move":"배리어","type":"Psychic","power":"—","accuracy":"—"}
 ,{"level":1,"category":"특수","move":"염동력","type":"Psychic","power":"50","accuracy":"100"}
 ,{"level":1,"category":"변화","move":"사슬묶기","type":"Normal","power":"—","accuracy":"100"}
-,{"level":1,"category":"변화","move":"슬리퍼sis","type":"Psychic","power":"—","accuracy":"60"}
+,{"level":1,"category":"변화","move":"최면술","type":"Psychic","power":"—","accuracy":"60"}
 ,{"level":1,"category":"물리","move":"막치기","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":4,"category":"변화","move":"사슬묶기","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":9,"category":"특수","move":"염동력","type":"Psychic","power":"50","accuracy":"100"}

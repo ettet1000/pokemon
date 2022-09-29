@@ -58,7 +58,7 @@
 ,"egg":[{"category":"변화","move":"저주","type":"Ghost","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"안개제거","type":"Flying","power":"—","accuracy":"—"}
 ,{"category":"특수","move":"바람일으키기","type":"Flying","power":"40","accuracy":"100"}
-,{"category":"변화","move":"슬리퍼sis","type":"Psychic","power":"—","accuracy":"60"}
+,{"category":"변화","move":"최면술","type":"Psychic","power":"—","accuracy":"60"}
 ,{"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
 ,{"category":"변화","move":"날려버리기","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"날개치기","type":"Flying","power":"60","accuracy":"100"}]

@@ -61,7 +61,7 @@
 ,{"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"}
 ,{"category":"물리","move":"니트로차지","type":"Fire","power":"50","accuracy":"100"}
 ,{"category":"변화","move":"멀리짖음","type":"Normal","power":"—","accuracy":"—"}
-,{"category":"변화","move":"슬리퍼sis","type":"Psychic","power":"—","accuracy":"60"}
+,{"category":"변화","move":"최면술","type":"Psychic","power":"—","accuracy":"60"}
 ,{"category":"변화","move":"추억의선물","type":"Dark","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"울부짖기","type":"Normal","power":"—","accuracy":"—"}]
 ,"tutor":[{"category":"특수","move":"Burning Jealousy","type":"Fire","power":"70","accuracy":"100"}]

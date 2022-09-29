@@ -61,7 +61,7 @@
 {"technicalRecord":95,"category":"물리","move":"지옥찌르기","type":"Dark","power":"80","accuracy":"100"}]
 ,"egg":[{"category":"물리","move":"탐내다","type":"Normal","power":"60","accuracy":"100"}
 ,{"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"}
-,{"category":"변화","move":"슬리퍼sis","type":"Psychic","power":"—","accuracy":"60"}
+,{"category":"변화","move":"최면술","type":"Psychic","power":"—","accuracy":"60"}
 ,{"category":"물리","move":"뒀다쓰기","type":"Normal","power":"140","accuracy":"100"}
 ,{"category":"변화","move":"원한","type":"Ghost","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"꼬리흔들기","type":"Normal","power":"—","accuracy":"100"}]
