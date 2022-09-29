@@ -8,15 +8,15 @@
 ,"type":"LAST",
 "requirement":"천둥의돌 사용"}],"superEvolutions":[],"baseStats":{"hp":57,"attack":82,"defense":95,"spAtk":55,"spDef":75,"speed":36,"total":400},"cards":[{"number":"65","name":"전지충이","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/737/SWSH2_EN_65.png"},{"number":"58","name":"전지충이","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/737/SM10_EN_58.png"},{"number":"51","name":"전지충이","expansionName":"Sun & Moon","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/737/SM1_EN_51.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/737.mp3","moves":{
-"levelUp":[{"level":1,"category":"물리","move":"Bug Bite","type":"Bug","power":"60","accuracy":"100"},{"level":1,"category":"변화","move":"충전","type":"Electric","power":"—","accuracy":"—"},{"level":1,"category":"특수","move":"진흙뿌리기","type":"Ground","power":"20","accuracy":"100"},{"level":1,"category":"변화","move":"String Shot","type":"Bug","power":"—","accuracy":"95"},{"level":1,"category":"물리","move":"Vise Grip","type":"Normal","power":"55","accuracy":"100"},{"level":15,"category":"물리","move":"Bite","type":"Dark","power":"60","accuracy":"100"},{"level":23,"category":"물리","move":"스파크","type":"Electric","power":"65","accuracy":"100"},{"level":29,"category":"변화","move":"Sticky Web","type":"Bug","power":"—","accuracy":"—"},{"level":36,"category":"물리","move":"시저크로스","type":"Bug","power":"80","accuracy":"100"},{"level":43,"category":"물리","move":"Crunch","type":"Dark","power":"80","accuracy":"100"},{"level":50,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"},{"level":57,"category":"변화","move":"Iron Defense","type":"Steel","power":"—","accuracy":"—"},{"level":64,"category":"특수","move":"방전","type":"Electric","power":"80","accuracy":"100"}],"technicalMachine":[{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"},{"technicalMachine":16,"category":"변화","move":"Screech","type":"Normal","power":"—","accuracy":"85"},{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":39,"category":"물리","move":"객기"
+"levelUp":[{"level":1,"category":"물리","move":"벌레먹음","type":"Bug","power":"60","accuracy":"100"},{"level":1,"category":"변화","move":"충전","type":"Electric","power":"—","accuracy":"—"},{"level":1,"category":"특수","move":"진흙뿌리기","type":"Ground","power":"20","accuracy":"100"},{"level":1,"category":"변화","move":"실뿜기","type":"Bug","power":"—","accuracy":"95"},{"level":1,"category":"물리","move":"찝기","type":"Normal","power":"55","accuracy":"100"},{"level":15,"category":"물리","move":"물기","type":"Dark","power":"60","accuracy":"100"},{"level":23,"category":"물리","move":"스파크","type":"Electric","power":"65","accuracy":"100"},{"level":29,"category":"변화","move":"끈적끈적네트","type":"Bug","power":"—","accuracy":"—"},{"level":36,"category":"물리","move":"시저크로스","type":"Bug","power":"80","accuracy":"100"},{"level":43,"category":"물리","move":"깨물어부수기","type":"Dark","power":"80","accuracy":"100"},{"level":50,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"},{"level":57,"category":"변화","move":"철벽","type":"Steel","power":"—","accuracy":"—"},{"level":64,"category":"특수","move":"방전","type":"Electric","power":"80","accuracy":"100"}],"technicalMachine":[{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"},{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"},{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":39,"category":"물리","move":"객기"
 ,"type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":53,"category":"특수","move":"머드숏"
 ,"type":"Ground","power":"55","accuracy":"95"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래"
 ,"type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":78,"category":"물리","move":"Acrobatics"
+,{"technicalMachine":78,"category":"물리","move":"애크러뱃"
 ,"type":"Flying","power":"55","accuracy":"100"}
-,{"technicalMachine":80,"category":"특수","move":"Volt Switch"
+,{"technicalMachine":80,"category":"특수","move":"볼트체인지"
 ,"type":"Electric","power":"70","accuracy":"100"}
 ,{"technicalMachine":82,"category":"특수","move":"일렉트릭네트"
 ,"type":"Electric","power":"55","accuracy":"95"}
@@ -30,9 +30,9 @@
 ,"type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":27,"category":"변화","move":"잠꼬대"
 ,"type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":32,"category":"물리","move":"Crunch"
+{"technicalRecord":32,"category":"물리","move":"깨물어부수기"
 ,"type":"Dark","power":"80","accuracy":"100"},
-{"technicalRecord":46,"category":"변화","move":"Iron Defense"
+{"technicalRecord":46,"category":"변화","move":"철벽"
 ,"type":"Steel","power":"—","accuracy":"—"},
 {"technicalRecord":57,"category":"물리","move":"독찌르기"
 ,"type":"Poison","power":"80","accuracy":"100"},
@@ -44,7 +44,7 @@
 ,"type":"Electric","power":"90","accuracy":"100"}]
 ,"egg":[{"category":"특수","move":"방전"
 ,"type":"Electric","power":"80","accuracy":"100"}
-,{"category":"변화","move":"Harden"
+,{"category":"변화","move":"단단해지기"
 ,"type":"Normal","power":"—","accuracy":"—"}]
 ,"tutor":[{"category":"특수","move":"라이징볼트"
 ,"type":"Electric","power":"70","accuracy":"100"}

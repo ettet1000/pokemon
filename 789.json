@@ -11,7 +11,7 @@
 ,"type":"LAST",
 "requirement":"Level 53, 포켓몬스터 문, 울트라문, 실드"}],"superEvolutions":[],"baseStats":{"hp":43,"attack":29,"defense":31,"spAtk":29,"spDef":31,"speed":37,"total":200},"cards":[{"number":"100","name":"코스모그","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/789/SM12_EN_100.png"},{"number":"99","name":"코스모그","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/789/SM12_EN_99.png"},{"number":"100","name":"코스모그","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/789/SM11_EN_100.png"},{"number":"69","name":"코스모그","expansionName":"Team Up","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/789/SM9_EN_69.png"},{"number":"60","name":"코스모그","expansionName":"Ultra Prism","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/789/SM5_EN_60.png"},{"number":"SM42","name":"코스모그","expansionName":"Sun & Moon Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/789/SMP_EN_SM42.png"},{"number":"64","name":"코스모그","expansionName":"Sun & Moon","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/789/SM1_EN_64.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/789.mp3","moves":{
-"levelUp":[{"level":1,"category":"변화","move":"Splash","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"변화","move":"Teleport"
+"levelUp":[{"level":1,"category":"변화","move":"튀어오르기","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"변화","move":"순간이동"
 ,"type":"Psychic","power":"—","accuracy":"—"}],"technicalMachine":[],"technicalRecords":[]
 ,"egg":[]
 ,"tutor":[]

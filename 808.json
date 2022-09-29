@@ -7,7 +7,7 @@
 ,"type":"LAST",
 "requirement":"포켓몬 GO에서 사탕 400개를 이용"}],"superEvolutions":[],"baseStats":{"hp":46,"attack":65,"defense":65,"spAtk":55,"spDef":35,"speed":34,"total":300},"cards":[{"number":"129","name":"멜탄","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/808/SWSH3_EN_129.png"},{"number":"128","name":"멜탄","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/808/SM10_EN_128.png"},{"number":"SM177","name":"멜탄","expansionName":"Sun & Moon Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/808/SMP_EN_SM177.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/808.mp3","moves":{
-"levelUp":[{"level":1,"category":"변화","move":"Harden","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"특수","move":"전광석화","type":"Electric","power":"40","accuracy":"100"},{"level":8,"category":"변화","move":"꼬리흔들기","type":"Normal","power":"—","accuracy":"100"},{"level":16,"category":"물리","move":"Headbutt","type":"Normal","power":"70","accuracy":"100"},{"level":24,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"level":32,"category":"변화","move":"Acid Armor","type":"Poison","power":"—","accuracy":"—"},{"level":40,"category":"특수","move":"Flash Cannon","type":"Steel","power":"80","accuracy":"100"}],"technicalMachine":[{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어"
+"levelUp":[{"level":1,"category":"변화","move":"단단해지기","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"특수","move":"전광석화","type":"Electric","power":"40","accuracy":"100"},{"level":8,"category":"변화","move":"꼬리흔들기","type":"Normal","power":"—","accuracy":"100"},{"level":16,"category":"물리","move":"박치기","type":"Normal","power":"70","accuracy":"100"},{"level":24,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"level":32,"category":"변화","move":"녹기","type":"Poison","power":"—","accuracy":"—"},{"level":40,"category":"특수","move":"러스터캐논","type":"Steel","power":"80","accuracy":"100"}],"technicalMachine":[{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어"
 ,"type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":39,"category":"물리","move":"객기"
 ,"type":"Normal","power":"70","accuracy":"100"}
@@ -21,11 +21,11 @@
 ,"type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":27,"category":"변화","move":"잠꼬대"
 ,"type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":46,"category":"변화","move":"Iron Defense"
+{"technicalRecord":46,"category":"변화","move":"철벽"
 ,"type":"Steel","power":"—","accuracy":"—"},
 {"technicalRecord":52,"category":"물리","move":"자이로볼"
 ,"type":"Steel","power":"—","accuracy":"100"},
-{"technicalRecord":70,"category":"특수","move":"Flash Cannon"
+{"technicalRecord":70,"category":"특수","move":"러스터캐논"
 ,"type":"Steel","power":"80","accuracy":"100"}]
 ,"egg":[]
 ,"tutor":[]

@@ -9,19 +9,19 @@
 ,"type":"LAST",
 "requirement":"Level 38"}],"superEvolutions":[],"baseStats":{"hp":38,"attack":47,"defense":35,"spAtk":33,"spDef":35,"speed":57,"total":245},"cards":[{"number":"SV101","name":"파라꼬","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/821/SWSH45_EN_SV101.png"},{"number":"154","name":"파라꼬","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/821/SWSH3_EN_154.png"},{"number":"150","name":"파라꼬","expansionName":"Sword & Shield","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/821/SWSH1_EN_150.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/821.mp3","moves":{
-"levelUp":[{"level":1,"category":"변화","move":"Leer","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"Peck","type":"Flying","power":"35","accuracy":"100"},{"level":4,"category":"물리","move":"Power Trip","type":"Dark","power":"20","accuracy":"100"},{"level":8,"category":"변화","move":"손톱갈기","type":"Dark","power":"—","accuracy":"—"},{"level":12,"category":"물리","move":"Fury Attack","type":"Normal","power":"15","accuracy":"85"},{"level":16,"category":"물리","move":"Pluck","type":"Flying","power":"60","accuracy":"100"},{"level":20,"category":"변화","move":"Taunt","type":"Dark","power":"—","accuracy":"100"},{"level":24,"category":"변화","move":"Scary Face","type":"Normal","power":"—","accuracy":"100"},{"level":28,"category":"물리","move":"Drill Peck","type":"Flying","power":"80","accuracy":"100"},{"level":32,"category":"변화","move":"Swagger","type":"Normal","power":"—","accuracy":"85"},{"level":36,"category":"물리","move":"Brave Bird","type":"Flying","power":"120","accuracy":"100"}],"technicalMachine":[{"technicalMachine":6,"category":"물리","move":"Fly","type":"Flying","power":"90","accuracy":"95"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":26,"category":"변화","move":"Scary Face","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"},{"technicalMachine":42,"category":"물리","move":"Revenge","type":"Fighting","power":"60","accuracy":"100"},{"technicalMachine":47,"category":"변화","move":"Fake Tears","type":"Dark","power":"—","accuracy":"100"},{"technicalMachine":56,"category":"물리","move":"U-turn","type":"Bug","power":"70","accuracy":"100"},{"technicalMachine":57,"category":"물리","move":"Payback"
+"levelUp":[{"level":1,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"쪼기","type":"Flying","power":"35","accuracy":"100"},{"level":4,"category":"물리","move":"기어오르기","type":"Dark","power":"20","accuracy":"100"},{"level":8,"category":"변화","move":"손톱갈기","type":"Dark","power":"—","accuracy":"—"},{"level":12,"category":"물리","move":"마구찌르기","type":"Normal","power":"15","accuracy":"85"},{"level":16,"category":"물리","move":"쪼아대기","type":"Flying","power":"60","accuracy":"100"},{"level":20,"category":"변화","move":"도발","type":"Dark","power":"—","accuracy":"100"},{"level":24,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"},{"level":28,"category":"물리","move":"회전부리","type":"Flying","power":"80","accuracy":"100"},{"level":32,"category":"변화","move":"뽐내기","type":"Normal","power":"—","accuracy":"85"},{"level":36,"category":"물리","move":"브레이브버드","type":"Flying","power":"120","accuracy":"100"}],"technicalMachine":[{"technicalMachine":6,"category":"물리","move":"공중날기","type":"Flying","power":"90","accuracy":"95"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":26,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"},{"technicalMachine":42,"category":"물리","move":"리벤지","type":"Fighting","power":"60","accuracy":"100"},{"technicalMachine":47,"category":"변화","move":"거짓울음","type":"Dark","power":"—","accuracy":"100"},{"technicalMachine":56,"category":"물리","move":"유턴","type":"Bug","power":"70","accuracy":"100"},{"technicalMachine":57,"category":"물리","move":"보복"
 ,"type":"Dark","power":"50","accuracy":"100"}
-,{"technicalMachine":58,"category":"물리","move":"Assurance"
+,{"technicalMachine":58,"category":"물리","move":"승부굳히기"
 ,"type":"Dark","power":"60","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래"
 ,"type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":79,"category":"물리","move":"Retaliate"
+,{"technicalMachine":79,"category":"물리","move":"원수갚기"
 ,"type":"Normal","power":"70","accuracy":"100"}
-,{"technicalMachine":95,"category":"특수","move":"Air Slash"
+,{"technicalMachine":95,"category":"특수","move":"에어슬래시"
 ,"type":"Flying","power":"75","accuracy":"95"}],"technicalRecords":[
 {"technicalRecord":12,"category":"변화","move":"고속이동"
 ,"type":"Psychic","power":"—","accuracy":"—"},
-{"technicalRecord":13,"category":"변화","move":"Focus Energy"
+{"technicalRecord":13,"category":"변화","move":"기충전"
 ,"type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":20,"category":"변화","move":"대타출동"
 ,"type":"Normal","power":"—","accuracy":"—"},
@@ -31,27 +31,27 @@
 ,"type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":27,"category":"변화","move":"잠꼬대"
 ,"type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":37,"category":"변화","move":"Taunt"
+{"technicalRecord":37,"category":"변화","move":"도발"
 ,"type":"Dark","power":"—","accuracy":"100"},
-{"technicalRecord":66,"category":"물리","move":"Brave Bird"
+{"technicalRecord":66,"category":"물리","move":"브레이브버드"
 ,"type":"Flying","power":"120","accuracy":"100"},
 {"technicalRecord":68,"category":"변화","move":"나쁜음모"
 ,"type":"Dark","power":"—","accuracy":"—"},
 {"technicalRecord":85,"category":"변화","move":"분발"
 ,"type":"Normal","power":"—","accuracy":"—"}]
-,"egg":[{"category":"변화","move":"Defog"
+,"egg":[{"category":"변화","move":"안개제거"
 ,"type":"Flying","power":"—","accuracy":"—"}
-,{"category":"물리","move":"Rock Smash"
+,{"category":"물리","move":"바위깨기"
 ,"type":"Fighting","power":"40","accuracy":"100"}
-,{"category":"변화","move":"Roost"
+,{"category":"변화","move":"날개쉬기"
 ,"type":"Flying","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"모래뿌리기"
 ,"type":"Ground","power":"—","accuracy":"100"}
-,{"category":"물리","move":"Sky Attack"
+,{"category":"물리","move":"불새"
 ,"type":"Flying","power":"140","accuracy":"90"}
-,{"category":"변화","move":"Spite"
+,{"category":"변화","move":"원한"
 ,"type":"Ghost","power":"—","accuracy":"100"}
-,{"category":"변화","move":"Tailwind"
+,{"category":"변화","move":"순풍"
 ,"type":"Flying","power":"—","accuracy":"—"}]
 ,"tutor":[{"category":"물리","move":"Dual Wingbeat"
 ,"type":"Flying","power":"40","accuracy":"90"}]

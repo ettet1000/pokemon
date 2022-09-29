@@ -9,10 +9,10 @@
 ,"type":"LAST",
 "requirement":"Level 30"}],"superEvolutions":[],"baseStats":{"hp":25,"attack":20,"defense":20,"spAtk":25,"spDef":45,"speed":45,"total":180},"cards":[{"number":"17","name":"두루지벌레","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/824/SWSH5_EN_17.png"},{"number":"SV007","name":"두루지벌레","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/824/SWSH45_EN_SV007.png"},{"number":"16","name":"두루지벌레","expansionName":"Sword & Shield","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/824/SWSH1_EN_16.png"},{"number":"17","name":"두루지벌레","expansionName":"Sword & Shield","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/824/SWSH1_EN_17.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/824.mp3","moves":{
-"levelUp":[{"level":1,"category":"특수","move":"Struggle Bug","type":"Bug","power":"50","accuracy":"100"}],"technicalMachine":[],"technicalRecords":[],"egg":[{"category":"특수","move":"Infestation","type":"Bug","power":"20","accuracy":"100"},{"category":"변화","move":"Recover","type":"Normal","power":"—","accuracy":"—"}
-,{"category":"변화","move":"Sticky Web"
+"levelUp":[{"level":1,"category":"특수","move":"벌레의저항","type":"Bug","power":"50","accuracy":"100"}],"technicalMachine":[],"technicalRecords":[],"egg":[{"category":"특수","move":"엉겨붙기","type":"Bug","power":"20","accuracy":"100"},{"category":"변화","move":"HP회복","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"끈적끈적네트"
 ,"type":"Bug","power":"—","accuracy":"—"}
-,{"category":"변화","move":"Supersonic"
+,{"category":"변화","move":"초음파"
 ,"type":"Normal","power":"—","accuracy":"55"}]
 ,"tutor":[]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VIII"}

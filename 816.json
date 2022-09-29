@@ -9,16 +9,16 @@
 ,"type":"LAST",
 "requirement":"Level 35"}],"superEvolutions":[],"baseStats":{"hp":50,"attack":40,"defense":40,"spAtk":70,"spDef":40,"speed":70,"total":310},"cards":[{"number":"41","name":"울머기","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/816/SWSH6_EN_41.png"},{"number":"SV025","name":"울머기","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/816/SWSH45_EN_SV025.png"},{"number":"SWSH003","name":"울머기","expansionName":"Sword & Shield Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/816/SWSHP_EN_SWSH003.png"},{"number":"SWSH073","name":"울머기","expansionName":"Sword & Shield Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/816/SWSHP_EN_SWSH073.png"},{"number":"54","name":"울머기","expansionName":"Sword & Shield","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/816/SWSH1_EN_54.png"},{"number":"55","name":"울머기","expansionName":"Sword & Shield","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/816/SWSH1_EN_55.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/816.mp3","moves":{
-"levelUp":[{"level":1,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"Pound","type":"Normal","power":"40","accuracy":"100"},{"level":6,"category":"특수","move":"Water Gun","type":"Water","power":"40","accuracy":"100"},{"level":8,"category":"물리","move":"Bind","type":"Normal","power":"15","accuracy":"85"},{"level":12,"category":"특수","move":"Water Pulse","type":"Water","power":"60","accuracy":"100"},{"level":17,"category":"변화","move":"Tearful Look","type":"Normal","power":"—","accuracy":"—"},{"level":20,"category":"물리","move":"Sucker Punch","type":"Dark","power":"70","accuracy":"100"},{"level":24,"category":"물리","move":"U-turn","type":"Bug","power":"70","accuracy":"100"},{"level":28,"category":"물리","move":"Liquidation","type":"Water","power":"85","accuracy":"100"},{"level":32,"category":"변화","move":"Soak","type":"Water","power":"—","accuracy":"100"},{"level":36,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}],"technicalMachine":[{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":36,"category":"특수","move":"Whirlpool","type":"Water","power":"35","accuracy":"85"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
-,{"technicalMachine":45,"category":"물리","move":"Dive"
+"levelUp":[{"level":1,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"막치기","type":"Normal","power":"40","accuracy":"100"},{"level":6,"category":"특수","move":"물대포","type":"Water","power":"40","accuracy":"100"},{"level":8,"category":"물리","move":"조이기","type":"Normal","power":"15","accuracy":"85"},{"level":12,"category":"특수","move":"물의파동","type":"Water","power":"60","accuracy":"100"},{"level":17,"category":"변화","move":"눈물그렁그렁","type":"Normal","power":"—","accuracy":"—"},{"level":20,"category":"물리","move":"기습","type":"Dark","power":"70","accuracy":"100"},{"level":24,"category":"물리","move":"유턴","type":"Bug","power":"70","accuracy":"100"},{"level":28,"category":"물리","move":"아쿠아브레이크","type":"Water","power":"85","accuracy":"100"},{"level":32,"category":"변화","move":"물붓기","type":"Water","power":"—","accuracy":"100"},{"level":36,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}],"technicalMachine":[{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":36,"category":"특수","move":"바다회오리","type":"Water","power":"35","accuracy":"85"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
+,{"technicalMachine":45,"category":"물리","move":"다이빙"
 ,"type":"Water","power":"80","accuracy":"100"}
-,{"technicalMachine":46,"category":"특수","move":"Weather Ball"
+,{"technicalMachine":46,"category":"특수","move":"웨더볼"
 ,"type":"Normal","power":"50","accuracy":"100"}
-,{"technicalMachine":52,"category":"물리","move":"Bounce"
+,{"technicalMachine":52,"category":"물리","move":"뛰어오르다"
 ,"type":"Flying","power":"85","accuracy":"85"}
 ,{"technicalMachine":53,"category":"특수","move":"머드숏"
 ,"type":"Ground","power":"55","accuracy":"95"}
-,{"technicalMachine":56,"category":"물리","move":"U-turn"
+,{"technicalMachine":56,"category":"물리","move":"유턴"
 ,"type":"Bug","power":"70","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래"
 ,"type":"Normal","power":"60","accuracy":"100"}],"technicalRecords":[
@@ -30,27 +30,27 @@
 ,"type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":27,"category":"변화","move":"잠꼬대"
 ,"type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":29,"category":"변화","move":"Baton Pass"
+{"technicalRecord":29,"category":"변화","move":"바톤터치"
 ,"type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":45,"category":"특수","move":"Muddy Water"
+{"technicalRecord":45,"category":"특수","move":"탁류"
 ,"type":"Water","power":"90","accuracy":"85"},
 {"technicalRecord":85,"category":"변화","move":"분발"
 ,"type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":98,"category":"물리","move":"Liquidation"
+{"technicalRecord":98,"category":"물리","move":"아쿠아브레이크"
 ,"type":"Water","power":"85","accuracy":"100"}]
-,"egg":[{"category":"물리","move":"Aqua Jet"
+,"egg":[{"category":"물리","move":"아쿠아제트"
 ,"type":"Water","power":"40","accuracy":"100"}
-,{"category":"변화","move":"Aqua Ring"
+,{"category":"변화","move":"아쿠아링"
 ,"type":"Water","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"그림자분신"
 ,"type":"Normal","power":"—","accuracy":"—"}
-,{"category":"물리","move":"Fell Stinger"
+,{"category":"물리","move":"마지막일침"
 ,"type":"Bug","power":"50","accuracy":"100"}
-,{"category":"변화","move":"Haze"
+,{"category":"변화","move":"흑안개"
 ,"type":"Ice","power":"—","accuracy":"—"}
-,{"category":"물리","move":"Ice Shard"
+,{"category":"물리","move":"얼음뭉치"
 ,"type":"Ice","power":"40","accuracy":"100"}
-,{"category":"변화","move":"Mist"
+,{"category":"변화","move":"흰안개"
 ,"type":"Ice","power":"—","accuracy":"—"}]
 ,"tutor":[]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VIII"}
