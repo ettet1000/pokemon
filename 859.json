@@ -9,24 +9,24 @@
 ,"type":"LAST",
 "requirement":"Level 42"}],"superEvolutions":[],"baseStats":{"hp":45,"attack":45,"defense":30,"spAtk":55,"spDef":40,"speed":50,"total":265},"cards":[{"number":"SV083","name":"메롱꿍","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/859/SWSH45_EN_SV083.png"},{"number":"123","name":"메롱꿍","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/859/SWSH2_EN_123.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/859.mp3","moves":{
-"levelUp":[{"level":1,"category":"변화","move":"Confide","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"속이다","type":"Normal","power":"40","accuracy":"100"},{"level":4,"category":"물리","move":"Bite","type":"Dark","power":"60","accuracy":"100"},{"level":8,"category":"변화","move":"Flatter","type":"Dark","power":"—","accuracy":"100"},{"level":12,"category":"변화","move":"Fake Tears","type":"Dark","power":"—","accuracy":"100"},{"level":16,"category":"물리","move":"Assurance","type":"Dark","power":"60","accuracy":"100"},{"level":20,"category":"변화","move":"Swagger","type":"Normal","power":"—","accuracy":"85"},{"level":24,"category":"물리","move":"Sucker Punch","type":"Dark","power":"70","accuracy":"100"},{"level":28,"category":"변화","move":"Torment","type":"Dark","power":"—","accuracy":"100"},{"level":33,"category":"특수","move":"Dark Pulse","type":"Dark","power":"80","accuracy":"100"},{"level":36,"category":"변화","move":"나쁜음모","type":"Dark","power":"—","accuracy":"—"},{"level":40,"category":"물리","move":"치근거리기","type":"Fairy","power":"90","accuracy":"90"},{"level":44,"category":"물리","move":"Foul Play","type":"Dark","power":"95","accuracy":"100"}],"technicalMachine":[{"technicalMachine":0,"category":"물리","move":"메가톤펀치","type":"Normal","power":"80","accuracy":"85"},{"technicalMachine":1,"category":"물리","move":"메가톤킥","type":"Normal","power":"120","accuracy":"75"},{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
-,{"technicalMachine":42,"category":"물리","move":"Revenge"
+"levelUp":[{"level":1,"category":"변화","move":"비밀이야기","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"속이다","type":"Normal","power":"40","accuracy":"100"},{"level":4,"category":"물리","move":"물기","type":"Dark","power":"60","accuracy":"100"},{"level":8,"category":"변화","move":"부추기기","type":"Dark","power":"—","accuracy":"100"},{"level":12,"category":"변화","move":"거짓울음","type":"Dark","power":"—","accuracy":"100"},{"level":16,"category":"물리","move":"승부굳히기","type":"Dark","power":"60","accuracy":"100"},{"level":20,"category":"변화","move":"뽐내기","type":"Normal","power":"—","accuracy":"85"},{"level":24,"category":"물리","move":"기습","type":"Dark","power":"70","accuracy":"100"},{"level":28,"category":"변화","move":"트집","type":"Dark","power":"—","accuracy":"100"},{"level":33,"category":"특수","move":"악의파동","type":"Dark","power":"80","accuracy":"100"},{"level":36,"category":"변화","move":"나쁜음모","type":"Dark","power":"—","accuracy":"—"},{"level":40,"category":"물리","move":"치근거리기","type":"Fairy","power":"90","accuracy":"90"},{"level":44,"category":"물리","move":"속임수","type":"Dark","power":"95","accuracy":"100"}],"technicalMachine":[{"technicalMachine":0,"category":"물리","move":"메가톤펀치","type":"Normal","power":"80","accuracy":"85"},{"technicalMachine":1,"category":"물리","move":"메가톤킥","type":"Normal","power":"120","accuracy":"75"},{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":42,"category":"물리","move":"리벤지"
 ,"type":"Fighting","power":"60","accuracy":"100"}
-,{"technicalMachine":47,"category":"변화","move":"Fake Tears"
+,{"technicalMachine":47,"category":"변화","move":"거짓울음"
 ,"type":"Dark","power":"—","accuracy":"100"}
-,{"technicalMachine":58,"category":"물리","move":"Assurance"
+,{"technicalMachine":58,"category":"물리","move":"승부굳히기"
 ,"type":"Dark","power":"60","accuracy":"100"}
-,{"technicalMachine":63,"category":"물리","move":"Drain Punch"
+,{"technicalMachine":63,"category":"물리","move":"드레인펀치"
 ,"type":"Fighting","power":"75","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래"
 ,"type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":79,"category":"물리","move":"Retaliate"
+,{"technicalMachine":79,"category":"물리","move":"원수갚기"
 ,"type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":87,"category":"특수","move":"드레인키스"
 ,"type":"Fairy","power":"50","accuracy":"100"}],"technicalRecords":[
-{"technicalRecord":7,"category":"물리","move":"Low Kick"
+{"technicalRecord":7,"category":"물리","move":"안다리걸기"
 ,"type":"Fighting","power":"—","accuracy":"100"},
-{"technicalRecord":14,"category":"변화","move":"Metronome"
+{"technicalRecord":14,"category":"변화","move":"손가락흔들기"
 ,"type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":18,"category":"물리","move":"흡혈"
 ,"type":"Bug","power":"80","accuracy":"100"},
@@ -38,19 +38,19 @@
 ,"type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":35,"category":"특수","move":"소란피기"
 ,"type":"Normal","power":"90","accuracy":"100"},
-{"technicalRecord":37,"category":"변화","move":"Taunt"
+{"technicalRecord":37,"category":"변화","move":"도발"
 ,"type":"Dark","power":"—","accuracy":"100"},
-{"technicalRecord":38,"category":"변화","move":"Trick"
+{"technicalRecord":38,"category":"변화","move":"트릭"
 ,"type":"Psychic","power":"—","accuracy":"100"},
-{"technicalRecord":58,"category":"특수","move":"Dark Pulse"
+{"technicalRecord":58,"category":"특수","move":"악의파동"
 ,"type":"Dark","power":"80","accuracy":"100"},
 {"technicalRecord":68,"category":"변화","move":"나쁜음모"
 ,"type":"Dark","power":"—","accuracy":"—"},
-{"technicalRecord":81,"category":"물리","move":"Foul Play"
+{"technicalRecord":81,"category":"물리","move":"속임수"
 ,"type":"Dark","power":"95","accuracy":"100"},
 {"technicalRecord":90,"category":"물리","move":"치근거리기"
 ,"type":"Fairy","power":"90","accuracy":"90"},
-{"technicalRecord":92,"category":"특수","move":"Dazzling Gleam"
+{"technicalRecord":92,"category":"특수","move":"매지컬샤인"
 ,"type":"Fairy","power":"80","accuracy":"100"}]
 ,"egg":[]
 ,"tutor":[]

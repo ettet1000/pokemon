@@ -6,52 +6,52 @@
 "growthRate":"중간 빠름"},"abilities":[{"name":"Weak Armor","description":"Physical attacks to the Pokémon lower its Defense stat but sharply raise its Speed stat."}],"typesEffectiveness":{"Normal":"0","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"0","Poison":"½","Ground":"1","Flying":"1","Psychic":"1","Bug":"½","Rock":"1","Ghost":"2","Dragon":"1","Dark":"2","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"854","name":"데인차","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/854.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/854.png","type":"FIRST"},{"number":"855","name":"포트데스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/855.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/855.png","type":"LAST","requirement":"깨진포트 또는 이빠진 포트 사용"}],"previousEvolutions":[{"number":"854","name":"데인차","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/854.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/854.png"
 ,"type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":60,"attack":65,"defense":65,"spAtk":134,"spDef":114,"speed":70,"total":508},"cards":[{"number":"SV053","name":"포트데스","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/855/SWSH45_EN_SV053.png"},{"number":"83","name":"포트데스","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/855/SWSH3_EN_83.png"},{"number":"SWSH021","name":"포트데스 V","expansionName":"Sword & Shield Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/855/SWSHP_EN_SWSH021.png"},{"number":"90","name":"포트데스","expansionName":"Sword & Shield","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/855/SWSH1_EN_90.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/855.mp3","moves":{
-"levelUp":[{"level":1,"category":"변화","move":"Aromatic Mist","type":"Fairy","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"Astonish","type":"Ghost","power":"30","accuracy":"100"},{"level":1,"category":"특수","move":"Mega Drain","type":"Grass","power":"40","accuracy":"100"},{"level":1,"category":"변화","move":"Strength Sap","type":"Grass","power":"—","accuracy":"100"},{"level":1,"category":"변화","move":"Teatime","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"변화","move":"Withdraw","type":"Water","power":"—","accuracy":"—"},{"level":18,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"level":24,"category":"물리","move":"Sucker Punch","type":"Dark","power":"70","accuracy":"100"},{"level":30,"category":"변화","move":"Aromatherapy","type":"Grass","power":"—","accuracy":"—"},{"level":36,"category":"특수","move":"Giga Drain","type":"Grass","power":"75","accuracy":"100"},{"level":42,"category":"변화","move":"나쁜음모","type":"Dark","power":"—","accuracy":"—"},{"level":48,"category":"특수","move":"Shadow Ball","type":"Ghost","power":"80","accuracy":"100"},{"level":54,"category":"변화","move":"Memento","type":"Dark","power":"—","accuracy":"100"},{"level":60,"category":"변화","move":"Shell Smash","type":"Normal","power":"—","accuracy":"—"},{"level":66,"category":"변화","move":"Curse","type":"Ghost","power":"—","accuracy":"—"}],"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":20,"category":"물리","move":"Self-Destruct","type":"Normal","power":"200","accuracy":"100"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":28,"category":"특수","move":"Giga Drain"
+"levelUp":[{"level":1,"category":"변화","move":"아로마미스트","type":"Fairy","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"놀래키기","type":"Ghost","power":"30","accuracy":"100"},{"level":1,"category":"특수","move":"메가드레인","type":"Grass","power":"40","accuracy":"100"},{"level":1,"category":"변화","move":"힘흡수","type":"Grass","power":"—","accuracy":"100"},{"level":1,"category":"변화","move":"다과회","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"변화","move":"껍질에숨기","type":"Water","power":"—","accuracy":"—"},{"level":18,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"level":24,"category":"물리","move":"기습","type":"Dark","power":"70","accuracy":"100"},{"level":30,"category":"변화","move":"아로마테라피","type":"Grass","power":"—","accuracy":"—"},{"level":36,"category":"특수","move":"기가드레인","type":"Grass","power":"75","accuracy":"100"},{"level":42,"category":"변화","move":"나쁜음모","type":"Dark","power":"—","accuracy":"—"},{"level":48,"category":"특수","move":"섀도볼","type":"Ghost","power":"80","accuracy":"100"},{"level":54,"category":"변화","move":"추억의선물","type":"Dark","power":"—","accuracy":"100"},{"level":60,"category":"변화","move":"껍질깨기","type":"Normal","power":"—","accuracy":"—"},{"level":66,"category":"변화","move":"저주","type":"Ghost","power":"—","accuracy":"—"}],"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":20,"category":"물리","move":"자폭","type":"Normal","power":"200","accuracy":"100"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":28,"category":"특수","move":"기가드레인"
 ,"type":"Grass","power":"75","accuracy":"100"}
-,{"technicalMachine":38,"category":"변화","move":"Will-O-Wisp"
+,{"technicalMachine":38,"category":"변화","move":"도깨비불"
 ,"type":"Fire","power":"—","accuracy":"85"}
 ,{"technicalMachine":39,"category":"물리","move":"객기"
 ,"type":"Normal","power":"70","accuracy":"100"}
-,{"technicalMachine":44,"category":"변화","move":"Imprison"
+,{"technicalMachine":44,"category":"변화","move":"봉인"
 ,"type":"Psychic","power":"—","accuracy":"—"}
-,{"technicalMachine":57,"category":"물리","move":"Payback"
+,{"technicalMachine":57,"category":"물리","move":"보복"
 ,"type":"Dark","power":"50","accuracy":"100"}
-,{"technicalMachine":71,"category":"변화","move":"Wonder Room"
+,{"technicalMachine":71,"category":"변화","move":"원더룸"
 ,"type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래"
 ,"type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":77,"category":"특수","move":"Hex"
+,{"technicalMachine":77,"category":"특수","move":"병상첨병"
 ,"type":"Ghost","power":"65","accuracy":"100"}
-,{"technicalMachine":86,"category":"물리","move":"Phantom Force"
+,{"technicalMachine":86,"category":"물리","move":"고스트다이브"
 ,"type":"Ghost","power":"90","accuracy":"100"}],"technicalRecords":[
-{"technicalRecord":11,"category":"특수","move":"Psychic"
+{"technicalRecord":11,"category":"특수","move":"사이코키네시스"
 ,"type":"Psychic","power":"90","accuracy":"100"},
-{"technicalRecord":14,"category":"변화","move":"Metronome"
+{"technicalRecord":14,"category":"변화","move":"손가락흔들기"
 ,"type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":20,"category":"변화","move":"대타출동"
 ,"type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":25,"category":"특수","move":"Psyshock"
+{"technicalRecord":25,"category":"특수","move":"사이코쇼크"
 ,"type":"Psychic","power":"80","accuracy":"100"},
 {"technicalRecord":26,"category":"변화","move":"버티기"
 ,"type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":27,"category":"변화","move":"잠꼬대"
 ,"type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":29,"category":"변화","move":"Baton Pass"
+{"technicalRecord":29,"category":"변화","move":"바톤터치"
 ,"type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":33,"category":"특수","move":"Shadow Ball"
+{"technicalRecord":33,"category":"특수","move":"섀도볼"
 ,"type":"Ghost","power":"80","accuracy":"100"},
-{"technicalRecord":38,"category":"변화","move":"Trick"
+{"technicalRecord":38,"category":"변화","move":"트릭"
 ,"type":"Psychic","power":"—","accuracy":"100"},
-{"technicalRecord":58,"category":"특수","move":"Dark Pulse"
+{"technicalRecord":58,"category":"특수","move":"악의파동"
 ,"type":"Dark","power":"80","accuracy":"100"},
 {"technicalRecord":68,"category":"변화","move":"나쁜음모"
 ,"type":"Dark","power":"—","accuracy":"—"},
-{"technicalRecord":81,"category":"물리","move":"Foul Play"
+{"technicalRecord":81,"category":"물리","move":"속임수"
 ,"type":"Dark","power":"95","accuracy":"100"},
-{"technicalRecord":82,"category":"특수","move":"Stored Power"
+{"technicalRecord":82,"category":"특수","move":"어시스트파워"
 ,"type":"Psychic","power":"20","accuracy":"100"},
-{"technicalRecord":83,"category":"변화","move":"Ally Switch"
+{"technicalRecord":83,"category":"변화","move":"사이드체인지"
 ,"type":"Psychic","power":"—","accuracy":"—"}]
 ,"egg":[]
 ,"tutor":[]
-,"evolution":[{"category":"변화","move":"Teatime","type":"Normal","power":"—","accuracy":"—"}],"preEvolution":[]},"generation":"GENERATION_VIII"}
+,"evolution":[{"category":"변화","move":"다과회","type":"Normal","power":"—","accuracy":"—"}],"preEvolution":[]},"generation":"GENERATION_VIII"}

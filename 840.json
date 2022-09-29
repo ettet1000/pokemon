@@ -9,15 +9,15 @@
 ,"type":"LAST",
 "requirement":"달콤한사과 사용"}],"superEvolutions":[],"baseStats":{"hp":40,"attack":40,"defense":80,"spAtk":40,"spDef":40,"speed":20,"total":260},"cards":[{"number":"17","name":"과사삭벌레","expansionName":"Evolving Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/840/SWSH7_EN_17.png"},{"number":"SV012","name":"과사삭벌레","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/840/SWSH45_EN_SV012.png"},{"number":"20","name":"과사삭벌레","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/840/SWSH2_EN_20.png"},{"number":"21","name":"과사삭벌레","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/840/SWSH2_EN_21.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/840.mp3","moves":{
-"levelUp":[{"level":1,"category":"물리","move":"Astonish","type":"Ghost","power":"30","accuracy":"100"},{"level":1,"category":"변화","move":"Withdraw","type":"Water","power":"—","accuracy":"—"}],"technicalMachine":[{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}]
+"levelUp":[{"level":1,"category":"물리","move":"놀래키기","type":"Ghost","power":"30","accuracy":"100"},{"level":1,"category":"변화","move":"껍질에숨기","type":"Water","power":"—","accuracy":"—"}],"technicalMachine":[{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}]
 ,"technicalRecords":[]
 ,"egg":[
 {"category":"변화","move":"웅크리기","type":"Normal","power":"—","accuracy":"—"}
-,{"category":"변화","move":"Recycle"
+,{"category":"변화","move":"리사이클"
 ,"type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"구르기"
 ,"type":"Rock","power":"30","accuracy":"90"}
-,{"category":"물리","move":"Sucker Punch"
+,{"category":"물리","move":"기습"
 ,"type":"Dark","power":"70","accuracy":"100"}]
 ,"tutor":[{"category":"물리","move":"Grassy Glide"
 ,"type":"Grass","power":"70","accuracy":"100"}]

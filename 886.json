@@ -8,22 +8,22 @@
 ,"type":"LAST",
 "requirement":"Level 60"}],"superEvolutions":[],"baseStats":{"hp":68,"attack":80,"defense":50,"spAtk":60,"spDef":50,"speed":102,"total":410},"cards":[{"number":"SV061","name":"드래런치","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/886/SWSH45_EN_SV061.png"},{"number":"90","name":"드래런치","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/886/SWSH2_EN_90.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/886.mp3","moves":{
-"levelUp":[{"level":1,"category":"물리","move":"Astonish","type":"Ghost","power":"30","accuracy":"100"},{"level":1,"category":"물리","move":"Bite","type":"Dark","power":"60","accuracy":"100"},{"level":1,"category":"특수","move":"Dragon Pulse","type":"Dragon","power":"85","accuracy":"100"},{"level":1,"category":"특수","move":"Infestation","type":"Bug","power":"20","accuracy":"100"},{"level":1,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"},{"level":6,"category":"변화","move":"Lock-On","type":"Normal","power":"—","accuracy":"—"},{"level":12,"category":"물리","move":"Assurance","type":"Dark","power":"60","accuracy":"100"},{"level":18,"category":"특수","move":"Hex","type":"Ghost","power":"65","accuracy":"100"},{"level":24,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},{"level":30,"category":"물리","move":"Double Hit","type":"Normal","power":"35","accuracy":"90"},{"level":36,"category":"물리","move":"U-turn","type":"Bug","power":"70","accuracy":"100"},{"level":42,"category":"변화","move":"Dragon Dance","type":"Dragon","power":"—","accuracy":"—"},{"level":48,"category":"물리","move":"Phantom Force","type":"Ghost","power":"90","accuracy":"100"},{"level":54,"category":"물리","move":"Take Down","type":"Normal","power":"90","accuracy":"85"},{"level":61,"category":"물리","move":"Dragon Rush","type":"Dragon","power":"100","accuracy":"75"},{"level":66,"category":"물리","move":"Double-Edge","type":"Normal","power":"120","accuracy":"100"},{"level":72,"category":"물리","move":"Last Resort","type":"Normal","power":"140","accuracy":"100"}],"technicalMachine":[{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":30,"category":"물리","move":"Steel Wing","type":"Steel","power":"70","accuracy":"90"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":37,"category":"물리","move":"Beat Up","type":"Dark","power":"—","accuracy":"100"},{"technicalMachine":38,"category":"변화","move":"Will-O-Wisp","type":"Fire","power":"—","accuracy":"85"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"},{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":45,"category":"물리","move":"Dive","type":"Water","power":"80","accuracy":"100"},{"technicalMachine":55,"category":"특수","move":"Brine","type":"Water","power":"65","accuracy":"100"},{"technicalMachine":56,"category":"물리","move":"U-turn","type":"Bug","power":"70","accuracy":"100"}
-,{"technicalMachine":58,"category":"물리","move":"Assurance"
+"levelUp":[{"level":1,"category":"물리","move":"놀래키기","type":"Ghost","power":"30","accuracy":"100"},{"level":1,"category":"물리","move":"물기","type":"Dark","power":"60","accuracy":"100"},{"level":1,"category":"특수","move":"용의파동","type":"Dragon","power":"85","accuracy":"100"},{"level":1,"category":"특수","move":"엉겨붙기","type":"Bug","power":"20","accuracy":"100"},{"level":1,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"},{"level":6,"category":"변화","move":"록온","type":"Normal","power":"—","accuracy":"—"},{"level":12,"category":"물리","move":"승부굳히기","type":"Dark","power":"60","accuracy":"100"},{"level":18,"category":"특수","move":"병상첨병","type":"Ghost","power":"65","accuracy":"100"},{"level":24,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},{"level":30,"category":"물리","move":"더블어택","type":"Normal","power":"35","accuracy":"90"},{"level":36,"category":"물리","move":"유턴","type":"Bug","power":"70","accuracy":"100"},{"level":42,"category":"변화","move":"용의춤","type":"Dragon","power":"—","accuracy":"—"},{"level":48,"category":"물리","move":"고스트다이브","type":"Ghost","power":"90","accuracy":"100"},{"level":54,"category":"물리","move":"돌진","type":"Normal","power":"90","accuracy":"85"},{"level":61,"category":"물리","move":"드래곤다이브","type":"Dragon","power":"100","accuracy":"75"},{"level":66,"category":"물리","move":"이판사판태클","type":"Normal","power":"120","accuracy":"100"},{"level":72,"category":"물리","move":"뒀다쓰기","type":"Normal","power":"140","accuracy":"100"}],"technicalMachine":[{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":30,"category":"물리","move":"강철날개","type":"Steel","power":"70","accuracy":"90"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":37,"category":"물리","move":"집단구타","type":"Dark","power":"—","accuracy":"100"},{"technicalMachine":38,"category":"변화","move":"도깨비불","type":"Fire","power":"—","accuracy":"85"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"},{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":45,"category":"물리","move":"다이빙","type":"Water","power":"80","accuracy":"100"},{"technicalMachine":55,"category":"특수","move":"소금물","type":"Water","power":"65","accuracy":"100"},{"technicalMachine":56,"category":"물리","move":"유턴","type":"Bug","power":"70","accuracy":"100"}
+,{"technicalMachine":58,"category":"물리","move":"승부굳히기"
 ,"type":"Dark","power":"60","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래"
 ,"type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":77,"category":"특수","move":"Hex"
+,{"technicalMachine":77,"category":"특수","move":"병상첨병"
 ,"type":"Ghost","power":"65","accuracy":"100"}
-,{"technicalMachine":78,"category":"물리","move":"Acrobatics"
+,{"technicalMachine":78,"category":"물리","move":"애크러뱃"
 ,"type":"Flying","power":"55","accuracy":"100"}
-,{"technicalMachine":86,"category":"물리","move":"Phantom Force"
+,{"technicalMachine":86,"category":"물리","move":"고스트다이브"
 ,"type":"Ghost","power":"90","accuracy":"100"}
-,{"technicalMachine":99,"category":"물리","move":"Breaking Swipe"
+,{"technicalMachine":99,"category":"물리","move":"와이드브레이커"
 ,"type":"Dragon","power":"60","accuracy":"100"}],"technicalRecords":[
-{"technicalRecord":2,"category":"특수","move":"Flamethrower"
+{"technicalRecord":2,"category":"특수","move":"화염방사"
 ,"type":"Fire","power":"90","accuracy":"100"},
-{"technicalRecord":3,"category":"특수","move":"Hydro Pump"
+{"technicalRecord":3,"category":"특수","move":"하이드로펌프"
 ,"type":"Water","power":"110","accuracy":"80"},
 {"technicalRecord":4,"category":"특수","move":"파도타기"
 ,"type":"Water","power":"90","accuracy":"100"},
@@ -33,43 +33,43 @@
 ,"type":"Electric","power":"110","accuracy":"70"},
 {"technicalRecord":12,"category":"변화","move":"고속이동"
 ,"type":"Psychic","power":"—","accuracy":"—"},
-{"technicalRecord":15,"category":"특수","move":"Fire Blast"
+{"technicalRecord":15,"category":"특수","move":"불대문자"
 ,"type":"Fire","power":"110","accuracy":"85"},
 {"technicalRecord":20,"category":"변화","move":"대타출동"
 ,"type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":24,"category":"물리","move":"Outrage"
+{"technicalRecord":24,"category":"물리","move":"역린"
 ,"type":"Dragon","power":"120","accuracy":"100"},
 {"technicalRecord":26,"category":"변화","move":"버티기"
 ,"type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":27,"category":"변화","move":"잠꼬대"
 ,"type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":29,"category":"변화","move":"Baton Pass"
+{"technicalRecord":29,"category":"변화","move":"바톤터치"
 ,"type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":33,"category":"특수","move":"Shadow Ball"
+{"technicalRecord":33,"category":"특수","move":"섀도볼"
 ,"type":"Ghost","power":"80","accuracy":"100"},
-{"technicalRecord":51,"category":"변화","move":"Dragon Dance"
+{"technicalRecord":51,"category":"변화","move":"용의춤"
 ,"type":"Dragon","power":"—","accuracy":"—"},
-{"technicalRecord":62,"category":"특수","move":"Dragon Pulse"
+{"technicalRecord":62,"category":"특수","move":"용의파동"
 ,"type":"Dragon","power":"85","accuracy":"100"},
-{"technicalRecord":83,"category":"변화","move":"Ally Switch"
+{"technicalRecord":83,"category":"변화","move":"사이드체인지"
 ,"type":"Psychic","power":"—","accuracy":"—"},
-{"technicalRecord":84,"category":"특수","move":"Scald"
+{"technicalRecord":84,"category":"특수","move":"열탕"
 ,"type":"Water","power":"80","accuracy":"100"},
-{"technicalRecord":97,"category":"물리","move":"Psychic Fangs"
+{"technicalRecord":97,"category":"물리","move":"사이코팽"
 ,"type":"Psychic","power":"85","accuracy":"100"}]
-,"egg":[{"category":"변화","move":"Confuse Ray"
+,"egg":[{"category":"변화","move":"이상한빛"
 ,"type":"Ghost","power":"—","accuracy":"100"}
-,{"category":"변화","move":"Curse"
+,{"category":"변화","move":"저주"
 ,"type":"Ghost","power":"—","accuracy":"—"}
-,{"category":"변화","move":"Disable"
+,{"category":"변화","move":"사슬묶기"
 ,"type":"Normal","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"그림자분신"
 ,"type":"Normal","power":"—","accuracy":"—"}
-,{"category":"물리","move":"Dragon Tail"
+,{"category":"물리","move":"드래곤테일"
 ,"type":"Dragon","power":"60","accuracy":"90"}
-,{"category":"변화","move":"Grudge"
+,{"category":"변화","move":"원념"
 ,"type":"Ghost","power":"—","accuracy":"—"}
-,{"category":"물리","move":"Sucker Punch"
+,{"category":"물리","move":"기습"
 ,"type":"Dark","power":"70","accuracy":"100"}]
 ,"tutor":[]
-,"evolution":[{"category":"특수","move":"Dragon Pulse","type":"Dragon","power":"85","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_VIII"}
+,"evolution":[{"category":"특수","move":"용의파동","type":"Dragon","power":"85","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_VIII"}

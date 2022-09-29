@@ -8,34 +8,34 @@
 {"name":"Gigantamax 우라오스 (Single Strike Style)","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/892_gigantamax_1.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/892_gigantamax_1.png","type":"GIGANTAMAX"},{"name":"Gigantamax 우라오스 (Rapid Strike Style)","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/892_gigantamax_2.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/892_gigantamax_2.png"
 ,"type":"GIGANTAMAX"}],"baseStats":{"hp":100,"attack":130,"defense":100,"spAtk":63,"spDef":60,"speed":97,"total":550},"cards":[{"number":"108","name":"Single Strike 우라오스","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/892/SWSH6_EN_108.png"},{"number":"44","name":"Rapid Strike 우라오스","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/892/SWSH6_EN_44.png"},{"number":"88","name":"Rapid Strike 우라오스 VMAX","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/892/SWSH5_EN_88.png"},{"number":"168","name":"Single Strike 우라오스 VMAX","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/892/SWSH5_EN_168.png"},{"number":"169","name":"Rapid Strike 우라오스 VMAX","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/892/SWSH5_EN_169.png"},{"number":"150","name":"Single Strike 우라오스 V","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/892/SWSH5_EN_150.png"},{"number":"170","name":"Rapid Strike 우라오스 VMAX","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/892/SWSH5_EN_170.png"},{"number":"151","name":"Single Strike 우라오스 V","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/892/SWSH5_EN_151.png"},{"number":"85","name":"Single Strike 우라오스 V","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/892/SWSH5_EN_85.png"},{"number":"152","name":"Rapid Strike 우라오스 V","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/892/SWSH5_EN_152.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/892.mp3","moves":{
-"levelUp":[{"level":1,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"변화","move":"Focus Energy","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"변화","move":"Leer","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"Rock Smash","type":"Fighting","power":"40","accuracy":"100"},{"level":1,"category":"물리","move":"Sucker Punch","type":"Dark","power":"70","accuracy":"100"},{"level":1,"category":"물리","move":"Wicked Blow","type":"Dark","power":"80","accuracy":"100"},{"level":12,"category":"물리","move":"Aerial Ace","type":"Flying","power":"60","accuracy":"∞"},{"level":16,"category":"변화","move":"Scary Face","type":"Normal","power":"—","accuracy":"100"},{"level":20,"category":"물리","move":"Headbutt","type":"Normal","power":"70","accuracy":"100"},{"level":24,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"},{"level":28,"category":"변화","move":"Detect","type":"Fighting","power":"—","accuracy":"—"},{"level":32,"category":"변화","move":"Bulk Up","type":"Fighting","power":"—","accuracy":"—"},{"level":36,"category":"물리","move":"Iron Head","type":"Steel","power":"80","accuracy":"100"},{"level":40,"category":"물리","move":"Dynamic Punch","type":"Fighting","power":"100","accuracy":"50"},{"level":44,"category":"물리","move":"카운터","type":"Fighting","power":"—","accuracy":"100"},{"level":48,"category":"물리","move":"Close Combat","type":"Fighting","power":"120","accuracy":"100"},{"level":52,"category":"물리","move":"Focus Punch","type":"Fighting","power":"150","accuracy":"100"}],"technicalMachine":[{"technicalMachine":0,"category":"물리","move":"메가톤펀치","type":"Normal","power":"80","accuracy":"85"},{"technicalMachine":1,"category":"물리","move":"메가톤킥","type":"Normal","power":"120","accuracy":"75"},{"technicalMachine":3,"category":"물리","move":"Fire Punch","type":"Fire","power":"75","accuracy":"100"},{"technicalMachine":4,"category":"물리","move":"Ice Punch","type":"Ice","power":"75","accuracy":"100"},{"technicalMachine":5,"category":"물리","move":"번개펀치","type":"Electric","power":"75","accuracy":"100"},{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":26,"category":"변화","move":"Scary Face","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":37,"category":"물리","move":"Beat Up","type":"Dark","power":"—","accuracy":"100"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"},{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":42,"category":"물리","move":"Revenge","type":"Fighting","power":"60","accuracy":"100"},{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"},{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
-,{"technicalMachine":56,"category":"물리","move":"U-turn"
+"levelUp":[{"level":1,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"변화","move":"기충전","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"바위깨기","type":"Fighting","power":"40","accuracy":"100"},{"level":1,"category":"물리","move":"기습","type":"Dark","power":"70","accuracy":"100"},{"level":1,"category":"물리","move":"Wicked Blow","type":"Dark","power":"80","accuracy":"100"},{"level":12,"category":"물리","move":"제비반환","type":"Flying","power":"60","accuracy":"∞"},{"level":16,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"},{"level":20,"category":"물리","move":"박치기","type":"Normal","power":"70","accuracy":"100"},{"level":24,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"},{"level":28,"category":"변화","move":"판별","type":"Fighting","power":"—","accuracy":"—"},{"level":32,"category":"변화","move":"벌크업","type":"Fighting","power":"—","accuracy":"—"},{"level":36,"category":"물리","move":"아이언헤드","type":"Steel","power":"80","accuracy":"100"},{"level":40,"category":"물리","move":"폭발펀치","type":"Fighting","power":"100","accuracy":"50"},{"level":44,"category":"물리","move":"카운터","type":"Fighting","power":"—","accuracy":"100"},{"level":48,"category":"물리","move":"인파이트","type":"Fighting","power":"120","accuracy":"100"},{"level":52,"category":"물리","move":"힘껏펀치","type":"Fighting","power":"150","accuracy":"100"}],"technicalMachine":[{"technicalMachine":0,"category":"물리","move":"메가톤펀치","type":"Normal","power":"80","accuracy":"85"},{"technicalMachine":1,"category":"물리","move":"메가톤킥","type":"Normal","power":"120","accuracy":"75"},{"technicalMachine":3,"category":"물리","move":"불꽃펀치","type":"Fire","power":"75","accuracy":"100"},{"technicalMachine":4,"category":"물리","move":"냉동펀치","type":"Ice","power":"75","accuracy":"100"},{"technicalMachine":5,"category":"물리","move":"번개펀치","type":"Electric","power":"75","accuracy":"100"},{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":26,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":37,"category":"물리","move":"집단구타","type":"Dark","power":"—","accuracy":"100"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"},{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":42,"category":"물리","move":"리벤지","type":"Fighting","power":"60","accuracy":"100"},{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"},{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":56,"category":"물리","move":"유턴"
 ,"type":"Bug","power":"70","accuracy":"100"}
-,{"technicalMachine":57,"category":"물리","move":"Payback"
+,{"technicalMachine":57,"category":"물리","move":"보복"
 ,"type":"Dark","power":"50","accuracy":"100"}
-,{"technicalMachine":58,"category":"물리","move":"Assurance"
+,{"technicalMachine":58,"category":"물리","move":"승부굳히기"
 ,"type":"Dark","power":"60","accuracy":"100"}
 ,{"technicalMachine":59,"category":"물리","move":"내던지기"
 ,"type":"Dark","power":"—","accuracy":"100"}
-,{"technicalMachine":63,"category":"물리","move":"Drain Punch"
+,{"technicalMachine":63,"category":"물리","move":"드레인펀치"
 ,"type":"Fighting","power":"75","accuracy":"100"}
-,{"technicalMachine":75,"category":"물리","move":"Low Sweep"
+,{"technicalMachine":75,"category":"물리","move":"로킥"
 ,"type":"Fighting","power":"65","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래"
 ,"type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":78,"category":"물리","move":"Acrobatics"
+,{"technicalMachine":78,"category":"물리","move":"애크러뱃"
 ,"type":"Flying","power":"55","accuracy":"100"}
-,{"technicalMachine":79,"category":"물리","move":"Retaliate"
+,{"technicalMachine":79,"category":"물리","move":"원수갚기"
 ,"type":"Normal","power":"70","accuracy":"100"}
-,{"technicalMachine":85,"category":"특수","move":"Snarl"
+,{"technicalMachine":85,"category":"특수","move":"바크아웃"
 ,"type":"Dark","power":"55","accuracy":"95"}
-,{"technicalMachine":94,"category":"물리","move":"False Swipe"
+,{"technicalMachine":94,"category":"물리","move":"칼등치기"
 ,"type":"Normal","power":"40","accuracy":"100"}],"technicalRecords":[
 {"technicalRecord":1,"category":"물리","move":"누르기"
 ,"type":"Normal","power":"85","accuracy":"100"},
-{"technicalRecord":7,"category":"물리","move":"Low Kick"
+{"technicalRecord":7,"category":"물리","move":"안다리걸기"
 ,"type":"Fighting","power":"—","accuracy":"100"},
-{"technicalRecord":13,"category":"변화","move":"Focus Energy"
+{"technicalRecord":13,"category":"변화","move":"기충전"
 ,"type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":20,"category":"변화","move":"대타출동"
 ,"type":"Normal","power":"—","accuracy":"—"},
@@ -45,41 +45,41 @@
 ,"type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":27,"category":"변화","move":"잠꼬대"
 ,"type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":32,"category":"물리","move":"Crunch"
+{"technicalRecord":32,"category":"물리","move":"깨물어부수기"
 ,"type":"Dark","power":"80","accuracy":"100"},
-{"technicalRecord":37,"category":"변화","move":"Taunt"
+{"technicalRecord":37,"category":"변화","move":"도발"
 ,"type":"Dark","power":"—","accuracy":"100"},
-{"technicalRecord":39,"category":"물리","move":"Superpower"
+{"technicalRecord":39,"category":"물리","move":"엄청난힘"
 ,"type":"Fighting","power":"120","accuracy":"100"},
-{"technicalRecord":46,"category":"변화","move":"Iron Defense"
+{"technicalRecord":46,"category":"변화","move":"철벽"
 ,"type":"Steel","power":"—","accuracy":"—"},
-{"technicalRecord":48,"category":"변화","move":"Bulk Up"
+{"technicalRecord":48,"category":"변화","move":"벌크업"
 ,"type":"Fighting","power":"—","accuracy":"—"},
-{"technicalRecord":53,"category":"물리","move":"Close Combat"
+{"technicalRecord":53,"category":"물리","move":"인파이트"
 ,"type":"Fighting","power":"120","accuracy":"100"},
-{"technicalRecord":56,"category":"특수","move":"Aura Sphere"
+{"technicalRecord":56,"category":"특수","move":"파동탄"
 ,"type":"Fighting","power":"80","accuracy":"∞"},
 {"technicalRecord":57,"category":"물리","move":"독찌르기"
 ,"type":"Poison","power":"80","accuracy":"100"},
-{"technicalRecord":58,"category":"특수","move":"Dark Pulse"
+{"technicalRecord":58,"category":"특수","move":"악의파동"
 ,"type":"Dark","power":"80","accuracy":"100"},
 {"technicalRecord":64,"category":"특수","move":"기합구슬"
 ,"type":"Fighting","power":"120","accuracy":"70"},
-{"technicalRecord":69,"category":"물리","move":"Zen Headbutt"
+{"technicalRecord":69,"category":"물리","move":"사념의박치기"
 ,"type":"Psychic","power":"80","accuracy":"90"},
-{"technicalRecord":74,"category":"물리","move":"Iron Head"
+{"technicalRecord":74,"category":"물리","move":"아이언헤드"
 ,"type":"Steel","power":"80","accuracy":"100"},
 {"technicalRecord":75,"category":"물리","move":"스톤에지"
 ,"type":"Rock","power":"100","accuracy":"80"},
-{"technicalRecord":81,"category":"물리","move":"Foul Play"
+{"technicalRecord":81,"category":"물리","move":"속임수"
 ,"type":"Dark","power":"95","accuracy":"100"},
 {"technicalRecord":85,"category":"변화","move":"분발"
 ,"type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":93,"category":"물리","move":"Darkest Lariat"
+{"technicalRecord":93,"category":"물리","move":"DD래리어트"
 ,"type":"Dark","power":"85","accuracy":"100"},
 {"technicalRecord":95,"category":"물리","move":"지옥찌르기"
 ,"type":"Dark","power":"80","accuracy":"100"},
-{"technicalRecord":99,"category":"물리","move":"Body Press"
+{"technicalRecord":99,"category":"물리","move":"바디프레스"
 ,"type":"Fighting","power":"80","accuracy":"100"}]
 ,"egg":[]
 ,"tutor":[]

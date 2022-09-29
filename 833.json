@@ -7,20 +7,20 @@
 ,"type":"LAST",
 "requirement":"Level 22"}],"superEvolutions":[],"baseStats":{"hp":50,"attack":64,"defense":50,"spAtk":38,"spDef":38,"speed":44,"total":284},"cards":[{"number":"SV028","name":"깨물부기","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/833/SWSH45_EN_SV028.png"},{"number":"26","name":"깨물부기","expansionName":"Shining Fates","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/833/SWSH45_EN_26.png"},{"number":"38","name":"깨물부기","expansionName":"Vivid Voltage","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/833/SWSH4_EN_38.png"},{"number":"60","name":"깨물부기","expansionName":"Sword & Shield","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/833/SWSH1_EN_60.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/833.mp3","moves":{
-"levelUp":[{"level":1,"category":"물리","move":"Tackle","type":"Normal","power":"40","accuracy":"100"},{"level":1,"category":"특수","move":"Water Gun","type":"Water","power":"40","accuracy":"100"},{"level":7,"category":"물리","move":"Bite","type":"Dark","power":"60","accuracy":"100"},{"level":14,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"level":21,"category":"물리","move":"Headbutt","type":"Normal","power":"70","accuracy":"100"},{"level":28,"category":"물리","move":"카운터","type":"Fighting","power":"—","accuracy":"100"},{"level":35,"category":"물리","move":"Jaw Lock","type":"Dark","power":"80","accuracy":"100"},{"level":42,"category":"물리","move":"Liquidation","type":"Water","power":"85","accuracy":"100"},{"level":49,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"}],"technicalMachine":[{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":36,"category":"특수","move":"Whirlpool","type":"Water","power":"35","accuracy":"85"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":42,"category":"물리","move":"Revenge","type":"Fighting","power":"60","accuracy":"100"},{"technicalMachine":45,"category":"물리","move":"Dive","type":"Water","power":"80","accuracy":"100"}
+"levelUp":[{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"},{"level":1,"category":"특수","move":"물대포","type":"Water","power":"40","accuracy":"100"},{"level":7,"category":"물리","move":"물기","type":"Dark","power":"60","accuracy":"100"},{"level":14,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"level":21,"category":"물리","move":"박치기","type":"Normal","power":"70","accuracy":"100"},{"level":28,"category":"물리","move":"카운터","type":"Fighting","power":"—","accuracy":"100"},{"level":35,"category":"물리","move":"물고버티기","type":"Dark","power":"80","accuracy":"100"},{"level":42,"category":"물리","move":"아쿠아브레이크","type":"Water","power":"85","accuracy":"100"},{"level":49,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"}],"technicalMachine":[{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":36,"category":"특수","move":"바다회오리","type":"Water","power":"35","accuracy":"85"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":42,"category":"물리","move":"리벤지","type":"Fighting","power":"60","accuracy":"100"},{"technicalMachine":45,"category":"물리","move":"다이빙","type":"Water","power":"80","accuracy":"100"}
 ,{"technicalMachine":53,"category":"특수","move":"머드숏"
 ,"type":"Ground","power":"55","accuracy":"95"}
-,{"technicalMachine":57,"category":"물리","move":"Payback"
+,{"technicalMachine":57,"category":"물리","move":"보복"
 ,"type":"Dark","power":"50","accuracy":"100"}
-,{"technicalMachine":58,"category":"물리","move":"Assurance"
+,{"technicalMachine":58,"category":"물리","move":"승부굳히기"
 ,"type":"Dark","power":"60","accuracy":"100"}
-,{"technicalMachine":67,"category":"물리","move":"Ice Fang"
+,{"technicalMachine":67,"category":"물리","move":"얼음엄니"
 ,"type":"Ice","power":"65","accuracy":"95"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래"
 ,"type":"Normal","power":"60","accuracy":"100"}],"technicalRecords":[
 {"technicalRecord":1,"category":"물리","move":"누르기"
 ,"type":"Normal","power":"85","accuracy":"100"},
-{"technicalRecord":3,"category":"특수","move":"Hydro Pump"
+{"technicalRecord":3,"category":"특수","move":"하이드로펌프"
 ,"type":"Water","power":"110","accuracy":"80"},
 {"technicalRecord":4,"category":"특수","move":"파도타기"
 ,"type":"Water","power":"90","accuracy":"100"},
@@ -30,13 +30,13 @@
 ,"type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":27,"category":"변화","move":"잠꼬대"
 ,"type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":98,"category":"물리","move":"Liquidation"
+{"technicalRecord":98,"category":"물리","move":"아쿠아브레이크"
 ,"type":"Water","power":"85","accuracy":"100"}]
-,"egg":[{"category":"물리","move":"Dragon Tail"
+,"egg":[{"category":"물리","move":"드래곤테일"
 ,"type":"Dragon","power":"60","accuracy":"90"}
-,{"category":"변화","move":"Gastro Acid"
+,{"category":"변화","move":"위액"
 ,"type":"Poison","power":"—","accuracy":"100"}
-,{"category":"물리","move":"Skull Bash"
+,{"category":"물리","move":"로케트박치기"
 ,"type":"Normal","power":"130","accuracy":"100"}]
 ,"tutor":[{"category":"물리","move":"Scale Shot"
 ,"type":"Dragon","power":"25","accuracy":"90"}
