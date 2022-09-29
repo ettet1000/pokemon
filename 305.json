@@ -8,25 +8,25 @@
 "requirement":"Level 42"}],"previousEvolutions":[{"number":"304","name":"가보리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/304.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/304.png","type":"FIRST"}],"nextEvolutions":[{"number":"306","name":"보스로라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/306.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/306.png","type":"LAST",
 "requirement":"Level 42"}],"superEvolutions":[],"baseStats":{"hp":60,"attack":90,"defense":140,"spAtk":50,"spDef":50,"speed":40,"total":430},"cards":[{"number":"110","name":"갱도라","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/305/SWSH6_EN_110.png"},{"number":"122","name":"갱도라","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/305/SWSH3_EN_122.png"},{"number":"124","name":"갱도라","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/305/SM10_EN_124.png"},{"number":"66","name":"갱도라","expansionName":"Crimson Invasion","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/305/SM4_EN_66.png"},{"number":"13","name":"Team Magma's 갱도라","expansionName":"Double Crisis","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/305/DC1_EN_13.png"},{"number":"58","name":"갱도라","expansionName":"Black & White—Plasma Blast","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/305/BW10_EN_58.png"},{"number":"79","name":"갱도라","expansionName":"Black & White—Dragons Exalted","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/305/BW6_EN_79.png"},{"number":"37","name":"갱도라","expansionName":"HS—Triumphant","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/305/HGSS4_EN_37.png"},{"number":"29","name":"갱도라","expansionName":"HS—Undaunted","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/305/HGSS3_EN_29.png"},{"number":"36","name":"갱도라","expansionName":"EX Ruby & Sapphire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/305/EX1_EN_36.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/305.mp3","moves":{
-"levelUp":[{"level":1,"category":"변화","move":"Harden","type":"Normal","power":"—","accuracy":"—"}
+"levelUp":[{"level":1,"category":"변화","move":"단단해지기","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":1,"category":"물리","move":"메탈크로우","type":"Steel","power":"50","accuracy":"95"}
 ,{"level":1,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
-,{"level":1,"category":"물리","move":"Tackle","type":"Normal","power":"40","accuracy":"100"}
-,{"level":12,"category":"변화","move":"Roar","type":"Normal","power":"—","accuracy":"—"}
-,{"level":16,"category":"물리","move":"Headbutt","type":"Normal","power":"70","accuracy":"100"}
+,{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":12,"category":"변화","move":"울부짖기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":16,"category":"물리","move":"박치기","type":"Normal","power":"70","accuracy":"100"}
 ,{"level":20,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":24,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
-,{"level":28,"category":"물리","move":"Iron Head","type":"Steel","power":"80","accuracy":"100"}
-,{"level":35,"category":"변화","move":"Metal Sound","type":"Steel","power":"—","accuracy":"85"}
-,{"level":40,"category":"물리","move":"Take Down","type":"Normal","power":"90","accuracy":"85"}
-,{"level":46,"category":"변화","move":"Autotomize","type":"Steel","power":"—","accuracy":"—"}
+,{"level":28,"category":"물리","move":"아이언헤드","type":"Steel","power":"80","accuracy":"100"}
+,{"level":35,"category":"변화","move":"금속음","type":"Steel","power":"—","accuracy":"85"}
+,{"level":40,"category":"물리","move":"돌진","type":"Normal","power":"90","accuracy":"85"}
+,{"level":46,"category":"변화","move":"바디퍼지","type":"Steel","power":"—","accuracy":"—"}
 ,{"level":52,"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"}
-,{"level":58,"category":"변화","move":"Iron Defense","type":"Steel","power":"—","accuracy":"—"}
+,{"level":58,"category":"변화","move":"철벽","type":"Steel","power":"—","accuracy":"—"}
 ,{"level":64,"category":"물리","move":"Heavy 힘껏치기","type":"Steel","power":"—","accuracy":"100"}
-,{"level":70,"category":"물리","move":"Double-Edge","type":"Normal","power":"120","accuracy":"100"}
-,{"level":76,"category":"물리","move":"Metal Burst","type":"Steel","power":"—","accuracy":"100"}]
+,{"level":70,"category":"물리","move":"이판사판태클","type":"Normal","power":"120","accuracy":"100"}
+,{"level":76,"category":"물리","move":"메탈버스트","type":"Steel","power":"—","accuracy":"100"}]
 ,"technicalMachine":[{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
-,{"technicalMachine":16,"category":"변화","move":"Screech","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
 ,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
 ,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
@@ -38,7 +38,7 @@
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
 ,{"technicalMachine":49,"category":"물리","move":"모래지옥","type":"Ground","power":"35","accuracy":"85"}
-,{"technicalMachine":54,"category":"물리","move":"Rock Blast","type":"Rock","power":"25","accuracy":"90"}
+,{"technicalMachine":54,"category":"물리","move":"락블레스트","type":"Rock","power":"25","accuracy":"90"}
 ,{"technicalMachine":65,"category":"물리","move":"섀도크루","type":"Ghost","power":"70","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
 ,{"technicalMachine":81,"category":"물리","move":"땅고르기","type":"Ground","power":"60","accuracy":"100"}
@@ -51,14 +51,14 @@
 {"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":31,"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"},
 {"technicalRecord":35,"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"},
-{"technicalRecord":39,"category":"물리","move":"Superpower","type":"Fighting","power":"120","accuracy":"100"},
-{"technicalRecord":46,"category":"변화","move":"Iron Defense","type":"Steel","power":"—","accuracy":"—"},
+{"technicalRecord":39,"category":"물리","move":"엄청난힘","type":"Fighting","power":"120","accuracy":"100"},
+{"technicalRecord":46,"category":"변화","move":"철벽","type":"Steel","power":"—","accuracy":"—"},
 {"technicalRecord":67,"category":"특수","move":"대지의힘","type":"Ground","power":"90","accuracy":"100"},
-{"technicalRecord":74,"category":"물리","move":"Iron Head","type":"Steel","power":"80","accuracy":"100"},
+{"technicalRecord":74,"category":"물리","move":"아이언헤드","type":"Steel","power":"80","accuracy":"100"},
 {"technicalRecord":75,"category":"물리","move":"스톤에지","type":"Rock","power":"100","accuracy":"80"},
 {"technicalRecord":76,"category":"변화","move":"스텔스록","type":"Rock","power":"—","accuracy":"—"},
 {"technicalRecord":79,"category":"물리","move":"Heavy 힘껏치기","type":"Steel","power":"—","accuracy":"100"},
-{"technicalRecord":99,"category":"물리","move":"Body Press","type":"Fighting","power":"80","accuracy":"100"}]
+{"technicalRecord":99,"category":"물리","move":"바디프레스","type":"Fighting","power":"80","accuracy":"100"}]
 ,"egg":[]
 ,"tutor":[]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_III"}

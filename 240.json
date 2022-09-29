@@ -9,58 +9,58 @@
 "requirement":"Level 30"},{"number":"467","name":"마그마번","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/467.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/467.png","type":"LAST",
 "requirement":"마그마부스터를 지니게 한 뒤 통신교환"}],"superEvolutions":[],"baseStats":{"hp":45,"attack":75,"defense":37,"spAtk":70,"spDef":55,"speed":83,"total":365},"cards":[{"number":"46","name":"마그비","expansionName":"Call of Legends","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/240/COL1_EN_46.png"},{"number":"41","name":"마그비","expansionName":"HS—Triumphant","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/240/HGSS4_EN_41.png"},{"number":"24","name":"마그비","expansionName":"EX Team Rocket Returns","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/240/EX7_EN_24.png"},{"number":"58","name":"마그비","expansionName":"EX Legend Maker","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/240/EX12_EN_58.png"},{"number":"88","name":"마그비","expansionName":"Diamond & Pearl—Mysterious Treasures","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/240/DP2_EN_88.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/240.mp3","moves":{
-"levelUp":[{"level":1,"category":"변화","move":"Leer","type":"Normal","power":"—","accuracy":"100"}
-,{"level":1,"category":"특수","move":"Smog","type":"Poison","power":"30","accuracy":"70"}
-,{"level":4,"category":"특수","move":"Ember","type":"Fire","power":"40","accuracy":"100"}
-,{"level":8,"category":"변화","move":"Smokescreen","type":"Normal","power":"—","accuracy":"100"}
-,{"level":12,"category":"특수","move":"Clear Smog","type":"Poison","power":"50","accuracy":"—"}
-,{"level":16,"category":"물리","move":"Flame Wheel","type":"Fire","power":"60","accuracy":"100"}
-,{"level":20,"category":"변화","move":"Confuse Ray","type":"Ghost","power":"—","accuracy":"100"}
-,{"level":24,"category":"변화","move":"Scary Face","type":"Normal","power":"—","accuracy":"100"}
-,{"level":28,"category":"물리","move":"Fire Punch","type":"Fire","power":"75","accuracy":"100"}
-,{"level":32,"category":"특수","move":"Lava Plume","type":"Fire","power":"80","accuracy":"100"}
-,{"level":36,"category":"물리","move":"Low Kick","type":"Fighting","power":"—","accuracy":"100"}
-,{"level":40,"category":"특수","move":"Flamethrower","type":"Fire","power":"90","accuracy":"100"}
+"levelUp":[{"level":1,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"특수","move":"스모그","type":"Poison","power":"30","accuracy":"70"}
+,{"level":4,"category":"특수","move":"불꽃세례","type":"Fire","power":"40","accuracy":"100"}
+,{"level":8,"category":"변화","move":"연막","type":"Normal","power":"—","accuracy":"100"}
+,{"level":12,"category":"특수","move":"클리어스모그","type":"Poison","power":"50","accuracy":"—"}
+,{"level":16,"category":"물리","move":"화염자동차","type":"Fire","power":"60","accuracy":"100"}
+,{"level":20,"category":"변화","move":"이상한빛","type":"Ghost","power":"—","accuracy":"100"}
+,{"level":24,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"}
+,{"level":28,"category":"물리","move":"불꽃펀치","type":"Fire","power":"75","accuracy":"100"}
+,{"level":32,"category":"특수","move":"분연","type":"Fire","power":"80","accuracy":"100"}
+,{"level":36,"category":"물리","move":"안다리걸기","type":"Fighting","power":"—","accuracy":"100"}
+,{"level":40,"category":"특수","move":"화염방사","type":"Fire","power":"90","accuracy":"100"}
 ,{"level":44,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
-,{"level":48,"category":"특수","move":"Fire Blast","type":"Fire","power":"110","accuracy":"85"}]
+,{"level":48,"category":"특수","move":"불대문자","type":"Fire","power":"110","accuracy":"85"}]
 ,"technicalMachine":[{"technicalMachine":0,"category":"물리","move":"메가톤펀치","type":"Normal","power":"80","accuracy":"85"}
 ,{"technicalMachine":1,"category":"물리","move":"메가톤킥","type":"Normal","power":"120","accuracy":"75"}
-,{"technicalMachine":3,"category":"물리","move":"Fire Punch","type":"Fire","power":"75","accuracy":"100"}
+,{"technicalMachine":3,"category":"물리","move":"불꽃펀치","type":"Fire","power":"75","accuracy":"100"}
 ,{"technicalMachine":5,"category":"물리","move":"번개펀치","type":"Electric","power":"75","accuracy":"100"}
-,{"technicalMachine":13,"category":"특수","move":"Fire Spin","type":"Fire","power":"35","accuracy":"85"}
-,{"technicalMachine":16,"category":"변화","move":"Screech","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":13,"category":"특수","move":"회오리불꽃","type":"Fire","power":"35","accuracy":"85"}
+,{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
 ,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
 ,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
 ,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
-,{"technicalMachine":26,"category":"변화","move":"Scary Face","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":26,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
 ,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
-,{"technicalMachine":38,"category":"변화","move":"Will-O-Wisp","type":"Fire","power":"—","accuracy":"85"}
+,{"technicalMachine":38,"category":"변화","move":"도깨비불","type":"Fire","power":"—","accuracy":"85"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
 ,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
-,{"technicalMachine":60,"category":"변화","move":"Power Swap","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":60,"category":"변화","move":"파워스웹","type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}],"technicalRecords":[
 {"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
-{"technicalRecord":2,"category":"특수","move":"Flamethrower","type":"Fire","power":"90","accuracy":"100"},
-{"technicalRecord":7,"category":"물리","move":"Low Kick","type":"Fighting","power":"—","accuracy":"100"},
-{"technicalRecord":11,"category":"특수","move":"Psychic","type":"Psychic","power":"90","accuracy":"100"},
-{"technicalRecord":13,"category":"변화","move":"Focus Energy","type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":15,"category":"특수","move":"Fire Blast","type":"Fire","power":"110","accuracy":"85"},
+{"technicalRecord":2,"category":"특수","move":"화염방사","type":"Fire","power":"90","accuracy":"100"},
+{"technicalRecord":7,"category":"물리","move":"안다리걸기","type":"Fighting","power":"—","accuracy":"100"},
+{"technicalRecord":11,"category":"특수","move":"사이코키네시스","type":"Psychic","power":"90","accuracy":"100"},
+{"technicalRecord":13,"category":"변화","move":"기충전","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":15,"category":"특수","move":"불대문자","type":"Fire","power":"110","accuracy":"85"},
 {"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":31,"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"},
 {"technicalRecord":35,"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"},
-{"technicalRecord":36,"category":"특수","move":"Heat Wave","type":"Fire","power":"95","accuracy":"90"},
-{"technicalRecord":43,"category":"특수","move":"Overheat","type":"Fire","power":"130","accuracy":"90"},
-{"technicalRecord":55,"category":"물리","move":"Flare Blitz","type":"Fire","power":"120","accuracy":"100"}]
-,"egg":[{"category":"특수","move":"Belch","type":"Poison","power":"120","accuracy":"90"}
-,{"category":"물리","move":"Cross Chop","type":"Fighting","power":"100","accuracy":"80"}
-,{"category":"물리","move":"Dynamic Punch","type":"Fighting","power":"100","accuracy":"50"}
-,{"category":"물리","move":"Focus Punch","type":"Fighting","power":"150","accuracy":"100"}
-,{"category":"물리","move":"Mach Punch","type":"Fighting","power":"40","accuracy":"100"}]
+{"technicalRecord":36,"category":"특수","move":"열풍","type":"Fire","power":"95","accuracy":"90"},
+{"technicalRecord":43,"category":"특수","move":"오버히트","type":"Fire","power":"130","accuracy":"90"},
+{"technicalRecord":55,"category":"물리","move":"플레어드라이브","type":"Fire","power":"120","accuracy":"100"}]
+,"egg":[{"category":"특수","move":"트림","type":"Poison","power":"120","accuracy":"90"}
+,{"category":"물리","move":"크로스촙","type":"Fighting","power":"100","accuracy":"80"}
+,{"category":"물리","move":"폭발펀치","type":"Fighting","power":"100","accuracy":"50"}
+,{"category":"물리","move":"힘껏펀치","type":"Fighting","power":"150","accuracy":"100"}
+,{"category":"물리","move":"마하펀치","type":"Fighting","power":"40","accuracy":"100"}]
 ,"tutor":[]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_II"}
