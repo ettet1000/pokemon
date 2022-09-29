@@ -11,10 +11,10 @@
 ,{"level":1,"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"}
 ,{"level":1,"category":"물리","move":"할퀴기","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":12,"category":"물리","move":"마구할퀴기","type":"Normal","power":"18","accuracy":"80"}
-,{"level":16,"category":"변화","move":"Torment","type":"Dark","power":"—","accuracy":"100"}
-,{"level":23,"category":"물리","move":"Assurance","type":"Dark","power":"60","accuracy":"100"}
+,{"level":16,"category":"변화","move":"트집","type":"Dark","power":"—","accuracy":"100"}
+,{"level":23,"category":"물리","move":"승부굳히기","type":"Dark","power":"60","accuracy":"100"}
 ,{"level":28,"category":"변화","move":"손톱갈기","type":"Dark","power":"—","accuracy":"—"}
-,{"level":34,"category":"물리","move":"Sucker Punch","type":"Dark","power":"70","accuracy":"100"}
+,{"level":34,"category":"물리","move":"기습","type":"Dark","power":"70","accuracy":"100"}
 ,{"level":40,"category":"변화","move":"나쁜음모","type":"Dark","power":"—","accuracy":"—"}
 ,{"level":46,"category":"물리","move":"깜짝베기","type":"Dark","power":"70","accuracy":"100"}
 ,{"level":52,"category":"물리","move":"치근거리기","type":"Fairy","power":"90","accuracy":"90"}]
@@ -22,7 +22,7 @@
 ,{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
 ,{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
 ,{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"}
-,{"technicalMachine":16,"category":"변화","move":"Screech","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
 ,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
 ,{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
 ,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
@@ -33,38 +33,38 @@
 ,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
 ,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
 ,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
-,{"technicalMachine":47,"category":"변화","move":"Fake Tears","type":"Dark","power":"—","accuracy":"100"}
-,{"technicalMachine":56,"category":"물리","move":"U-turn","type":"Bug","power":"70","accuracy":"100"}
-,{"technicalMachine":57,"category":"물리","move":"Payback","type":"Dark","power":"50","accuracy":"100"}
-,{"technicalMachine":58,"category":"물리","move":"Assurance","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":47,"category":"변화","move":"거짓울음","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":56,"category":"물리","move":"유턴","type":"Bug","power":"70","accuracy":"100"}
+,{"technicalMachine":57,"category":"물리","move":"보복","type":"Dark","power":"50","accuracy":"100"}
+,{"technicalMachine":58,"category":"물리","move":"승부굳히기","type":"Dark","power":"60","accuracy":"100"}
 ,{"technicalMachine":65,"category":"물리","move":"섀도크루","type":"Ghost","power":"70","accuracy":"100"}
-,{"technicalMachine":69,"category":"물리","move":"Psycho Cut","type":"Psychic","power":"70","accuracy":"100"}
+,{"technicalMachine":69,"category":"물리","move":"사이코커터","type":"Psychic","power":"70","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":85,"category":"특수","move":"Snarl","type":"Dark","power":"55","accuracy":"95"}],"technicalRecords":[
+,{"technicalMachine":85,"category":"특수","move":"바크아웃","type":"Dark","power":"55","accuracy":"95"}],"technicalRecords":[
 {"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
-{"technicalRecord":29,"category":"변화","move":"Baton Pass","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":29,"category":"변화","move":"바톤터치","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":30,"category":"변화","move":"앵콜","type":"Normal","power":"—","accuracy":"100"},
 {"technicalRecord":31,"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"},
-{"technicalRecord":33,"category":"특수","move":"Shadow Ball","type":"Ghost","power":"80","accuracy":"100"},
-{"technicalRecord":37,"category":"변화","move":"Taunt","type":"Dark","power":"—","accuracy":"100"},
-{"technicalRecord":38,"category":"변화","move":"Trick","type":"Psychic","power":"—","accuracy":"100"},
-{"technicalRecord":42,"category":"특수","move":"Hyper Voice","type":"Normal","power":"90","accuracy":"100"},
-{"technicalRecord":58,"category":"특수","move":"Dark Pulse","type":"Dark","power":"80","accuracy":"100"},
-{"technicalRecord":59,"category":"물리","move":"Seed Bomb","type":"Grass","power":"80","accuracy":"100"},
+{"technicalRecord":33,"category":"특수","move":"섀도볼","type":"Ghost","power":"80","accuracy":"100"},
+{"technicalRecord":37,"category":"변화","move":"도발","type":"Dark","power":"—","accuracy":"100"},
+{"technicalRecord":38,"category":"변화","move":"트릭","type":"Psychic","power":"—","accuracy":"100"},
+{"technicalRecord":42,"category":"특수","move":"하이퍼보이스","type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":58,"category":"특수","move":"악의파동","type":"Dark","power":"80","accuracy":"100"},
+{"technicalRecord":59,"category":"물리","move":"씨폭탄","type":"Grass","power":"80","accuracy":"100"},
 {"technicalRecord":68,"category":"변화","move":"나쁜음모","type":"Dark","power":"—","accuracy":"—"},
-{"technicalRecord":73,"category":"물리","move":"Gunk Shot","type":"Poison","power":"120","accuracy":"80"},
+{"technicalRecord":73,"category":"물리","move":"더스트슈트","type":"Poison","power":"120","accuracy":"80"},
 {"technicalRecord":77,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"},
-{"technicalRecord":81,"category":"물리","move":"Foul Play","type":"Dark","power":"95","accuracy":"100"},
+{"technicalRecord":81,"category":"물리","move":"속임수","type":"Dark","power":"95","accuracy":"100"},
 {"technicalRecord":90,"category":"물리","move":"치근거리기","type":"Fairy","power":"90","accuracy":"90"},
 {"technicalRecord":95,"category":"물리","move":"지옥찌르기","type":"Dark","power":"80","accuracy":"100"}]
-,"egg":[{"category":"변화","move":"Copycat","type":"Normal","power":"—","accuracy":"—"}
-,{"category":"물리","move":"Covet","type":"Normal","power":"60","accuracy":"100"}
+,"egg":[{"category":"변화","move":"흉내쟁이","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"탐내다","type":"Normal","power":"60","accuracy":"100"}
 ,{"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
 ,{"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}
-,{"category":"변화","move":"Yawn","type":"Normal","power":"—","accuracy":"—"}]
+,{"category":"변화","move":"하품","type":"Normal","power":"—","accuracy":"—"}]
 ,"tutor":[{"category":"특수","move":"Burning Jealousy","type":"Fire","power":"70","accuracy":"100"}
 ,{"category":"물리","move":"Lash Out","type":"Dark","power":"75","accuracy":"100"}
 ,{"category":"물리","move":"Skitter Smack","type":"Bug","power":"70","accuracy":"90"}]
