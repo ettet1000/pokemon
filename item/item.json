@@ -723,7 +723,7 @@
       "name": "드래곤 Z",
       "imageUrl": "https://img.pokemondb.net/sprites/items/dragonium-z.png",
       "category": "아이템 보관",
-      "Effect": "Devastating Drake, Dragon type Z-Move를 사용할 수 있습니다."
+      "effect": "Devastating Drake, Dragon type Z-Move를 사용할 수 있습니다."
     },
     {
       "name": "드레드 플레이트",
@@ -1185,7 +1185,7 @@
       "name": "골든 파인 베리",
       "imageUrl": "https://img.pokemondb.net/sprites/items/golden-pinap-berry.png",
       "category": "딸기",
-      "Effect": "Pokemon Let's Go에서 포켓몬을 잡았을 때 아이템을 얻을 확률이 대폭 증가합니다."
+      "effect": "Pokemon Let's Go에서 포켓몬을 잡았을 때 아이템을 얻을 확률이 대폭 증가합니다."
     },
     {
       "name": "골든 라즈 베리",
@@ -1857,7 +1857,7 @@
       "name": "마초 중괄호",
       "imageUrl": "https://img.pokemondb.net/sprites/items/macho-brace.png",
       "category": "아이템 보관",
-      "Effect": "포켓몬이 들고 있는 아이템. 강하고 성장을 촉진하지만 속도를 낮추는 뻣뻣하고 무거운 버팀대입니다."
+      "effect": "포켓몬이 들고 있는 아이템. 강하고 성장을 촉진하지만 속도를 낮추는 뻣뻣하고 무거운 버팀대입니다."
     },
     {
       "name": "Magmarizer",
@@ -2919,7 +2919,7 @@
       "name": "로토 특급 포인트",
       "imageUrl": "https://img.pokemondb.net/sprites/items/roto-exp-points.png",
       "category": "전투 아이템",
-      "Effect": "배틀 후 포켓몬이 받는 경험치를 약간 증가시킵니다."
+      "effect": "배틀 후 포켓몬이 받는 경험치를 약간 증가시킵니다."
     },
     {
       "name": "로토 우정",
@@ -3123,7 +3123,7 @@
       "name": "실버 파인애플 베리",
       "imageUrl": "https://img.pokemondb.net/sprites/items/silver-pinap-berry.png",
       "카테고리 ": "딸기",
-      "Effect": "Pokemon Let's Go에서 포켓몬을 잡았을 때 아이템을 얻을 확률이 크게 증가합니다."
+      "effect": "Pokemon Let's Go에서 포켓몬을 잡았을 때 아이템을 얻을 확률이 크게 증가합니다."
     },
     {
       "name": "은 가루",
@@ -3639,7 +3639,7 @@
       "name": "TM27",
       "imageUrl": "https://img.pokemondb.net/sprites/items/tm-normal.png",
       "category": "기계",
-      "Effect": "Fissure/Return/Toxic 이동을 가르칩니다."
+      "effect": "Fissure/Return/Toxic 이동을 가르칩니다."
     },
     {
       "name": "TM28",
@@ -4077,7 +4077,7 @@
       "name": "TMV 패스",
       "imageUrl": "https://img.pokemondb.net/sprites/items/tmv-pass.png",
       "category": "일반 항목",
-      "Effect": "Lumiose City와 Kiloude City 사이의 TMV를 언제든지 이용할 수 있는 정기권입니다."
+      "effect": "Lumiose City와 Kiloude City 사이의 TMV를 언제든지 이용할 수 있는 정기권입니다."
     },
     {
       "name": "터프 캔디",
@@ -4827,7 +4827,7 @@
       "name": "화이트 허브",
       "imageUrl": "https://img.pokemondb.net/sprites/items/white-herb.png",
       "category": "아이템 보관",
-      "Effect": "포켓몬이 들고 있는 아이템. 전투에서 낮아진 스탯을 회복한다. 한 번만 사용할 수 있다."
+      "effect": "포켓몬이 들고 있는 아이템. 전투에서 낮아진 스탯을 회복한다. 한 번만 사용할 수 있다."
     },
     {
       "name": "광각 렌즈",
