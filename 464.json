@@ -94,7 +94,7 @@
 {"technicalRecord":74,"category":"물리","move":"아이언헤드","type":"Steel","power":"80","accuracy":"100"},
 {"technicalRecord":75,"category":"물리","move":"스톤에지","type":"Rock","power":"100","accuracy":"80"},
 {"technicalRecord":76,"category":"변화","move":"스텔스록","type":"Rock","power":"—","accuracy":"—"},
-{"technicalRecord":79,"category":"물리","move":"Heavy 힘껏치기","type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":79,"category":"물리","move":"헤비봄버","type":"Steel","power":"—","accuracy":"100"},
 {"technicalRecord":87,"category":"물리","move":"드릴라이너","type":"Ground","power":"80","accuracy":"95"},
 {"technicalRecord":88,"category":"물리","move":"히트스탬프","type":"Fire","power":"—","accuracy":"100"},
 {"technicalRecord":94,"category":"물리","move":"10만마력","type":"Ground","power":"95","accuracy":"95"},

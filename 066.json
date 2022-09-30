@@ -67,7 +67,7 @@
 {"technicalRecord":53,"category":"물리","move":"인파이트","type":"Fighting","power":"120","accuracy":"100"},
 {"technicalRecord":57,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"},
 {"technicalRecord":64,"category":"특수","move":"기합구슬","type":"Fighting","power":"120","accuracy":"70"},
-{"technicalRecord":79,"category":"물리","move":"Heavy 힘껏치기","type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":79,"category":"물리","move":"헤비봄버","type":"Steel","power":"—","accuracy":"100"},
 {"technicalRecord":85,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}]
 ,"egg":[{"category":"물리","move":"불릿펀치","type":"Steel","power":"40","accuracy":"100"}
 ,{"category":"물리","move":"카운터","type":"Fighting","power":"—","accuracy":"100"}

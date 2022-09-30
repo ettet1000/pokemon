@@ -14,7 +14,7 @@
 ,{"level":1,"category":"특수","move":"물대포","type":"Water","power":"40","accuracy":"100"}
 ,{"level":15,"category":"변화","move":"흰안개","type":"Ice","power":"—","accuracy":"—"}
 ,{"level":18,"category":"특수","move":"물의파동","type":"Water","power":"60","accuracy":"100"}
-,{"level":21,"category":"물리","move":"Heavy 힘껏치기","type":"Steel","power":"—","accuracy":"100"}
+,{"level":21,"category":"물리","move":"헤비봄버","type":"Steel","power":"—","accuracy":"100"}
 ,{"level":24,"category":"특수","move":"소금물","type":"Water","power":"65","accuracy":"100"}
 ,{"level":27,"category":"특수","move":"바다회오리","type":"Water","power":"35","accuracy":"85"}
 ,{"level":30,"category":"물리","move":"다이빙","type":"Water","power":"80","accuracy":"100"}
@@ -58,7 +58,7 @@
 {"technicalRecord":42,"category":"특수","move":"하이퍼보이스","type":"Normal","power":"90","accuracy":"100"},
 {"technicalRecord":69,"category":"물리","move":"사념의박치기","type":"Psychic","power":"80","accuracy":"90"},
 {"technicalRecord":74,"category":"물리","move":"아이언헤드","type":"Steel","power":"80","accuracy":"100"},
-{"technicalRecord":79,"category":"물리","move":"Heavy 힘껏치기","type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":79,"category":"물리","move":"헤비봄버","type":"Steel","power":"—","accuracy":"100"},
 {"technicalRecord":84,"category":"특수","move":"열탕","type":"Water","power":"80","accuracy":"100"},
 {"technicalRecord":98,"category":"물리","move":"아쿠아브레이크","type":"Water","power":"85","accuracy":"100"},
 {"technicalRecord":99,"category":"물리","move":"바디프레스","type":"Fighting","power":"80","accuracy":"100"}]

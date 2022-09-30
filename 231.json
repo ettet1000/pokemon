@@ -49,7 +49,7 @@
 ,{"category":"물리","move":"땅가르기","type":"Ground","power":"—","accuracy":"30"}
 ,{"category":"변화","move":"기충전","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"양날박치기","type":"Rock","power":"150","accuracy":"80"}
-,{"category":"물리","move":"Heavy 힘껏치기","type":"Steel","power":"—","accuracy":"100"}
+,{"category":"물리","move":"헤비봄버","type":"Steel","power":"—","accuracy":"100"}
 ,{"category":"물리","move":"10만마력","type":"Ground","power":"95","accuracy":"95"}
 ,{"category":"물리","move":"얼음뭉치","type":"Ice","power":"40","accuracy":"100"}
 ,{"category":"특수","move":"진흙뿌리기","type":"Ground","power":"20","accuracy":"100"}

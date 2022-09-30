@@ -67,7 +67,7 @@
 ,{"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"성장","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"특수","move":"열풍","type":"Fire","power":"95","accuracy":"90"}
-,{"category":"물리","move":"Heavy 힘껏치기","type":"Steel","power":"—","accuracy":"100"}
+,{"category":"물리","move":"헤비봄버","type":"Steel","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"멀리짖음","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"아이언헤드","type":"Steel","power":"80","accuracy":"100"}
 ,{"category":"특수","move":"진흙폭탄","type":"Ground","power":"65","accuracy":"85"}

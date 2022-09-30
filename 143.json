@@ -27,7 +27,7 @@
 ,{"level":20,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
 ,{"level":24,"category":"물리","move":"깨물어부수기","type":"Dark","power":"80","accuracy":"100"}
 ,{"level":28,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"}
-,{"level":32,"category":"물리","move":"Heavy 힘껏치기","type":"Steel","power":"—","accuracy":"100"}
+,{"level":32,"category":"물리","move":"헤비봄버","type":"Steel","power":"—","accuracy":"100"}
 ,{"level":36,"category":"변화","move":"망각술","type":"Psychic","power":"—","accuracy":"—"}
 ,{"level":40,"category":"물리","move":"10만마력","type":"Ground","power":"95","accuracy":"95"}
 ,{"level":44,"category":"물리","move":"암해머","type":"Fighting","power":"100","accuracy":"90"}
@@ -92,7 +92,7 @@
 {"technicalRecord":69,"category":"물리","move":"사념의박치기","type":"Psychic","power":"80","accuracy":"90"},
 {"technicalRecord":73,"category":"물리","move":"더스트슈트","type":"Poison","power":"120","accuracy":"80"},
 {"technicalRecord":74,"category":"물리","move":"아이언헤드","type":"Steel","power":"80","accuracy":"100"},
-{"technicalRecord":79,"category":"물리","move":"Heavy 힘껏치기","type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":79,"category":"물리","move":"헤비봄버","type":"Steel","power":"—","accuracy":"100"},
 {"technicalRecord":85,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"},
 {"technicalRecord":86,"category":"물리","move":"와일드볼트","type":"Electric","power":"90","accuracy":"100"},
 {"technicalRecord":88,"category":"물리","move":"히트스탬프","type":"Fire","power":"—","accuracy":"100"},

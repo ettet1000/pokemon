@@ -76,7 +76,7 @@
 ,{"category":"물리","move":"탐내다","type":"Normal","power":"60","accuracy":"100"}
 ,{"category":"변화","move":"저주","type":"Ghost","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"죽기살기","type":"Normal","power":"—","accuracy":"100"}
-,{"category":"물리","move":"Heavy 힘껏치기","type":"Steel","power":"—","accuracy":"100"}
+,{"category":"물리","move":"헤비봄버","type":"Steel","power":"—","accuracy":"100"}
 ,{"category":"물리","move":"매그니튜드","type":"Ground","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"기습","type":"Dark","power":"70","accuracy":"100"}

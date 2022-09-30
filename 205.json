@@ -8,7 +8,7 @@
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/205.mp3","moves":{
 "levelUp":[{"level":1,"category":"변화","move":"바디퍼지","type":"Steel","power":"—","accuracy":"—"}
 ,{"level":1,"category":"물리","move":"벌레먹음","type":"Bug","power":"60","accuracy":"100"}
-,{"level":1,"category":"물리","move":"Heavy 힘껏치기","type":"Steel","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"헤비봄버","type":"Steel","power":"—","accuracy":"100"}
 ,{"level":1,"category":"변화","move":"전자부유","type":"Electric","power":"—","accuracy":"—"}
 ,{"level":1,"category":"특수","move":"미러숏","type":"Steel","power":"65","accuracy":"85"}
 ,{"level":1,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
@@ -30,7 +30,7 @@
 ,{"level":50,"category":"물리","move":"이판사판태클","type":"Normal","power":"120","accuracy":"100"}
 ,{"level":56,"category":"변화","move":"전자부유","type":"Electric","power":"—","accuracy":"—"}
 ,{"level":60,"category":"특수","move":"전자포","type":"Electric","power":"120","accuracy":"50"}
-,{"level":64,"category":"물리","move":"Heavy 힘껏치기","type":"Steel","power":"—","accuracy":"100"}]
+,{"level":64,"category":"물리","move":"헤비봄버","type":"Steel","power":"—","accuracy":"100"}]
 ,"technicalMachine":[{"technicalMachine":6,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
 ,{"technicalMachine":9,"category":"특수","move":"베놈쇼크","type":"Poison","power":"65","accuracy":"100"}
 ,{"technicalMachine":10,"category":"특수","move":"잠재파워","type":"Normal","power":"60","accuracy":"100"}

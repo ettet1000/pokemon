@@ -25,7 +25,7 @@
 ,{"level":42,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":46,"category":"물리","move":"인파이트","type":"Fighting","power":"120","accuracy":"100"}
 ,{"level":50,"category":"물리","move":"기사회생","type":"Fighting","power":"—","accuracy":"100"}
-,{"level":54,"category":"물리","move":"Heavy 힘껏치기","type":"Steel","power":"—","accuracy":"100"}]
+,{"level":54,"category":"물리","move":"헤비봄버","type":"Steel","power":"—","accuracy":"100"}]
 ,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}
 ,{"technicalMachine":6,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
 ,{"technicalMachine":8,"category":"변화","move":"벌크업","type":"Fighting","power":"—","accuracy":"—"}

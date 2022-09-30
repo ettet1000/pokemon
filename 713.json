@@ -54,7 +54,7 @@
 ,"type":"Steel","power":"80","accuracy":"100"},
 {"technicalRecord":75,"category":"물리","move":"스톤에지"
 ,"type":"Rock","power":"100","accuracy":"80"},
-{"technicalRecord":79,"category":"물리","move":"Heavy 힘껏치기"
+{"technicalRecord":79,"category":"물리","move":"헤비봄버"
 ,"type":"Steel","power":"—","accuracy":"100"},
 {"technicalRecord":94,"category":"물리","move":"10만마력"
 ,"type":"Ground","power":"95","accuracy":"95"},

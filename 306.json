@@ -22,7 +22,7 @@
 ,{"level":48,"category":"변화","move":"바디퍼지","type":"Steel","power":"—","accuracy":"—"}
 ,{"level":56,"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"}
 ,{"level":64,"category":"변화","move":"철벽","type":"Steel","power":"—","accuracy":"—"}
-,{"level":72,"category":"물리","move":"Heavy 힘껏치기","type":"Steel","power":"—","accuracy":"100"}
+,{"level":72,"category":"물리","move":"헤비봄버","type":"Steel","power":"—","accuracy":"100"}
 ,{"level":80,"category":"물리","move":"이판사판태클","type":"Normal","power":"120","accuracy":"100"}
 ,{"level":88,"category":"물리","move":"메탈버스트","type":"Steel","power":"—","accuracy":"100"}]
 ,"technicalMachine":[{"technicalMachine":0,"category":"물리","move":"메가톤펀치","type":"Normal","power":"80","accuracy":"85"}
@@ -92,7 +92,7 @@
 {"technicalRecord":74,"category":"물리","move":"아이언헤드","type":"Steel","power":"80","accuracy":"100"},
 {"technicalRecord":75,"category":"물리","move":"스톤에지","type":"Rock","power":"100","accuracy":"80"},
 {"technicalRecord":76,"category":"변화","move":"스텔스록","type":"Rock","power":"—","accuracy":"—"},
-{"technicalRecord":79,"category":"물리","move":"Heavy 힘껏치기","type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":79,"category":"물리","move":"헤비봄버","type":"Steel","power":"—","accuracy":"100"},
 {"technicalRecord":94,"category":"물리","move":"10만마력","type":"Ground","power":"95","accuracy":"95"},
 {"technicalRecord":99,"category":"물리","move":"바디프레스","type":"Fighting","power":"80","accuracy":"100"}]
 ,"egg":[]

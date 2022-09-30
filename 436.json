@@ -16,7 +16,7 @@
 ,{"level":20,"category":"변화","move":"최면술","type":"Psychic","power":"—","accuracy":"60"}
 ,{"level":24,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":28,"category":"특수","move":"신통력","type":"Psychic","power":"80","accuracy":"100"}
-,{"level":32,"category":"물리","move":"Heavy 힘껏치기","type":"Steel","power":"—","accuracy":"100"}
+,{"level":32,"category":"물리","move":"헤비봄버","type":"Steel","power":"—","accuracy":"100"}
 ,{"level":36,"category":"변화","move":"철벽","type":"Steel","power":"—","accuracy":"—"}
 ,{"level":40,"category":"변화","move":"금속음","type":"Steel","power":"—","accuracy":"85"}
 ,{"level":44,"category":"특수","move":"미래예지","type":"Psychic","power":"120","accuracy":"100"}]
@@ -59,7 +59,7 @@
 {"technicalRecord":70,"category":"특수","move":"러스터캐논","type":"Steel","power":"80","accuracy":"100"},
 {"technicalRecord":76,"category":"변화","move":"스텔스록","type":"Rock","power":"—","accuracy":"—"},
 {"technicalRecord":77,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"},
-{"technicalRecord":79,"category":"물리","move":"Heavy 힘껏치기","type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":79,"category":"물리","move":"헤비봄버","type":"Steel","power":"—","accuracy":"100"},
 {"technicalRecord":83,"category":"변화","move":"사이드체인지","type":"Psychic","power":"—","accuracy":"—"}]
 ,"egg":[]
 ,"tutor":[]
