@@ -731,11 +731,6 @@
 "effect":"If the holder is hit by an attack, it will switch with another Pokémon in your party."
 },
 {
-"name":"Eject Pack",
-"category":"Hold items",
-"effect":"The Pokémon switches out if its stats are lowered."
-},
-{
 "name":"Electirizer",
 "imageUrl":"https://pokedex.alansantos.dev/assets/items/electirizer.png",
 "category":"General items",
@@ -2266,11 +2261,6 @@
 "effect":"It slightly raises the maximum PP of a selected move that has been learned by the target Pokémon."
 },
 {
-"name":"Precooked Burger",
-"category":"General items",
-"effect":"One of the many ingredients that can be used for cooking at your camp. If you’re unsure about what to cook, you can’t go wrong with some burger."
-},
-{
 "name":"Premier Ball",
 "imageUrl":"https://pokedex.alansantos.dev/assets/items/premier-ball.png",
 "category":"Pokeballs",
@@ -2401,11 +2391,6 @@
 "imageUrl":"https://pokedex.alansantos.dev/assets/items/quick-powder.png",
 "category":"Hold items",
 "effect":"Increases Speed when held by Ditto."
-},
-{
-"name":"Quiet Mint",
-"category":"Battle items",
-"effect":"Changes the Pokémon's stats to match the Quiet nature."
 },
 {
 "name":"Rabuta Berry",
