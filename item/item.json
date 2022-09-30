@@ -3122,7 +3122,7 @@
     {
       "name": "실버 파인애플 베리",
       "imageUrl": "https://img.pokemondb.net/sprites/items/silver-pinap-berry.png",
-      "카테고리 ": "딸기",
+      "category": "딸기",
       "effect": "Pokemon Let's Go에서 포켓몬을 잡았을 때 아이템을 얻을 확률이 크게 증가합니다."
     },
     {
