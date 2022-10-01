@@ -2005,7 +2005,7 @@
     },
     {
       "name": "만병통치제",
-      "imageUrl": "https://img.pokemondb.net/s.png",
+      "imageUrl": "https://img.pokemondb.net/sprites/items/full-heal.png",
       "category": "의학",
       "effect": "모든 상태이상을 회복한다. (기절 제외)"
     },
