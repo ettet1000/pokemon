@@ -2678,7 +2678,7 @@
     {
       "name": "은빛가루",
       "imageUrl": "https://img.pokemondb.net/sprites/items/silver-pinap-berry.png",
-      "카테고리 ": "딸기",
+      "category": "딸기",
       "effect": "포켓몬에게 이 도구를 지니게 하면 벌레 기술의 위력이 20% 상승한다."
     },
     {
