@@ -9,7 +9,7 @@
       "name": "스킬콜",
       "imageUrl": "https://img.pokemondb.net/sprites/items/ability-urge.png",
       "category": "전투 아이템",
-      "effect": "일반적인 특성을 가진 포켓몬에게 사용하면 희귀한 특성으로 바꿀 수 있는 패치."
+      "effect": "미라클슈터. 전투에서 사용하면 이 아이템은 특정 능력을 즉시 활성화합니다. 모든 능력이 이를 통해 활성화되는 것은 아니며 전투에 참가할 때 활성화되는 능력만 활성화됩니다. 비용은 3포인트입니다."
     },
     {
       "name": "눈설왕나이트",
@@ -147,7 +147,7 @@
       "name": "향기버섯",
       "imageUrl": "https://img.pokemondb.net/sprites/items/balm-mushroom.png",
       "category": "일반 항목",
-      "effect": "좋은 향기를 풍기는 희귀 버섯. 미치광이가 비싼 값에 살 것입니다."
+      "effect": "좋은 향기를 풍기는 희귀 버섯. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "다크펫나이트",
@@ -177,7 +177,7 @@
       "name": "루베열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/belue-berry.png",
       "category": "딸기",
-      "effect": "우노바 지역에서 매우 희귀한 베리. 미치광이가 비싼 값에 사게 될 것입니다."
+      "effect": "지니게 한 채 자연의은혜를 사용하면 100 위력(5세대까지는 80)의 전기 타입 기술이 나간다."
     },
     {
       "name": "나무열매쥬스",
@@ -201,7 +201,7 @@
       "name": "큰금구슬",
       "imageUrl": "https://img.pokemondb.net/sprites/items/big-nugget.png",
       "category": "일반 항목",
-      "effect": "광택이 나는 큰 순금 덩어리. 미치광이가 비싼 값에 살 것입니다."
+      "effect": "광택이 나는 큰 순금 덩어리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "큰진주",
@@ -237,7 +237,7 @@
       "name": "검정비드로",
       "imageUrl": "https://img.pokemondb.net/sprites/items/black-flute.png",
       "category": "일반 항목",
-      "effect": "검은 유리로 만든 장난감 피리. 미치광이가 비싼 값에 살 것입니다."
+      "effect": "검은 유리로 만든 장난감 피리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "검은안경",
@@ -273,7 +273,7 @@
       "name": "파랑비드로",
       "imageUrl": "https://img.pokemondb.net/sprites/items/blue-flute.png",
       "category": "일반 항목",
-      "effect": "파란 유리로 만든 장난감 피리. 미치광이가 비싼 값에 살 것입니다."
+      "effect": "파란 유리로 만든 장난감 피리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "파랑밴드",
@@ -291,7 +291,7 @@
       "name": "블리열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/bluk-berry.png",
       "category": "딸기",
-      "effect": "우노바 지역에서 매우 희귀한 베리. 미치광이가 비싼 값에 사게 될 것입니다."
+      "effect": "우노바 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "은왕관",
@@ -306,7 +306,7 @@
       "effect": "상대의 정확도를 낮춥니다."
     },
     {
-      "name": "bugge",
+      "name": "벌레주얼",
       "imageUrl": "https://img.pokemondb.net/sprites/items/bug-gem.png",
       "category": "아이템 보관",
       "effect": "벌레형 기술의 위력을 한 번만 증가시킵니다."
@@ -339,7 +339,7 @@
       "name": "calciu",
       "imageUrl": "https://img.pokemondb.net/sprites/items/calcium.png",
       "category": "의학",
-      "effect": "특수 공격 EV가 10 증가합니다."
+      "effect": "특수 공격 노력치가 10 증가합니다."
     },
     {
       "name": "폭타나이트",
@@ -351,7 +351,7 @@
       "name": "알칼로이드",
       "imageUrl": "https://img.pokemondb.net/sprites/items/carbos.png",
       "category": "의학",
-      "effect": "속도 EV가 10 증가합니다."
+      "effect": "속도 노력치가 10 증가합니다."
     },
     {
       "name": "구름아이스",
@@ -465,7 +465,7 @@
       "name": "정신력날개",
       "imageUrl": "https://img.pokemondb.net/sprites/items/clever-wing.png",
       "category": "의학",
-      "effect": "특수방어 EV가 1 증가합니다."
+      "effect": "특수방어 노력치가 1 증가합니다."
     },
     {
       "name": "바코열매",
@@ -489,13 +489,13 @@
       "name": "혜성조각",
       "imageUrl": "https://img.pokemondb.net/sprites/items/comet-shard.png",
       "category": "일반 항목",
-      "effect": "혜성이 접근했을 때 땅에 떨어진 파편. 미치광이가 비싼 값에 살 것입니다."
+      "effect": "혜성이 접근했을 때 땅에 떨어진 파편. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "수숙열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/cornn-berry.png",
       "category": "딸기",
-      "effect": "우노바 지역에서 매우 희귀한 베리. 미치광이가 비싼 값에 사게 될 것입니다."
+      "effect": "우노바 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "마음의사탕",
@@ -531,7 +531,7 @@
       "name": "축축이비료",
       "imageUrl": "https://img.pokemondb.net/sprites/items/damp-mulch.png",
       "category": "일반 항목",
-      "effect": "열매가 자라는 지역의 부드러운 토양에 살포하는 비료. 미치광이가 비싼 값에 살 것입니다."
+      "effect": "열매가 자라는 지역의 부드러운 토양에 살포하는 비료. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "축축한바위",
@@ -705,7 +705,7 @@
       "name": "두리열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/durin-berry.png",
       "category": "딸기",
-      "effect": "우노바 지역에서 매우 희귀한 베리. 미치광이가 비싼 값에 사게 될 것입니다."
+      "effect": "우노바 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "다크볼",
@@ -741,7 +741,7 @@
       "name": "에레키부스터",
       "imageUrl": "https://img.pokemondb.net/sprites/items/electirizer.png",
       "category": "일반 항목",
-      "effect": "아이템을 들고 거래하면 Electabuzz가 진화합니다."
+      "effect": "에레브에게 지니게 한뒤 통신교환을 하면 에레키블으로 진화한다."
     },
     {
       "name": "전기주얼",
@@ -1023,7 +1023,7 @@
       "name": "지력날개",
       "imageUrl": "https://img.pokemondb.net/sprites/items/genius-wing.png",
       "category": "의학",
-      "effect": "특수 공격 EV가 1 증가합니다."
+      "effect": "특수 공격 노력치가 1 증가합니다."
     },
     {
       "name": "고스트주얼",
@@ -1077,7 +1077,7 @@
       "name": "끈적끈적비료",
       "imageUrl": "https://img.pokemondb.net/sprites/items/gooey-mulch.png",
       "category": "일반 항목",
-      "effect": "열매가 자라는 지역의 부드러운 토양에 살포하는 비료. 미치광이가 비싼 값에 살 것입니다."
+      "effect": "열매가 자라는 지역의 부드러운 토양에 살포하는 비료. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "풀주얼",
@@ -1131,7 +1131,7 @@
       "name": "또뽀열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/grepa-berry.png",
       "category": "딸기",
-      "effect": "우정은 증가하지만 특수 방어 EV는 감소합니다."
+      "effect": "우정은 증가하지만 특수 방어 노력치는 감소합니다."
     },
     {
       "name": "끈기갈고리손톱",
@@ -1167,13 +1167,13 @@
       "name": "무럭무럭비료",
       "imageUrl": "https://img.pokemondb.net/sprites/items/growth-mulch.png",
       "category": "일반 항목",
-      "effect": "열매가 자라는 지역의 부드러운 토양에 살포하는 비료. 미치광이가 비싼 값에 살 것입니다."
+      "effect": "열매가 자라는 지역의 부드러운 토양에 살포하는 비료. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "더러운손수건",
       "imageUrl": "https://img.pokemondb.net/sprites/items/grubby-hanky.png",
       "category": "아이템 보관",
-      "effect": "Caf\u00e9 Warehouse에 단골이 떨어뜨린 손수건. 희미하게 포켓몬 냄새가 난다."
+      "effect": "칠보시티에 있는 카페 갤러지의 단골손님이 떨어뜨린 손수건. 희미하게 포켓몬의 냄새가 난다."
     },
     {
       "name": "이펙트가드",
@@ -1233,7 +1233,7 @@
       "name": "체력날개",
       "imageUrl": "https://img.pokemondb.net/sprites/items/health-wing.png",
       "category": "의학",
-      "effect": "HP EV를 1 증가시킵니다."
+      "effect": "HP 노력치를 1 증가시킵니다."
     },
     {
       "name": "하트비늘",
@@ -1269,7 +1269,7 @@
       "name": "로매열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/hondew-berry.png",
       "category": "딸기",
-      "effect": "우정은 증가하지만 특수 공격 EV는 감소합니다."
+      "effect": "우정은 증가하지만 특수 공격 노력치는 감소합니다."
     },
     {
       "name": "달콤한꿀",
@@ -1293,7 +1293,7 @@
       "name": "맥스업",
       "imageUrl": "https://img.pokemondb.net/sprites/items/hp-up.png",
       "category": "의학",
-      "effect": "HP EV가 10 증가합니다."
+      "effect": "HP 노력치가 10 증가합니다."
     },
     {
       "name": "고급상처약",
@@ -1359,7 +1359,7 @@
       "name": "사포닌",
       "imageUrl": "https://img.pokemondb.net/sprites/items/iron.png",
       "category": "의학",
-      "effect": "방어 EV가 10 증가합니다."
+      "effect": "방어 노력치가 10 증가합니다."
     },
     {
       "name": "검은철구",
@@ -1419,7 +1419,7 @@
       "name": "시마열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/kelpsy-berry.png",
       "category": "딸기",
-      "effect": "우정은 증가하지만 공격 EV는 감소합니다."
+      "effect": "우정은 증가하지만 공격 노력치는 감소합니다."
     },
     {
       "name": "짜랑고우거z",
@@ -1635,7 +1635,7 @@
       "name": "고스티열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/magost-berry.png",
       "category": "딸기",
-      "effect": "우노바 지역에서 매우 희귀한 베리. 미치광이가 비싼 값에 사게 될 것입니다."
+      "effect": "우노바 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "썬더볼트나이트",
@@ -1833,7 +1833,7 @@
       "name": "근력날개",
       "imageUrl": "https://img.pokemondb.net/sprites/items/muscle-wing.png",
       "category": "의학",
-      "effect": "공격 EV가 1 증가합니다."
+      "effect": "공격 노력치가 1 증가합니다."
     },
     {
       "name": "신비의물방울",
@@ -1863,7 +1863,7 @@
       "name": "노멜열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/nomel-berry.png",
       "category": "딸기",
-      "effect": "우노바 지역에서 매우 희귀한 베리. 미치광이가 비싼 값에 사게 될 것입니다."
+      "effect": "우노바 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "나무상자",
@@ -1935,7 +1935,7 @@
       "name": "자야열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/pamtre-berry.png",
       "category": "딸기",
-      "effect": "우노바 지역에서 매우 희귀한 베리. 미치광이가 비싼 값에 사게 될 것입니다."
+      "effect": "우노바 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "마비치료제",
@@ -2004,10 +2004,10 @@
       "effect": "HP가 낮을 때 특수 공격을 올립니다."
     },
     {
-      "name": "s",
+      "name": "만병통치제",
       "imageUrl": "https://img.pokemondb.net/s.png",
       "category": "의학",
-      "effect": "모든 주요 상태 상태를 치료합니다."
+      "effect": "모든 상태이상을 회복한다. (기절 제외)"
     },
     {
       "name": "피카츄z",
@@ -2097,7 +2097,7 @@
       "name": "유석열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/pomeg-berry.png",
       "category": "딸기",
-      "effect": "우정은 증가하지만 HP EV는 감소합니다."
+      "effect": "우정은 증가하지만 HP 노력치는 감소합니다."
     },
     {
       "name": "상처약",
@@ -2247,7 +2247,7 @@
       "name": "파비열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/qualot-berry.png",
       "category": "딸기",
-      "effect": "우정은 증가하지만 방어 EV는 감소합니다."
+      "effect": "우정은 증가하지만 방어 노력치는 감소합니다."
     },
     {
       "name": "퀵볼",
@@ -2289,7 +2289,7 @@
       "name": "라부탐열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/rabuta-berry.png",
       "category": "딸기",
-      "effect": "우노바 지역에서 매우 희귀한 베리. 미치광이가 비싼 값에 사게 될 것입니다."
+      "effect": "우노바 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "분노의호두과자",
@@ -2331,7 +2331,7 @@
       "name": "라즈열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/razz-berry.png",
       "category": "딸기",
-      "effect": "우노바 지역에서 매우 희귀한 베리. 미치광이가 비싼 값에 사게 될 것입니다."
+      "effect": "우노바 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "영계의천",
@@ -2355,7 +2355,7 @@
       "name": "빨강비드로",
       "imageUrl": "https://img.pokemondb.net/sprites/items/red-flute.png",
       "category": "일반 항목",
-      "effect": "빨간 유리로 만든 장난감 피리. 미치광이가 비싼 값에 살 것입니다."
+      "effect": "빨간 유리로 만든 장난감 피리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "다홍꿀",
@@ -2385,19 +2385,19 @@
       "name": "고대의동화",
       "imageUrl": "https://img.pokemondb.net/sprites/items/relic-copper.png",
       "category": "일반 항목",
-      "effect": "약 3000년 전 문명에서 사용되었던 구리 동전. 미치광이가 비싼 값에 살 것입니다."
+      "effect": "약 3000년 전 문명에서 사용되었던 구리 동전. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "고대의왕관",
       "imageUrl": "https://img.pokemondb.net/sprites/items/relic-crown.png",
       "category": "일반 항목",
-      "effect": "약 3000년 전 문명에서 만들어진 왕관. 미치광이가 비싼 값에 살 것입니다."
+      "effect": "약 3000년 전 문명에서 만들어진 왕관. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "고대의금화",
       "imageUrl": "https://img.pokemondb.net/sprites/items/relic-gold.png",
       "category": "일반 항목",
-      "effect": "약 3000년 전 문명에서 사용된 금화. 미치광이가 비싼 값에 살 것입니다."
+      "effect": "약 3000년 전 문명에서 사용된 금화. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "고대의은화",
@@ -2409,13 +2409,13 @@
       "name": "고대의석상",
       "imageUrl": "https://img.pokemondb.net/sprites/items/relic-statue.png",
       "category": "일반 항목",
-      "effect": "약 3000년 전 문명에서 만들어진 석상. 미치광이가 비싼 값에 살 것입니다."
+      "effect": "약 3000년 전 문명에서 만들어진 석상. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "고대의항아리",
       "imageUrl": "https://img.pokemondb.net/sprites/items/relic-vase.png",
       "category": "일반 항목",
-      "effect": "약 3000년 전 문명에서 만들어진 꽃병. 미치광이가 비싼 값에 살 것입니다."
+      "effect": "약 3000년 전 문명에서 만들어진 꽃병. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "리피드볼",
@@ -2439,7 +2439,7 @@
       "name": "저항력날개",
       "imageUrl": "https://img.pokemondb.net/sprites/items/resist-wing.png",
       "category": "의학",
-      "effect": "방어 EV가 1 증가합니다."
+      "effect": "방어 노력치가 1 증가합니다."
     },
     {
       "name": "비추는거울",
@@ -2649,7 +2649,7 @@
       "name": "여울조개껍질",
       "imageUrl": "https://img.pokemondb.net/sprites/items/shoal-shell.png",
       "category": "일반 항목",
-      "effect": "Shoal Cave 깊숙한 곳에서 볼 수 있는 예쁜 조개껍데기. 미치광이가 비싼 값에 살 것입니다."
+      "effect": "Shoal Cave 깊숙한 곳에서 볼 수 있는 예쁜 조개껍데기. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "번개카세트",
@@ -2799,7 +2799,7 @@
       "name": "메호키열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/spelon-berry.png",
       "category": "딸기",
-      "effect": "우노바 지역에서 매우 희귀한 베리. 미치광이가 비싼 값에 사게 될 것입니다."
+      "effect": "우노바 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "물방울플레이트",
@@ -2829,7 +2829,7 @@
       "name": "오래오래비료",
       "imageUrl": "https://img.pokemondb.net/sprites/items/stable-mulch.png",
       "category": "일반 항목",
-      "effect": "열매가 자라는 지역의 부드러운 토양에 살포하는 비료. 미치광이가 비싼 값에 살 것입니다."
+      "effect": "열매가 자라는 지역의 부드러운 토양에 살포하는 비료. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "별의조각",
@@ -2922,16 +2922,16 @@
       "effect": "아주 달콤한 초콜릿. 포켓몬 1마리의 HP를 20포인트 회복합니다."
     },
     {
-      "name": "swiftw",
+      "name": "순발력날개",
       "imageUrl": "https://img.pokemondb.net/sprites/items/swift-wing.png",
       "category": "의학",
-      "effect": "속도 EV를 1 증가시킵니다."
+      "effect": "포켓몬의 스피드 노력치를 1만큼 올려준다. 최대 252까지 올릴 수 있다."
     },
     {
       "name": "토망열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/tamato-berry.png",
       "category": "딸기",
-      "effect": "우정은 증가하지만 속도 EV는 감소합니다."
+      "effect": "우정은 증가하지만 속도 노력치는 감소합니다."
     },
     {
       "name": "리체열매",
@@ -3051,7 +3051,7 @@
       "name": "서배열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/wepear-berry.png",
       "category": "딸기",
-      "effect": "우노바 지역에서 매우 희귀한 베리. 미치광이가 비싼 값에 사게 될 것입니다."
+      "effect": "우노바 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "휘핑팝",
@@ -3069,7 +3069,7 @@
       "name": "하양비드로",
       "imageUrl": "https://img.pokemondb.net/sprites/items/white-flute.png",
       "category": "일반 항목",
-      "effect": "하얀 유리로 만든 장난감 피리. 미치광이가 비싼 값에 살 것입니다."
+      "effect": "하얀 유리로 만든 장난감 피리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "하양허브",
@@ -3201,7 +3201,7 @@
       "name": "노랑비드로",
       "imageUrl": "https://img.pokemondb.net/sprites/items/yellow-flute.png",
       "category": "일반 항목",
-      "effect": "노란색 유리로 만든 장난감 피리. 미치광이가 비싼 값에 살 것입니다."
+      "effect": "노란색 유리로 만든 장난감 피리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "진노랑꿀",
@@ -3231,7 +3231,7 @@
       "name": "키토산",
       "imageUrl": "https://img.pokemondb.net/sprites/items/zinc.png",
       "category": "의학",
-      "effect": "특수 방어 EV가 10 증가합니다."
+      "effect": "특수 방어 노력치가 10 증가합니다."
     },
     {
       "name": "포커스렌즈",
