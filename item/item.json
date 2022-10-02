@@ -291,7 +291,7 @@
       "name": "블리열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/bluk-berry.png",
       "category": "딸기",
-      "effect": "우노바 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
+      "effect": "하나 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "은왕관",
@@ -495,7 +495,7 @@
       "name": "수숙열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/cornn-berry.png",
       "category": "딸기",
-      "effect": "우노바 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
+      "effect": "하나 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "마음의사탕",
@@ -705,7 +705,7 @@
       "name": "두리열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/durin-berry.png",
       "category": "딸기",
-      "effect": "우노바 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
+      "effect": "하나 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "다크볼",
@@ -1635,7 +1635,7 @@
       "name": "고스티열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/magost-berry.png",
       "category": "딸기",
-      "effect": "우노바 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
+      "effect": "하나 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "썬더볼트나이트",
@@ -1863,7 +1863,7 @@
       "name": "노멜열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/nomel-berry.png",
       "category": "딸기",
-      "effect": "우노바 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
+      "effect": "하나 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "나무상자",
@@ -1935,7 +1935,7 @@
       "name": "자야열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/pamtre-berry.png",
       "category": "딸기",
-      "effect": "우노바 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
+      "effect": "하나 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "마비치료제",
@@ -1953,7 +1953,7 @@
       "name": "딜구슬",
       "imageUrl": "https://img.pokemondb.net/sprites/items/pass-orb.png",
       "category": "아이템 보관",
-      "effect": "유노바 지역의 힘이 담긴 신비한 오브로, 패스 파워 생성 시 사용됩니다."
+      "effect": "하나 지역의 힘이 담긴 신비한 오브로, 패스 파워 생성 시 사용됩니다."
     },
     {
       "name": "꼬시개열매",
@@ -2289,7 +2289,7 @@
       "name": "라부탐열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/rabuta-berry.png",
       "category": "딸기",
-      "effect": "우노바 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
+      "effect": "하나 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "분노의호두과자",
@@ -2331,7 +2331,7 @@
       "name": "라즈열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/razz-berry.png",
       "category": "딸기",
-      "effect": "우노바 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
+      "effect": "하나 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "영계의천",
@@ -2799,7 +2799,7 @@
       "name": "메호키열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/spelon-berry.png",
       "category": "딸기",
-      "effect": "우노바 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
+      "effect": "하나 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "물방울플레이트",
@@ -3051,7 +3051,7 @@
       "name": "서배열매",
       "imageUrl": "https://img.pokemondb.net/sprites/items/wepear-berry.png",
       "category": "딸기",
-      "effect": "우노바 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
+      "effect": "하나 지역에서 매우 희귀한 베리. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "휘핑팝",
