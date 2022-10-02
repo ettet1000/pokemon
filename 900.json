@@ -121,107 +121,107 @@
 ,"egg":[]
 ,"tutor":[
     {
-        "category": "제비반환",
-        "move": "Flying",
-        "type": "물리",
+        "move": "제비반환",
+        "type": "Flying",
+        "category": "물리",
         "power": "60",
         "accuracy": "—"
     },
     {
-        "category": "명상",
-        "move": "Psychic",
-        "type": "변화",
+        "move": "명상",
+        "type": "Psychic",
+        "category": "변화",
         "power": "—",
         "accuracy": "—"
     },
     {
-        "category": "칼등치기",
-        "move": "Normal",
-        "type": "물리",
+        "move": "칼등치기",
+        "type": "Normal",
+        "category": "물리",
         "power": "40",
         "accuracy": "100"
     },
     {
-        "category": "기충전",
-        "move": "Normal",
-        "type": "변화",
+        "move": "기충전",
+        "type": "Normal",
+        "category": "변화",
         "power": "—",
         "accuracy": "—"
     },
     {
-        "category": "기가임팩트",
-        "move": "Normal",
-        "type": "물리",
+        "move": "기가임팩트",
+        "type": "Normal",
+        "category": "물리",
         "power": "120",
         "accuracy": "90"
     },
     {
-        "category": "파괴광선",
-        "move": "Normal",
-        "type": "특수",
+        "move": "파괴광선",
+        "type": "Normal",
+        "category": "특수",
         "power": "120",
         "accuracy": "90"
     },
     {
-        "category": "괴상한바람",
-        "move": "Ghost",
-        "type": "특수",
+        "move": "괴상한바람",
+        "type": "Ghost",
+        "category": "특수",
         "power": "60",
         "accuracy": "100"
     },
     {
-        "category": "사이코커터",
-        "move": "Psychic",
-        "type": "물리",
+        "move": "사이코커터",
+        "type": "Psychic",
+        "category": "물리",
         "power": "70",
         "accuracy": "100"
     },
     {
-        "category": "잠자기",
-        "move": "Psychic",
-        "type": "변화",
+        "move": "잠자기",
+        "type": "Psychic",
+        "category": "변화",
         "power": "—",
         "accuracy": "—"
     },
     {
-        "category": "스톤샤워",
-        "move": "Rock",
-        "type": "물리",
+        "move": "스톤샤워",
+        "type": "Rock",
+        "category": "물리",
         "power": "75",
         "accuracy": "90"
     },
     {
-        "category": "바위깨기",
-        "move": "Fighting",
-        "type": "물리",
+        "move": "바위깨기",
+        "type": "Fighting",
+        "category": "물리",
         "power": "40",
         "accuracy": "100"
     },
     {
-        "category": "스텔스록",
-        "move": "Rock",
-        "type": "물리",
+        "move": "스텔스록",
+        "type": "Rock",
+        "category": "물리",
         "power": "40",
         "accuracy": "100"
     },
     {
-        "category": "스톤에지",
-        "move": "Rock",
-        "type": "물리",
+        "move": "스톤에지",
+        "type": "Rock",
+        "category": "물리",
         "power": "100",
         "accuracy": "80"
     },
     {
-        "category": "스피드스타",
-        "move": "Normal",
-        "type": "특수",
+        "move": "스피드스타",
+        "type": "Normal",
+        "category": "특수",
         "power": "60",
         "accuracy": "—"
     },
     {
-        "category": "시저크로스",
-        "move": "Bug",
-        "type": "물리",
+        "move": "시저크로스",
+        "type": "Bug",
+        "category": "물리",
         "power": "80",
         "accuracy": "100"
     }
