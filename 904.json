@@ -2,11 +2,7 @@
 "name":"장침바루",
 "imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/904.png",
 "thumbnailUrl":"https://ettet1000.github.io/pokemon_ko_main/images/904_thumb.png"
-,"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/images/904_main.png",
-"frontAnimatedSpriteUrl":"없음",
-"backAnimatedSpriteUrl":"없음",
-"frontShinyAnimatedSpriteUrl":"없음",
-"backShinyAnimatedSpriteUrl":"없음"},
+,"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/images/904_main.png"},
 "types":["Dark","Poison"],"weaknesses":["Ground"],
 "descriptions":["창과 같은 침과 흉포한 성질 때문에 바다 도깨비라는 이명이 있는 포켓몬. 독을 마셔서 자신의 양식으로 삼습니다."],
 "specie":"침붕","height":"60.5 kg (133.4 lbs)","weight":"2.5 m (8′02″)","breeding":{
@@ -33,7 +29,7 @@
 {"number":"91","name":"히스이 장침바루 HP130","expansionName":"소드 & 실드 스타터 세트 VSTAR 「다크라이」"
 ,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH10_EN_91.png"}
 ],
-"soundUrl":"","moves":{
+"soundUrl":"https://ettet1000.github.io/pokemon_ko_main/crys/904 Overqwil.ogg","moves":{
 "levelUp":[
     {
         "level": 1,

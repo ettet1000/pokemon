@@ -2,11 +2,7 @@
 "name":"대쓰여너",
 "imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/902.png",
 "thumbnailUrl":"https://ettet1000.github.io/pokemon_ko_main/images/902_thumb.png"
-,"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/images/902_main.png",
-"frontAnimatedSpriteUrl":"없음",
-"backAnimatedSpriteUrl":"없음",
-"frontShinyAnimatedSpriteUrl":"없음",
-"backShinyAnimatedSpriteUrl":"없음"},
+,"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/images/902_main.png"},
 "types":["Water","Ghost"],"weaknesses":["Ghost","Grass","Electric","Dark"],
 "descriptions":["물길을 거슬러 오르는 여정에서 뜻을 이루지 못하고 죽은 동료들의 혼을 두르고 있습니다. 히스이에 흐르는 하천에서는 대적할 자가 없습니다."],
 "specie":"큰물고기","height":"110.0 kg (242.5 lbs)","weight":"3.0 m (9′10″)","breeding":{
@@ -33,7 +29,7 @@
 {"number":"44","name":"대쓰여너","expansionName":"소드&실드 강화 확장팩 「배틀리전」"
 ,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH10_EN_44.png"}
 ],
-"soundUrl":"","moves":{
+"soundUrl":"https://ettet1000.github.io/pokemon_ko_main/crys/902 Basculegion.ogg","moves":{
 "levelUp":[
     {
         "level": 1,

@@ -2,11 +2,7 @@
 "name":"사마자르",
 "imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/900.png",
 "thumbnailUrl":"https://ettet1000.github.io/pokemon_ko_main/images/900_thumb.png"
-,"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/images/900_main.png",
-"frontAnimatedSpriteUrl":"없음",
-"backAnimatedSpriteUrl":"없음",
-"frontShinyAnimatedSpriteUrl":"없음",
-"backShinyAnimatedSpriteUrl":"없음"},
+,"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/images/900_main.png"},
 "types":["Bug","Rock"],"weaknesses":["Rock","Steel","Water"],
 "descriptions":["단단한 바위로 몸을 보호하고 투박한 도끼로 거목을 베어 넘깁니다. 성질이 사납기 때문에 황무지에서 만난다면 도망치는 수밖에 없습니다."],
 "specie":"큰도끼","height":"89.0 kg (196.2 lbs)","weight":"1.8 m (5′11″)","breeding":{
@@ -41,7 +37,7 @@
 {"number":"SWSH249","name":"사마자르 VSTAR","expansionName":"소드&실드 확장팩 「스페이스 저글러」"
 ,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSHP_EN_SWSH249.png"}
 ],
-"soundUrl":"","moves":{
+"soundUrl":"https://ettet1000.github.io/pokemon_ko_main/crys/900 Kleavor.ogg","moves":{
 "levelUp":[
     {
         "level": 1,
