@@ -1,6 +1,13 @@
-{"number":"899","name":"신비록","imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/899.png","thumbnailUrl":"https://ettet1000.github.io/pokemon_ko_main/images/899_thumb.png"
-,"images":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/images/899_main.png"}
-,"types":["Normal","Psychic"],"weaknesses":["Bug","Dark"],
+{"number":"899",
+"name":"신비록",
+"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/899.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_ko_main/images/899_thumb.png"
+,"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/images/899_main.png",
+"frontAnimatedSpriteUrl":"없음",
+"backAnimatedSpriteUrl":"없음",
+"frontShinyAnimatedSpriteUrl":"없음",
+"backShinyAnimatedSpriteUrl":"없음"},
+"types":["Normal","Psychic"],"weaknesses":["Bug","Dark"],
 "descriptions":["눈에 보이지 않는 벽을 만들어 낼 때 검은 구슬이 신비하게 빛납니다. 떨어진 수염은 따뜻해서 겨울옷의 귀중한 재료가 됩니다."],
 "specie":"큰뿔","height":"95.1 kg (209.7 lbs)","weight":"1.8 m (5′11″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"5120 걸음"},"genders":[{"type":"MALE","percentage":"50%"},
