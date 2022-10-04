@@ -76,7 +76,7 @@
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/017.png",
 "thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/017.png",
 "type":"MIDDLE",
-"requirement":"Level 18"}],"nextEvolutions":[],"superEvolutions":[{"name":"Mega 피죤투",
+"requirement":"Level 18"}],"nextEvolutions":[],"superEvolutions":[{"name":"메가피죤투",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/018_mega_1.png",
 "thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/018_mega_1.png",
 "type":"MEGA"}],"baseStats":{"hp":83,"attack":80,"defense":75,"spAtk":70,"spDef":70,"speed":101,"total":479},"cards":[{
