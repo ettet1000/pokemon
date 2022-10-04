@@ -81,11 +81,11 @@
 "requirement":"Level 32"}],"superEvolutions":[],"baseStats":{"hp":60,"attack":62,"defense":63,"spAtk":80,"spDef":80,"speed":60,"total":405},"cards":[{
 "number":"2",
 "name":"이상해풀",
-"expansionName":"Shining Legends",
+"expansionName":"썬&문 하이클래스팩 「GX 울트라샤이니」",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/002/SM35_EN_2.png"},{
 "number":"2",
 "name":"이상해풀",
-"expansionName":"Black & White—Dark Explorers",
+"expansionName":"BW 확장팩 제4탄 「다크러시」",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/002/BW5_EN_2.png"},{
 "number":"35",
 "name":"이상해풀",
@@ -110,11 +110,11 @@
 "number":"7",
 "name":"이상해풀",
 "expansionName":"POP Series 2",
-"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/002/POP%20Series%202_EN_7.png"},{
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/002/POP%2520Series%202_EN_7.png"},{
 "number":"14",
 "name":"이상해풀",
 "expansionName":"POP Series 3",
-"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/002/POP%20Series_3_EN_14.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/002.mp3",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/002/POP%2520Series_3_EN_14.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/002.mp3",
 "moves":{"levelUp":[{"level":1,
 "category":"변화",
 "move":"울음소리",
