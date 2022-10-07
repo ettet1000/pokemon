@@ -20,7 +20,7 @@
 ,"requirement":"누적 반동 데미지 294 이상에서 레벨업"}
 ],
 "previousEvolutions":[
-{"number":"550","name":"스라크","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/550.png"
+{"number":"550","name":"배쓰나이","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/550.png"
 ,"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/550.png","type":"FIRST"}],
 "nextEvolutions":[],"superEvolutions":[],
 "baseStats":{"hp":120,"attack":112,"defense":65,"spAtk":80,"spDef":75,"speed":78,"total":530},
