@@ -29,7 +29,7 @@
 "baseFriendship":"50 (보통)",
 "baseExp":"178",
 "growthRate":"중간 빠름"},
-"abilities":[{"name":"Swarm",
+"abilities":[{"name":"벌레의알림",
 "description":"Powers up Bug-type moves when the Pokémon's HP is low."}],
 "typesEffectiveness":{"Normal":"1",
 "Fire":"2",
