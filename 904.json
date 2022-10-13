@@ -9,7 +9,9 @@
 "egg":{"groups":["수중2"],"cycle":"5140 걸음"},"genders":[{"type":"MALE","percentage":"50%"},
 {"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"1 공격력","catchRate":"135","baseFriendship":"","baseExp":"",
-"growthRate":"중간 빠름"},"abilities":[{"name":"Unnerve","description":"Unnerves opposing Pokémon and makes them unable to eat Berries."}],
+"growthRate":"중간 빠름"},"abilities":[{"name":"독가시",
+"description":"명중률이 떨어지지 않는다."},{"name":"쓱쓱",
+"description":"Raises evasiveness if the Pokémon is confused."}],
 "typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"½","Ice":"1","Fighting":"1","Poison":"½"
 ,"Ground":"2","Flying":"1","Psychic":"","Bug":"1","Rock":"1","Ghost":"½","Dragon":"1","Dark":"½","Steel":"1","Fairy":"1"},
 "evolutionChain":[

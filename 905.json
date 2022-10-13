@@ -8,7 +8,8 @@
 "specie":"애증","height":"48.0 kg (105.8 lbs)","weight":"1.6 m (5′03″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"30840 걸음"},"genders":[{"type":"FEMALE","percentage":"100%"}]},
 "training":{"evYield":"3 특수공격","catchRate":"","baseFriendship":"","baseExp":"",
-"growthRate":"느림"},"abilities":[{"name":"Unnerve","description":"Unnerves opposing Pokémon and makes them unable to eat Berries."}],
+"growthRate":"느림"},"abilities":[{"name":"치유의마음",
+"description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"2","Grass":"½","Ice":"2","Fighting":"¼","Poison":"2"
 ,"Ground":"","Flying":"1","Psychic":"1","Bug":"¼","Rock":"2","Ghost":"1","Dragon":"","Dark":"½","Steel":"2","Fairy":"1"},
 "evolutionChain":[
