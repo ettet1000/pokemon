@@ -1,7 +1,7 @@
 [
     {
       "move": "특성1",
-      "type": "normal",
+      "type": "Normal",
       "category": "물리",
       "power": "70",
       "accuracy": "100",
