@@ -6,5 +6,13 @@
       "power": "70",
       "accuracy": "100",
       "pp": "15"
+    },
+    {
+      "move": "특성2",
+      "type": "Fire",
+      "category": "물리",
+      "power": "70",
+      "accuracy": "100",
+      "pp": "15"
     }
   ]
