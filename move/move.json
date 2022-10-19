@@ -1,4 +1,4 @@
-{"move":"막치기",
+[{"move":"막치기",
 "type":"Normal",
 "category":"물리",
 "power":"40",
@@ -4467,4 +4467,4 @@
 "category":"특수",
 "power":"80",
 "accuracy":"100%",
-"pp":"15"}
+"pp":"15"}]
