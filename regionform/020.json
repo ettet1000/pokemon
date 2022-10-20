@@ -63,21 +63,22 @@
 "name":"꼬렛",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/019.png",
 "thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/019.png",
-"type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":55,"attack":81,"defense":60,"spAtk":50,"spDef":70,"speed":97,"total":413},"cards":[{
+"type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],
+"baseStats":{"hp":55,"attack":81,"defense":60,"spAtk":50,"spDef":70,"speed":97,"total":413},"cards":[{
 "number":"144",
 "name":"레트라",
 "expansionName":"Unbroken Bonds",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/020/SM10_EN_144.png"},{
 "number":"85",
-"name":"Alolan 레트라-GX",
+"name":"알로라 레트라-GX",
 "expansionName":"Celestial Storm",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/020/SM7_EN_85.png"},{
 "number":"82",
-"name":"Alolan 레트라",
+"name":"알로라 레트라",
 "expansionName":"Burning Shadows",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/020/SM3_EN_82.png"},{
 "number":"77",
-"name":"Alolan 레트라",
+"name":"알로라 레트라",
 "expansionName":"Sun & Moon",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/020/SM1_EN_77.png"},{
 "number":"67",
@@ -408,7 +409,7 @@
     {"move":"분노의앞니",
     "type":"노말",
     "category":"물리",
-    "power":"",
+    "power":"—",
     "accuracy":"90"},
     {"move":"분함의발구르기",
     "type":"땅",

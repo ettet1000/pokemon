@@ -64,21 +64,22 @@
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/020.png",
 "thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/020.png",
 "type":"LAST",
-"requirement":"Level 20, 밤"}],"superEvolutions":[],"baseStats":{"hp":30,"attack":56,"defense":35,"spAtk":25,"spDef":35,"speed":72,"total":253},"cards":[{
+"requirement":"Level 20, 밤"}],"superEvolutions":[],
+"baseStats":{"hp":30,"attack":56,"defense":35,"spAtk":25,"spDef":35,"speed":72,"total":253},"cards":[{
 "number":"143",
 "name":"꼬렛",
 "expansionName":"Unbroken Bonds",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/019/SM10_EN_143.png"},{
 "number":"84",
-"name":"Alolan 꼬렛",
+"name":"알로라 꼬렛",
 "expansionName":"Celestial Storm",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/019/SM7_EN_84.png"},{
 "number":"81",
-"name":"Alolan 꼬렛",
+"name":"알로라 꼬렛",
 "expansionName":"Burning Shadows",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/019/SM3_EN_81.png"},{
 "number":"76",
-"name":"Alolan 꼬렛",
+"name":"알로라 꼬렛",
 "expansionName":"Sun & Moon",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/019/SM1_EN_76.png"},{
 "number":"66",
@@ -348,7 +349,7 @@
         "move":"분노의앞니",
         "type":"노말",
         "category":"물리",
-        "power":"",
+        "power":"—",
         "accuracy":"90"},
         {
         "move":"사념의박치기",
