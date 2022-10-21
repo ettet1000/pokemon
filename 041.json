@@ -38,7 +38,7 @@
 ,{"technicalMachine":58,"category":"물리","move":"승부굳히기","type":"Dark","power":"60","accuracy":"100"}
 ,{"technicalMachine":74,"category":"특수","move":"베놈쇼크","type":"Poison","power":"65","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":78,"category":"물리","move":"A크로뱃ics","type":"Flying","power":"55","accuracy":"100"}
+,{"technicalMachine":78,"category":"물리","move":"애크러뱃","type":"Flying","power":"55","accuracy":"100"}
 ,{"technicalMachine":95,"category":"특수","move":"에어슬래시","type":"Flying","power":"75","accuracy":"95"}],"technicalRecords":[
 {"technicalRecord":12,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},
 {"technicalRecord":18,"category":"물리","move":"흡혈","type":"Bug","power":"80","accuracy":"100"},

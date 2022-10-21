@@ -57,7 +57,7 @@
 ,{"technicalMachine":73,"category":"물리","move":"크로스포이즌","type":"Poison","power":"70","accuracy":"100"}
 ,{"technicalMachine":75,"category":"물리","move":"로킥","type":"Fighting","power":"65","accuracy":"100"}
 ,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
-,{"technicalMachine":78,"category":"물리","move":"A크로뱃ics","type":"Flying","power":"55","accuracy":"100"}
+,{"technicalMachine":78,"category":"물리","move":"애크러뱃","type":"Flying","power":"55","accuracy":"100"}
 ,{"technicalMachine":81,"category":"물리","move":"땅고르기","type":"Ground","power":"60","accuracy":"100"}
 ,{"technicalMachine":88,"category":"변화","move":"그래스필드","type":"Grass","power":"—","accuracy":"—"}
 ,{"technicalMachine":94,"category":"물리","move":"칼등치기","type":"Normal","power":"40","accuracy":"100"}

@@ -44,7 +44,7 @@
 ,{"technicalMachine":46,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
 ,{"technicalMachine":48,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
 ,{"technicalMachine":53,"category":"특수","move":"에너지볼","type":"Grass","power":"90","accuracy":"100"}
-,{"technicalMachine":62,"category":"물리","move":"A크로뱃ics","type":"Flying","power":"55","accuracy":"100"}
+,{"technicalMachine":62,"category":"물리","move":"애크러뱃","type":"Flying","power":"55","accuracy":"100"}
 ,{"technicalMachine":68,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
 ,{"technicalMachine":83,"category":"특수","move":"엉겨붙기","type":"Bug","power":"20","accuracy":"100"}
 ,{"technicalMachine":87,"category":"변화","move":"뽐내기","type":"Normal","power":"—","accuracy":"85"}

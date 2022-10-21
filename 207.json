@@ -14,7 +14,7 @@
 ,{"level":13,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":16,"category":"물리","move":"연속자르기","type":"Bug","power":"40","accuracy":"95"}
 ,{"level":19,"category":"물리","move":"페인트 Attack","type":"Dark","power":"60","accuracy":"∞"}
-,{"level":22,"category":"물리","move":"A크로뱃ics","type":"Flying","power":"55","accuracy":"100"}
+,{"level":22,"category":"물리","move":"애크러뱃","type":"Flying","power":"55","accuracy":"100"}
 ,{"level":27,"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}
 ,{"level":30,"category":"물리","move":"유턴","type":"Bug","power":"70","accuracy":"100"}
 ,{"level":35,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
@@ -48,7 +48,7 @@
 ,{"technicalMachine":51,"category":"물리","move":"강철날개","type":"Steel","power":"70","accuracy":"90"}
 ,{"technicalMachine":54,"category":"물리","move":"칼등치기","type":"Normal","power":"40","accuracy":"100"}
 ,{"technicalMachine":56,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
-,{"technicalMachine":62,"category":"물리","move":"A크로뱃ics","type":"Flying","power":"55","accuracy":"100"}
+,{"technicalMachine":62,"category":"물리","move":"애크러뱃","type":"Flying","power":"55","accuracy":"100"}
 ,{"technicalMachine":66,"category":"물리","move":"보복","type":"Dark","power":"50","accuracy":"100"}
 ,{"technicalMachine":69,"category":"변화","move":"록커트","type":"Rock","power":"—","accuracy":"—"}
 ,{"technicalMachine":71,"category":"물리","move":"스톤에지","type":"Rock","power":"100","accuracy":"80"}
