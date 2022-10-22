@@ -62,6 +62,6 @@
 ,"type":"Normal","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"희망사항"
 ,"type":"Normal","power":"—","accuracy":"—"}]
-,"tutor":[{"category":"특수","move":"Misty Explosion"
+,"tutor":[{"category":"특수","move":"미스트버스트"
 ,"type":"Fairy","power":"100","accuracy":"100"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VI"}

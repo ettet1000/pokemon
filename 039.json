@@ -92,6 +92,6 @@
 ,{"category":"물리","move":"프레젠트","type":"Normal","power":"—","accuracy":"90"}
 ,{"category":"물리","move":"구르기","type":"Rock","power":"30","accuracy":"90"}
 ,{"category":"변화","move":"희망사항","type":"Normal","power":"—","accuracy":"—"}]
-,"tutor":[{"category":"특수","move":"Misty Explosion","type":"Fairy","power":"100","accuracy":"100"}
+,"tutor":[{"category":"특수","move":"미스트버스트","type":"Fairy","power":"100","accuracy":"100"}
 ,{"category":"물리","move":"아이언롤러","type":"Steel","power":"130","accuracy":"100"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_I"}

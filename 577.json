@@ -65,7 +65,7 @@
 ,"type":"Ghost","power":"30","accuracy":"100"}
 ,{"category":"변화","move":"이상한빛"
 ,"type":"Ghost","power":"—","accuracy":"100"}]
-,"tutor":[{"category":"특수","move":"Expanding Force"
+,"tutor":[{"category":"특수","move":"와이드포스"
 ,"type":"Psychic","power":"80","accuracy":"100"}
 ,{"category":"물리","move":"아이언롤러"
 ,"type":"Steel","power":"130","accuracy":"100"}]

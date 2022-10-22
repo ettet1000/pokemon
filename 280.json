@@ -85,5 +85,5 @@
 ,{"category":"변화","move":"검은눈빛","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"추억의선물","type":"Dark","power":"—","accuracy":"100"}
 ,{"category":"물리","move":"야습","type":"Ghost","power":"40","accuracy":"100"}]
-,"tutor":[{"category":"특수","move":"Expanding Force","type":"Psychic","power":"80","accuracy":"100"}]
+,"tutor":[{"category":"특수","move":"와이드포스","type":"Psychic","power":"80","accuracy":"100"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_III"}

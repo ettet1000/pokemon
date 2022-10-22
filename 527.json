@@ -75,5 +75,5 @@
 ,{"category":"변화","move":"날개쉬기","type":"Flying","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"초음파","type":"Normal","power":"—","accuracy":"55"}]
 ,"tutor":[{"category":"물리","move":"Dual Wingbeat","type":"Flying","power":"40","accuracy":"90"}
-,{"category":"특수","move":"Expanding Force","type":"Psychic","power":"80","accuracy":"100"}]
+,{"category":"특수","move":"와이드포스","type":"Psychic","power":"80","accuracy":"100"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_V"}

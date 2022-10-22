@@ -76,7 +76,7 @@
 ,"type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"특수","move":"물의파동"
 ,"type":"Water","power":"60","accuracy":"100"}]
-,"tutor":[{"category":"특수","move":"Burning Jealousy"
+,"tutor":[{"category":"특수","move":"질투의불꽃"
 ,"type":"Fire","power":"70","accuracy":"100"}
 ,{"category":"특수","move":"Meteor Beam"
 ,"type":"Rock","power":"120","accuracy":"90"}

@@ -70,7 +70,7 @@
 ,"type":"Normal","power":"—","accuracy":"—"}]
 ,"tutor":[{"category":"물리","move":"Flip Turn"
 ,"type":"Water","power":"60","accuracy":"100"}
-,{"category":"특수","move":"Misty Explosion"
+,{"category":"특수","move":"미스트버스트"
 ,"type":"Fairy","power":"100","accuracy":"100"}
 ,{"category":"물리","move":"Triple Axel"
 ,"type":"Ice","power":"20","accuracy":"90"}]

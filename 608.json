@@ -57,7 +57,7 @@
 ,"type":"Ice","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"파워셰어"
 ,"type":"Psychic","power":"—","accuracy":"—"}]
-,"tutor":[{"category":"특수","move":"Burning Jealousy"
+,"tutor":[{"category":"특수","move":"질투의불꽃"
 ,"type":"Fire","power":"70","accuracy":"100"}
 ,{"category":"물리","move":"Poltergeist"
 ,"type":"Ghost","power":"110","accuracy":"90"}

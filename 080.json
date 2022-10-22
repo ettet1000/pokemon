@@ -96,5 +96,5 @@
 ,{"category":"변화","move":"배북","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"블록","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"짓밟기","type":"Normal","power":"65","accuracy":"100"}]
-,"tutor":[{"category":"특수","move":"Expanding Force","type":"Psychic","power":"80","accuracy":"100"}]
+,"tutor":[{"category":"특수","move":"와이드포스","type":"Psychic","power":"80","accuracy":"100"}]
 ,"evolution":[{"category":"특수","move":"Shell Side Arm","type":"Poison","power":"90","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_I"}

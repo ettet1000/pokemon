@@ -127,6 +127,6 @@
 ,{"category":"변화","move":"추억의선물","type":"Dark","power":"—","accuracy":"100"}
 ,{"category":"물리","move":"야습","type":"Ghost","power":"40","accuracy":"100"}]
 ,"tutor":[{"category":"변화","move":"Coaching","type":"Fighting","power":"—","accuracy":"—"}
-,{"category":"특수","move":"Expanding Force","type":"Psychic","power":"80","accuracy":"100"}
+,{"category":"특수","move":"와이드포스","type":"Psychic","power":"80","accuracy":"100"}
 ,{"category":"물리","move":"Triple Axel","type":"Ice","power":"20","accuracy":"90"}]
 ,"evolution":[{"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_IV"}

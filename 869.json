@@ -56,7 +56,7 @@
 ,"type":"Fairy","power":"—","accuracy":"100"}
 ,{"category":"물리","move":"뒀다쓰기"
 ,"type":"Normal","power":"140","accuracy":"100"}]
-,"tutor":[{"category":"특수","move":"Misty Explosion"
+,"tutor":[{"category":"특수","move":"미스트버스트"
 ,"type":"Fairy","power":"100","accuracy":"100"}]
 ,"evolution":[{"category":"변화","move":"데코레이션"
 ,"type":"Fairy","power":"—","accuracy":"—"}],"preEvolution":[]},"generation":"GENERATION_VIII"}

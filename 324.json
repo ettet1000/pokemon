@@ -66,6 +66,6 @@
 ,{"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"}
 ,{"category":"물리","move":"로케트박치기","type":"Normal","power":"130","accuracy":"100"}
 ,{"category":"변화","move":"하품","type":"Normal","power":"—","accuracy":"—"}]
-,"tutor":[{"category":"특수","move":"Burning Jealousy","type":"Fire","power":"70","accuracy":"100"}
+,"tutor":[{"category":"특수","move":"질투의불꽃","type":"Fire","power":"70","accuracy":"100"}
 ,{"category":"특수","move":"열사의대지","type":"Ground","power":"70","accuracy":"100"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_III"}

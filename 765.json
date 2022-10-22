@@ -69,7 +69,7 @@
 ,"type":"Normal","power":"140","accuracy":"100"}
 ,{"category":"변화","move":"하품"
 ,"type":"Normal","power":"—","accuracy":"—"}]
-,"tutor":[{"category":"특수","move":"Expanding Force"
+,"tutor":[{"category":"특수","move":"와이드포스"
 ,"type":"Psychic","power":"80","accuracy":"100"}
 ,{"category":"특수","move":"Terrain Pulse"
 ,"type":"Normal","power":"50","accuracy":"100"}]

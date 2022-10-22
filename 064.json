@@ -75,5 +75,5 @@
 ,"egg":[{"category":"특수","move":"염동력","type":"Psychic","power":"50","accuracy":"100"}
 ,{"category":"변화","move":"가드셰어","type":"Psychic","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"매직코트","type":"Psychic","power":"—","accuracy":"—"}]
-,"tutor":[{"category":"특수","move":"Expanding Force","type":"Psychic","power":"80","accuracy":"100"}]
+,"tutor":[{"category":"특수","move":"와이드포스","type":"Psychic","power":"80","accuracy":"100"}]
 ,"evolution":[{"category":"특수","move":"염동력","type":"Psychic","power":"50","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_I"}

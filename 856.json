@@ -51,6 +51,6 @@
 ,"type":"Electric","power":"20","accuracy":"100"}
 ,{"category":"변화","move":"순서미루기"
 ,"type":"Dark","power":"—","accuracy":"100"}]
-,"tutor":[{"category":"특수","move":"Expanding Force"
+,"tutor":[{"category":"특수","move":"와이드포스"
 ,"type":"Psychic","power":"80","accuracy":"100"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VIII"}

@@ -76,6 +76,6 @@
 ,{"category":"변화","move":"간지르기","type":"Normal","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"희망사항","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"하품","type":"Normal","power":"—","accuracy":"—"}]
-,"tutor":[{"category":"특수","move":"Burning Jealousy","type":"Fire","power":"70","accuracy":"100"}
+,"tutor":[{"category":"특수","move":"질투의불꽃","type":"Fire","power":"70","accuracy":"100"}
 ,{"category":"특수","move":"열사의대지","type":"Ground","power":"70","accuracy":"100"}]
 ,"evolution":[{"category":"특수","move":"불꽃세례","type":"Fire","power":"40","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_I"}

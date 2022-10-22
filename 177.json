@@ -67,5 +67,5 @@
 ,{"category":"변화","move":"심플빔","type":"Normal","power":"—","accuracy":"100"}
 ,{"category":"물리","move":"기습","type":"Dark","power":"70","accuracy":"100"}]
 ,"tutor":[{"category":"물리","move":"Dual Wingbeat","type":"Flying","power":"40","accuracy":"90"}
-,{"category":"특수","move":"Expanding Force","type":"Psychic","power":"80","accuracy":"100"}]
+,{"category":"특수","move":"와이드포스","type":"Psychic","power":"80","accuracy":"100"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_II"}

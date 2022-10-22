@@ -87,6 +87,6 @@
 ,{"category":"변화","move":"물붓기","type":"Water","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"초음파","type":"Normal","power":"—","accuracy":"55"}
 ,{"category":"변화","move":"간지르기","type":"Normal","power":"—","accuracy":"100"}]
-,"tutor":[{"category":"특수","move":"Misty Explosion","type":"Fairy","power":"100","accuracy":"100"}
+,"tutor":[{"category":"특수","move":"미스트버스트","type":"Fairy","power":"100","accuracy":"100"}
 ,{"category":"물리","move":"아이언롤러","type":"Steel","power":"130","accuracy":"100"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_II"}

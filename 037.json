@@ -83,5 +83,5 @@
 ,{"category":"변화","move":"최면술","type":"Psychic","power":"—","accuracy":"60"}
 ,{"category":"변화","move":"추억의선물","type":"Dark","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"울부짖기","type":"Normal","power":"—","accuracy":"—"}]
-,"tutor":[{"category":"특수","move":"Burning Jealousy","type":"Fire","power":"70","accuracy":"100"}]
+,"tutor":[{"category":"특수","move":"질투의불꽃","type":"Fire","power":"70","accuracy":"100"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_I"}

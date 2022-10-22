@@ -61,5 +61,5 @@
 {"technicalRecord":92,"category":"특수","move":"매지컬샤인","type":"Fairy","power":"80","accuracy":"100"}]
 ,"egg":[{"category":"변화","move":"저주","type":"Ghost","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"치유소원","type":"Psychic","power":"—","accuracy":"—"}]
-,"tutor":[{"category":"특수","move":"Expanding Force","type":"Psychic","power":"80","accuracy":"100"}]
+,"tutor":[{"category":"특수","move":"와이드포스","type":"Psychic","power":"80","accuracy":"100"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_V"}
