@@ -68,7 +68,7 @@
 ,"type":"Normal","power":"—","accuracy":"85"}
 ,{"category":"변화","move":"간지르기"
 ,"type":"Normal","power":"—","accuracy":"100"}]
-,"tutor":[{"category":"물리","move":"Lash Out"
+,"tutor":[{"category":"물리","move":"분풀이"
 ,"type":"Dark","power":"75","accuracy":"100"}
 ,{"category":"특수","move":"라이징볼트"
 ,"type":"Electric","power":"70","accuracy":"100"}]

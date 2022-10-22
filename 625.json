@@ -71,6 +71,6 @@
 ,"type":"Fighting","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"기습"
 ,"type":"Dark","power":"70","accuracy":"100"}]
-,"tutor":[{"category":"물리","move":"Lash Out"
+,"tutor":[{"category":"물리","move":"분풀이"
 ,"type":"Dark","power":"75","accuracy":"100"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_V"}

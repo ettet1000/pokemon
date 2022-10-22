@@ -96,5 +96,5 @@
 ,{"category":"물리","move":"돌진","type":"Normal","power":"90","accuracy":"85"}
 ,{"category":"변화","move":"고민씨","type":"Grass","power":"—","accuracy":"100"}]
 ,"tutor":[{"category":"물리","move":"Grassy Glide","type":"Grass","power":"70","accuracy":"100"}
-,{"category":"물리","move":"Lash Out","type":"Dark","power":"75","accuracy":"100"}]
+,{"category":"물리","move":"분풀이","type":"Dark","power":"75","accuracy":"100"}]
 ,"evolution":[{"category":"특수","move":"그래스믹서","type":"Grass","power":"65","accuracy":"90"}],"preEvolution":[]},"generation":"GENERATION_III"}

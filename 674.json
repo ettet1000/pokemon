@@ -73,6 +73,6 @@
 ,"type":"Fighting","power":"60","accuracy":"100"}]
 ,"tutor":[{"category":"변화","move":"Coaching"
 ,"type":"Fighting","power":"—","accuracy":"—"}
-,{"category":"물리","move":"Lash Out"
+,{"category":"물리","move":"분풀이"
 ,"type":"Dark","power":"75","accuracy":"100"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VI"}

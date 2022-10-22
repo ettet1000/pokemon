@@ -62,5 +62,5 @@
 ,"egg":[{"category":"물리","move":"신속","type":"Normal","power":"80","accuracy":"100"}
 ,{"category":"변화","move":"심플빔","type":"Normal","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"간지르기","type":"Normal","power":"—","accuracy":"100"}]
-,"tutor":[{"category":"물리","move":"Lash Out","type":"Dark","power":"75","accuracy":"100"}]
+,"tutor":[{"category":"물리","move":"분풀이","type":"Dark","power":"75","accuracy":"100"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_III"}

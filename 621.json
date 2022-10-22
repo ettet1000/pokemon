@@ -70,7 +70,7 @@
 ,"type":"Dark","power":"70","accuracy":"100"}]
 ,"tutor":[{"category":"물리","move":"Dual Wingbeat"
 ,"type":"Flying","power":"40","accuracy":"90"}
-,{"category":"물리","move":"Lash Out"
+,{"category":"물리","move":"분풀이"
 ,"type":"Dark","power":"75","accuracy":"100"}
 ,{"category":"물리","move":"Scale Shot"
 ,"type":"Dragon","power":"25","accuracy":"90"}]

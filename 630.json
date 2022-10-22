@@ -59,7 +59,7 @@
 ,"type":"Poison","power":"—","accuracy":"90"}]
 ,"tutor":[{"category":"물리","move":"Dual Wingbeat"
 ,"type":"Flying","power":"40","accuracy":"90"}
-,{"category":"물리","move":"Lash Out"
+,{"category":"물리","move":"분풀이"
 ,"type":"Dark","power":"75","accuracy":"100"}]
 ,"evolution":[{"category":"물리","move":"본러쉬"
 ,"type":"Ground","power":"25","accuracy":"90"}],"preEvolution":[]},"generation":"GENERATION_V"}

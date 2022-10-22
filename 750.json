@@ -58,6 +58,6 @@
 ,"type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"떨어뜨리기"
 ,"type":"Rock","power":"50","accuracy":"100"}]
-,"tutor":[{"category":"물리","move":"Lash Out"
+,"tutor":[{"category":"물리","move":"분풀이"
 ,"type":"Dark","power":"75","accuracy":"100"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VII"}

@@ -84,6 +84,6 @@
 ,{"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"}
 ,{"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}
 ,{"category":"변화","move":"날려버리기","type":"Normal","power":"—","accuracy":"—"}]
-,"tutor":[{"category":"물리","move":"Lash Out","type":"Dark","power":"75","accuracy":"100"}
+,"tutor":[{"category":"물리","move":"분풀이","type":"Dark","power":"75","accuracy":"100"}
 ,{"category":"물리","move":"Skitter Smack","type":"Bug","power":"70","accuracy":"90"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_IV"}

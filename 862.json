@@ -92,7 +92,7 @@
 ,"type":"Dark","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"퍼스트가드"
 ,"type":"Fighting","power":"—","accuracy":"—"}]
-,"tutor":[{"category":"물리","move":"Lash Out"
+,"tutor":[{"category":"물리","move":"분풀이"
 ,"type":"Dark","power":"75","accuracy":"100"}]
 ,"evolution":[{"category":"변화","move":"블로킹"
 ,"type":"Dark","power":"—","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_VIII"}

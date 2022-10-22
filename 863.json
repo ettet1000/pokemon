@@ -74,7 +74,7 @@
 ,"type":"Dark","power":"70","accuracy":"100"}
 ,{"category":"변화","move":"원한"
 ,"type":"Ghost","power":"—","accuracy":"100"}]
-,"tutor":[{"category":"물리","move":"Lash Out"
+,"tutor":[{"category":"물리","move":"분풀이"
 ,"type":"Dark","power":"75","accuracy":"100"}]
 ,"evolution":[{"category":"물리","move":"아이언헤드"
 ,"type":"Steel","power":"80","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_VIII"}

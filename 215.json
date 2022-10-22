@@ -76,6 +76,6 @@
 ,{"category":"물리","move":"얼음뭉치","type":"Ice","power":"40","accuracy":"100"}
 ,{"category":"물리","move":"고드름떨구기","type":"Ice","power":"85","accuracy":"90"}
 ,{"category":"변화","move":"원한","type":"Ghost","power":"—","accuracy":"100"}]
-,"tutor":[{"category":"물리","move":"Lash Out","type":"Dark","power":"75","accuracy":"100"}
+,"tutor":[{"category":"물리","move":"분풀이","type":"Dark","power":"75","accuracy":"100"}
 ,{"category":"물리","move":"Triple Axel","type":"Ice","power":"20","accuracy":"90"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_II"}

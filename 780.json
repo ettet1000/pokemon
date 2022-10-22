@@ -74,7 +74,7 @@
 ,"type":"Ice","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"간지르기"
 ,"type":"Normal","power":"—","accuracy":"100"}]
-,"tutor":[{"category":"물리","move":"Lash Out"
+,"tutor":[{"category":"물리","move":"분풀이"
 ,"type":"Dark","power":"75","accuracy":"100"}
 ,{"category":"물리","move":"Scale Shot"
 ,"type":"Dragon","power":"25","accuracy":"90"}]

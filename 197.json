@@ -80,5 +80,5 @@
 ,{"category":"변화","move":"간지르기","type":"Normal","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"희망사항","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"하품","type":"Normal","power":"—","accuracy":"—"}]
-,"tutor":[{"category":"물리","move":"Lash Out","type":"Dark","power":"75","accuracy":"100"}]
+,"tutor":[{"category":"물리","move":"분풀이","type":"Dark","power":"75","accuracy":"100"}]
 ,"evolution":[{"category":"특수","move":"바크아웃","type":"Dark","power":"55","accuracy":"95"}],"preEvolution":[]},"generation":"GENERATION_II"}

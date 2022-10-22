@@ -68,6 +68,6 @@
 ,"type":"Normal","power":"—","accuracy":"100"}]
 ,"tutor":[{"category":"특수","move":"Expanding Force"
 ,"type":"Psychic","power":"80","accuracy":"100"}
-,{"category":"물리","move":"Lash Out"
+,{"category":"물리","move":"분풀이"
 ,"type":"Dark","power":"75","accuracy":"100"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VI"}

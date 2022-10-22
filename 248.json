@@ -109,5 +109,5 @@
 ,"egg":[{"category":"특수","move":"원시의힘","type":"Rock","power":"60","accuracy":"100"}
 ,{"category":"변화","move":"저주","type":"Ghost","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"짓밟기","type":"Normal","power":"65","accuracy":"100"}]
-,"tutor":[{"category":"물리","move":"Lash Out","type":"Dark","power":"75","accuracy":"100"}]
+,"tutor":[{"category":"물리","move":"분풀이","type":"Dark","power":"75","accuracy":"100"}]
 ,"evolution":[],"preEvolution":[]},"generation":"GENERATION_II"}
