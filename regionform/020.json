@@ -64,7 +64,7 @@
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/019.png",
 "thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/019.png",
 "type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],
-"baseStats":{"hp":55,"attack":81,"defense":60,"spAtk":50,"spDef":70,"speed":97,"total":413},"cards":[{
+"baseStats":{"hp":75,"attack":71,"defense":70,"spAtk":40,"spDef":80,"speed":77,"total":413},"cards":[{
 "number":"144",
 "name":"레트라",
 "expansionName":"Unbroken Bonds",

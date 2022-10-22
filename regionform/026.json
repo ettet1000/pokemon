@@ -24,7 +24,7 @@
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/172.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/172.png","type":"FIRST"},{"number":"025","name":"피카츄",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/025.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/025.png","type":"MIDDLE",
 "requirement":"친밀도가 220 이상일 때"}],"nextEvolutions":[],"superEvolutions":[],
-"baseStats":{"hp":60,"attack":90,"defense":55,"spAtk":90,"spDef":80,"speed":110,"total":485},"cards":[{"number":"50","name":"라이츄","expansionName":"Evolving Skies",
+"baseStats":{"hp":60,"attack":85,"defense":50,"spAtk":95,"spDef":85,"speed":110,"total":485},"cards":[{"number":"50","name":"라이츄","expansionName":"Evolving Skies",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/026/SWSH7_EN_50.png"},{"number":"66","name":"라이츄","expansionName":"Sword & Shield",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/026/SWSH1_EN_66.png"},{"number":"67","name":"라이츄","expansionName":"Cosmic Eclipse",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/026/SM12_EN_67.png"},{"number":"20","name":"라이츄-GX","expansionName":"Hidden Fates",
