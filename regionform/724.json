@@ -13,8 +13,8 @@
 "typesEffectiveness":{
 "Normal":"1","Fire":"2","Water":"½","Electric":"½","Grass":"½","Ice":"2","Fighting":"1","Poison":"2","Ground":"½","Flying":"4","Psychic":"2","Bug":"1","Rock":"½","Ghost":"1","Dragon":"1","Dark":"½","Steel":"1","Fairy":"2"},"evolutionChain":[{"number":"722","name":"나몰빼미",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/722.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/722.png","type":"FIRST"},{"number":"723","name":"빼미스로우",
-"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/723.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/723.png","type":"MIDDLE","requirement":"Level 17"},{"number":"724","name":"모크나이퍼",
-"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/724.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/724.png","type":"LAST","requirement":"Level 34"}],"previousEvolutions":[{"number":"722","name":"나몰빼미",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/723.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/723.png","type":"MIDDLE","requirement":"Level 17"},{"number":"1036","name":"모크나이퍼",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/724.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/724.png","type":"LAST","requirement":"Level 36, 히스이지방에서"}],"previousEvolutions":[{"number":"722","name":"나몰빼미",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/722.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/722.png"
 ,"type":"FIRST"},{"number":"723","name":"빼미스로우",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/723.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/723.png"
