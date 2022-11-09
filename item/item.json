@@ -2643,13 +2643,13 @@
       "name": "여울소금",
       "imageUrl": "https://img.pokemondb.net/sprites/items/shoal-salt.png",
       "category": "일반 항목",
-      "effect": "Shoal Cave 깊숙한 곳에서 발견할 수 있는 순수한 소금. 미치광이는 비싼 값에 살 것입니다."
+      "effect": "여울의 동굴 깊숙한 곳에서 발견할 수 있는 순수한 소금. 미치광이는 비싼 값에 살 것입니다."
     },
     {
       "name": "여울조개껍질",
       "imageUrl": "https://img.pokemondb.net/sprites/items/shoal-shell.png",
       "category": "일반 항목",
-      "effect": "Shoal Cave 깊숙한 곳에서 볼 수 있는 예쁜 조개껍데기. 상점에 고가에 팔 수 있다."
+      "effect": "여울의 동굴 깊숙한 곳에서 볼 수 있는 예쁜 조개껍데기. 상점에 고가에 팔 수 있다."
     },
     {
       "name": "번개카세트",
